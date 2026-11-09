@@ -1,4 +1,9 @@
+# Raw agent transcripts — large and noisy, but kept locally for debugging.
 data/logs/
+
+# Per-day snapshots of the feed; the current state lives in data/feed.json
+# and data/history.json, which IS tracked.
 data/archive/
+
 __pycache__/
 *.pyc

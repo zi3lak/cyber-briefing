@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T17:28:51.692113+00:00",
+ "generated": "2026-11-09T17:38:50.162435+00:00",
  "date": "2026-11-09",
  "buckets": {
   "ransomware": [
@@ -173,7 +173,7 @@
     },
     "hash": "44a9e4ba0719fa8e",
     "first_seen": "2026-11-09T16:26:42.598704+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Ukraine dismantles crypto scam network that stole €4.3 million",
@@ -924,6 +924,18 @@
     "age_days": 0.1
    },
    {
+    "title": "Virtualization security: attack layers and misconfiguration impact",
+    "url": "https://securelist.com/virtualization-security-esxi-and-proxmox-ransomware-cases/121819/",
+    "summary": "A detailed breakdown of misconfigurations in virtual environment cybersecurity as shown by examples of ransomware cases on ESXi and Proxmox environments.",
+    "source": "Kaspersky Securelist",
+    "published": "2026-11-06T10:00:12+00:00",
+    "category": "ransomware",
+    "origin": "feed",
+    "hash": "16e38efda17a99ae",
+    "first_seen": "2026-11-09T17:38:50.162435+00:00",
+    "age_days": 0.0
+   },
+   {
     "title": "APT29's Watering Holes Target Thousands of Mobile Users",
     "url": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
     "summary": "After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones.",
@@ -971,7 +983,7 @@
     "origin": "feed",
     "hash": "8f734625b3c30ee8",
     "first_seen": "2026-11-09T16:26:42.598704+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Dark Web Seller Claims Coinbase, Binance High-Balance User List, Recruits Scam Callers - The Crypto Times",
@@ -1154,18 +1166,6 @@
     "age_days": 0.1
    },
    {
-    "title": "Pro-Russian Hackers Put Italy’s Tajani on Dark Web Target List of Hostile Figures - The SOFX Report",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXpSbV9UT3c5aEc1MTBYYzFRbUpPbWt3LVB1MlZzeE01T29ibDVIb3NoNFZoTXZVNU1kQnYwT3V1QVh1LWZFTGQ4a1kxelRob1lPUWVLUzFxSDFsVkVFVEFNN1V0X3g3RDYtVW5pQ2xKVjd6LVd3VTQxLXZsS3lybWxDeUZ0MUpxcm9BaXkyZTRTd1RrMUY0NjJXYlhpR0VWSVE0Tg?oc=5",
-    "summary": "Pro-Russian Hackers Put Italy’s Tajani on Dark Web Target List of Hostile Figures The SOFX Report",
-    "source": "GNews: darkweb",
-    "published": "2026-11-09T04:12:10+00:00",
-    "category": "darkweb",
-    "origin": "feed",
-    "hash": "bbe4b850dad532a8",
-    "first_seen": "2026-11-09T17:28:51.692113+00:00",
-    "age_days": 0.0
-   },
-   {
     "title": "DU student data leaked to dark web, fraudsters cash in - দৈনিক আগামীর সময়",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GT3pjR291QnpTZldJSlp6NlNTMWlvWmhqbFJ4Ukc0ZnJfa09oTkw5QzdYSnVsYW9Kd1MweWhYYzRZMWZJZTl2MDZEeFNud0RxMXExdFBFSHc3TEI0WTNtRGJ3LW5PcHB1VHBnVA?oc=5",
     "summary": "DU student data leaked to dark web, fraudsters cash in দৈনিক আগামীর সময়",
@@ -1294,6 +1294,18 @@
     "category": "darkweb",
     "origin": "feed",
     "hash": "26b54fe0e3a9c465",
+    "first_seen": "2026-11-09T16:12:53.633241+00:00",
+    "age_days": 0.1
+   },
+   {
+    "title": "Meloni blames pro-Russian hackers for cyberattack on foreign minister - Business Standard",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ2xQaWtUR3hkVFAzR3VUSFo5RUtBQmZUQVFGOW5RV2pMSnV1VG9Oc2x4QWVjWjA1VEVYcjZqZExsZUtQdUhVdV9sbXNLc0I3QmRlUWgtdDFnV09qbGhDajZqZWN2U05sdUlVeXREakl6cWZWQXVVdlJDdGdOem52SWFsN1M3cXZtYWhoNlRQSUZ5LWdtRlY1TTM3VGQ1S0dsR0N4a1NXVFd1dmxyT1RQaVM0LTQwZ05KZ3BnWklmMVl5UUVoRDhqVktwVWphTDDSAdQBQVVfeXFMT1hIZ0duTXAyWTIwM0ZJc2dwTkljTDdjMEtCdDN5dlRUNUVsLVA4Xy10eFVBQURxN1BKYkxXTlNrUnk4UkdEM3JsendwQXdWNE54MWNHUzVXcWJJeHZ4Zl9jNkUyd3cySm1hQjAyQTF0ZUlCZXZMby0zQ0RPczlSR0ZuYlN3dk9xTGNNZWdVcV9SeDZTTWpyUDJoeXl2dm8wbnZqeExSb2JKaUlKWFJldXVzVWQwejh6YXNXOXpwQWRzMk1uY0liYlpqUjZkSVRwbmNURmE?oc=5",
+    "summary": "Meloni blames pro-Russian hackers for cyberattack on foreign minister Business Standard",
+    "source": "GNews: darkweb",
+    "published": "2026-11-07T18:02:15+00:00",
+    "category": "darkweb",
+    "origin": "feed",
+    "hash": "76c95ae86f2d4c51",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
     "age_days": 0.1
    },
@@ -1573,7 +1585,7 @@
     "origin": "feed",
     "hash": "a4b701975c542247",
     "first_seen": "2026-11-09T16:26:42.598704+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Wirken: Open-source AI agent gateway",
@@ -2021,7 +2033,7 @@
     "origin": "feed",
     "hash": "50d94fad701a819a",
     "first_seen": "2026-11-09T16:26:42.598704+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
@@ -2458,6 +2470,18 @@
   ],
   "defense": [
    {
+    "title": "Four Quantum Machine Learning Models Assessed For Detecting IoT Intrusions - Quantum Zeitgeist",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONWhnM3NkUFBvc3lRNmx5QkZ0OFROWlpydmJESElvRnZhMUZlRTVrN3ZnempVckhpZ1dBRXlxc015QUxkZU5QUm5CN29NQTlVSmFVT0J3amVIMWFhdFBEVFNMSFFlR29WaWl1UC1Zc3BpQmk3ck1TZUVLTmZLejUwX0luZms1VHBicnc?oc=5",
+    "summary": "Four Quantum Machine Learning Models Assessed For Detecting IoT Intrusions Quantum Zeitgeist",
+    "source": "GNews: defense",
+    "published": "2026-11-09T17:32:49+00:00",
+    "category": "defense",
+    "origin": "feed",
+    "hash": "53d13547f2597d63",
+    "first_seen": "2026-11-09T17:38:50.162435+00:00",
+    "age_days": 0.0
+   },
+   {
     "title": "NIST: Solo Shouldn't Mean Less Secure",
     "url": "https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure",
     "summary": "New guidance provides a basic framework for less-technical solo business owners, but it may miss the mark on how to secure technology that requires no human oversight.",
@@ -2854,7 +2878,7 @@
   }
  ],
  "new_count": 2,
- "returning_count": 209,
- "total": 211,
+ "returning_count": 211,
+ "total": 213,
  "errors": []
 }

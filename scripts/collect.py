@@ -109,7 +109,11 @@ def categorise(text: str, fallback: str = "redteam") -> str:
 
 # ---------------------------------------------------------------- helpers
 def fetch(url: str, timeout: int = 25, headers: dict | None = None) -> bytes:
-    hdrs = {"User-Agent": UA, "Accept": "*/*"}
+    hdrs = {
+        "User-Agent": UA,
+        "Accept": "application/rss+xml, application/xml, text/xml, application/atom+xml, */*",
+        "Accept-Language": "en-US,en;q=0.9",
+    }
     if headers:
         hdrs.update(headers)
     req = urllib.request.Request(url, headers=hdrs)
@@ -459,7 +463,9 @@ FEEDS = [
     ("https://unit42.paloaltonetworks.com/feed/", "Unit 42", "actors"),
     ("https://blog.talosintelligence.com/rss/", "Cisco Talos", "exploits"),
     ("https://www.crowdstrike.com/en-us/blog/feed/", "CrowdStrike", "actors"),
-    ("https://cloud.google.com/blog/topics/threat-intelligence/rss/", "Google Cloud TI", "actors"),
+    ("https://securelist.com/feed/", "Kaspersky Securelist", "actors"),
+    ("https://www.sentinelone.com/labs/feed/", "SentinelOne Labs", "redteam"),
+    ("https://www.welivesecurity.com/en/rss/feed/", "ESET WeLiveSecurity", "redteam"),
     ("https://blog.qualys.com/feed", "Qualys", "exploits"),
     ("https://www.rapid7.com/blog/rss", "Rapid7", "tooling"),
     ("https://redcanary.com/blog/feed/", "Red Canary", "defense"),
