@@ -73,11 +73,15 @@ def main() -> int:
     out: list[dict] = []
     dropped = {"duplicate": 0, "url_dead": 0, "bad_format": 0}
     for f in sorted(INTEL_DIR.glob("*.md")):
+        if f.name.lower() == "readme.md":
+            continue
         agent = f.stem
         for ln in f.read_text().splitlines():
             ln = ln.strip()
             if not ln or ln.startswith("#"):
                 continue
+            if "|" not in ln:
+                continue  # the agent's verdict line, not a finding
             parts = [p.strip() for p in ln.split("|")]
             if len(parts) < 6:
                 dropped["bad_format"] += 1

@@ -47,12 +47,18 @@ always).
 
 ## The fleet
 
-| Agent | CLI | Beat |
+| Agent | CLI / provider | Beat |
 |---|---|---|
-| ATHENA | Claude Code (OpenRouter) | ransomware & extortion |
-| VULCAN | Codex | exploits, CVEs & red team tradecraft |
-| IRIS | Kimi Code (OpenRouter) | dark web underground |
-| PROMETHEUS | Claude Code (abliteration.ai) | threat actors & campaigns |
+| ATHENA | Claude Code / OpenRouter | ransomware & extortion |
+| VULCAN | Codex / OpenAI | exploits, CVEs & red team tradecraft |
+| IRIS | Kimi Code / Z.AI | dark web underground |
+| PROMETHEUS | Claude Code / abliteration.ai | threat actors & campaigns |
+| ORION | Claude Code / Z.AI | defence, patching & tooling |
+
+One provider per agent on purpose: a shared provider's in-flight credit limit
+rejects the second parallel request with `402 ... would exceed your available
+credits given your current in-flight requests`. Every agent also has a
+fallback command chain, and the runner retries with backoff.
 
 ## Run it
 

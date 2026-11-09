@@ -94,18 +94,39 @@ CLAUDE = ["claude", "-p", "--model", "sonnet", "--permission-mode", "acceptEdits
 CLAUDE_ABL = ["claude", "-p", "--settings", "/home/cssltd/.claude-abliteration/settings.json"]
 KIMI = ["kimi", "-p"]
 KIMI_OR = ["kimi", "-m", "openrouter/kimi-k3", "-p"]
+KIMI_ZAI = ["kimi", "-m", "zai/glm-4.7", "-p"]
 # ORION: NanoGPT has no credit balance ("Credit balance is too low") and
 # Kimi's WebSearch token is rejected, so ORION runs Claude Code against the
 # Z.AI GLM endpoint instead — same CLI family as ATHENA, different model.
 CLAUDE_ZAI = ["claude", "-p", "--settings", "/home/cssltd/.claude-zai/settings.json"]
 CODEX = ["codex", "exec", "--skip-git-repo-check"]
 
+# One provider per agent on purpose: OpenRouter's in-flight credit limit
+# rejects the second parallel request with "402 ... would exceed your
+# available credits given your current in-flight requests".
+#
+#   ATHENA     claude / OpenRouter  (sonnet)
+#   VULCAN     codex  / OpenAI 1P
+#   IRIS       kimi   / Z.AI        (glm-4.7)
+#   PROMETHEUS claude / abliteration.ai
+#   ORION      claude / Z.AI        (glm-5.3)
+#
+# Fallbacks exist for every agent: if the primary fails, the next command
+# is tried before the agent is reported as down.
 AGENT_CMD = {
     "athena": CLAUDE,
     "vulcan": CODEX,
-    "iris": KIMI_OR,
+    "iris": KIMI_ZAI,
     "prometheus": CLAUDE_ABL,
     "orion": CLAUDE_ZAI,
+}
+
+AGENT_FALLBACK = {
+    "athena": [CLAUDE_ZAI],
+    "vulcan": [CLAUDE],
+    "iris": [KIMI_OR],
+    "prometheus": [CLAUDE],
+    "orion": [CLAUDE],
 }
 
 TIMEOUT = 900
@@ -160,30 +181,39 @@ def run_agent(beat: dict, attempt: int = 1) -> dict:
     INTEL.mkdir(parents=True, exist_ok=True)
     LOGS.mkdir(parents=True, exist_ok=True)
     prompt = SYSTEM.format(beat=beat["beat"], focus=beat["focus"])
-    cmd = AGENT_CMD[name] + [prompt]
+    commands = [AGENT_CMD[name]] + AGENT_FALLBACK.get(name, [])
     env = dict(os.environ)
     env.setdefault("HOME", str(Path.home()))
     # Providers that price by reserved output reject the request with an empty
     # `provider.api_error` when max_tokens is too high. Cap it.
     env["KIMI_MODEL_MAX_OUTPUT_SIZE"] = "3000"
     env["KIMI_MODEL_MAX_COMPLETION_TOKENS"] = "3000"
+    # OpenRouter rejects a request whose reserved max_tokens exceeds the
+    # remaining credit: "402 ... You requested up to 64000 tokens, but can
+    # only afford 58637". Cap Claude Code's output budget.
+    env["CLAUDE_CODE_MAX_OUTPUT_TOKENS"] = "16000"
     print(f"[council] {name} -> {beat['beat']}", file=sys.stderr)
-    try:
-        p = subprocess.run(
-            cmd,
-            cwd=str(ROOT),
-            env=env,
-            capture_output=True,
-            text=True,
-            timeout=TIMEOUT,
-        )
-        raw = (p.stdout or "") + ("\n" + (p.stderr or "") if p.returncode else "")
-    except subprocess.TimeoutExpired:
-        raw = ""
-        print(f"[council] {name} TIMEOUT", file=sys.stderr)
-    except Exception as e:
-        raw = ""
-        print(f"[council] {name} error {e}", file=sys.stderr)
+    raw = ""
+    for cmd in commands:
+        try:
+            p = subprocess.run(
+                cmd + [prompt],
+                cwd=str(ROOT),
+                env=env,
+                capture_output=True,
+                text=True,
+                timeout=TIMEOUT,
+            )
+            raw = (p.stdout or "") + ("\n" + (p.stderr or "") if p.returncode else "")
+        except subprocess.TimeoutExpired:
+            raw = ""
+            print(f"[council] {name} TIMEOUT on {cmd[0]}", file=sys.stderr)
+        except Exception as e:
+            raw = ""
+            print(f"[council] {name} error {e}", file=sys.stderr)
+        if parse_findings(clean_output(raw)):
+            break
+        print(f"[council] {name} no findings via {cmd[0]} — trying fallback", file=sys.stderr)
 
     text = clean_output(raw)
     (LOGS / f"{name}.log").write_text(raw[-20000:])

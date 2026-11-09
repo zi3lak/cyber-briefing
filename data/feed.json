@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T17:18:40.441192+00:00",
+ "generated": "2026-11-09T17:28:51.692113+00:00",
  "date": "2026-11-09",
  "buckets": {
   "ransomware": [
@@ -13,7 +13,7 @@
     "origin": "feed",
     "hash": "bb92b3218e049045",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
@@ -25,7 +25,7 @@
     "origin": "feed",
     "hash": "5760ccb4d66351a6",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "FBI agent stole $2.5 million in crypto from hackers under investigation",
@@ -37,7 +37,7 @@
     "origin": "feed",
     "hash": "ebb1bc6f6d7fa97f",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Revolve Puts Data Breach Victim Count at 1.5 Million - SecurityWeek",
@@ -49,7 +49,7 @@
     "origin": "feed",
     "hash": "7cf720c1438c2e38",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
@@ -61,7 +61,7 @@
     "origin": "feed",
     "hash": "09c03b3a3676da32",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: Johnson Development Corp. (??) claimed by AURORA",
@@ -93,7 +93,7 @@
     },
     "hash": "4e5c816005e42b68",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: unknown victim (??) claimed by N0N",
@@ -109,7 +109,7 @@
     },
     "hash": "b2a825414e8034b2",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: unknown victim (NL) claimed by N0N",
@@ -185,7 +185,7 @@
     "origin": "feed",
     "hash": "369a6628730eb03c",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Company #196 Ransomware Attack by N0n - SOCRadar",
@@ -197,7 +197,7 @@
     "origin": "feed",
     "hash": "db2bc6eb504d4f49",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: jtksolutions.com (US) claimed by MORPHEUS",
@@ -213,7 +213,7 @@
     },
     "hash": "9c3a6a37434e250b",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: www.jhtechno.co.kr/en (KR) claimed by METAENCRYPTOR",
@@ -229,7 +229,7 @@
     },
     "hash": "5040d0fa90645693",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: www.greentechrenewables.com (US) claimed by METAENCRYPTOR",
@@ -245,7 +245,7 @@
     },
     "hash": "c37f86bb4f1a96e5",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "RansomLook.io interview: tracking ransomware worldwide - TARNKAPPE.INFO",
@@ -257,7 +257,7 @@
     "origin": "feed",
     "hash": "005c7cebbc4bd4be",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: rrh.org (??) claimed by SCARLETTGROUP",
@@ -273,7 +273,7 @@
     },
     "hash": "529a02f75c19c4b3",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: unknown victim (CA) claimed by N0N",
@@ -289,7 +289,7 @@
     },
     "hash": "aef1210247f4e9d6",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: unknown victim (GB) claimed by N0N",
@@ -305,7 +305,7 @@
     },
     "hash": "8c64d048d3efbad5",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "News - Australian healthcare provider suffers ransomware attack, patient records stolen - teiss",
@@ -317,7 +317,7 @@
     "origin": "feed",
     "hash": "8622018f3df7c910",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: unknown victim (ZA) claimed by N0N",
@@ -333,7 +333,7 @@
     },
     "hash": "bd5fc5a605134e8c",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: unknown victim (DK) claimed by N0N",
@@ -349,7 +349,7 @@
     },
     "hash": "c9a7026cf1524abd",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: unknown victim (HK) claimed by N0N",
@@ -365,7 +365,7 @@
     },
     "hash": "6c6f18049b48cbb7",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: unknown victim (SA) claimed by N0N",
@@ -381,7 +381,7 @@
     },
     "hash": "4583b0f88dd452bf",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: unknown victim (FR) claimed by N0N",
@@ -397,7 +397,7 @@
     },
     "hash": "d130bce2415fac65",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: UNIC Technology (Thailand) Co., Ltd (TH) claimed by KRYBIT",
@@ -413,7 +413,7 @@
     },
     "hash": "0a26ac5f3d5f845c",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: www.tasteofasia.com.hk (HK) claimed by KRYBIT",
@@ -429,7 +429,7 @@
     },
     "hash": "1df909fa322f0c88",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: citicpacific.com (HK) claimed by KRYBIT",
@@ -445,7 +445,7 @@
     },
     "hash": "7ee36b12938d697b",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: niclibya.com (LY) claimed by KRYBIT",
@@ -461,7 +461,7 @@
     },
     "hash": "8330219c16695512",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: sumoteks.com (??) claimed by KRYBIT",
@@ -477,7 +477,7 @@
     },
     "hash": "e942a63acbeb28bb",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "The BBC has a plan for a Black Sky event, and it runs on FM radio",
@@ -489,7 +489,7 @@
     "origin": "feed",
     "hash": "728516fdeff6ab38",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Is Zscaler (NASDAQ:ZS) Emerging As A Leading Growth Stock In Cloud Security? - Kalkine Media",
@@ -501,7 +501,7 @@
     "origin": "feed",
     "hash": "6789e055b61b9bf5",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: unknown victim (??) claimed by ANUBIS",
@@ -517,7 +517,7 @@
     },
     "hash": "302314d943457520",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: unknown victim (PL) claimed by PANZER",
@@ -533,7 +533,7 @@
     },
     "hash": "e074a1dc08d9a113",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: www.ie-e.com (US) claimed by OROVA",
@@ -549,7 +549,7 @@
     },
     "hash": "6cf8bc1bc64ca692",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: unknown victim (US) claimed by N0N",
@@ -565,7 +565,7 @@
     },
     "hash": "03ddd8a5cef4e33b",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: starmark.co.th (TH) claimed by LOCKBIT5",
@@ -581,7 +581,7 @@
     },
     "hash": "88bfe4682da76fde",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: grupotelles.com (BR) claimed by LOCKBIT5",
@@ -597,7 +597,7 @@
     },
     "hash": "1ed6e08479861e82",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: yatra.com (IN) claimed by LOCKBIT5",
@@ -613,7 +613,7 @@
     },
     "hash": "81a3c20db098f93b",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: sunclinicallaboratories.com (US) claimed by LOCKBIT5",
@@ -629,7 +629,7 @@
     },
     "hash": "620a9d2148854025",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: unknown victim (DE) claimed by BARRACUDA",
@@ -645,7 +645,7 @@
     },
     "hash": "d57c1643493f994c",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: www.fidex.com.mx (MX) claimed by DEADLOCK",
@@ -661,7 +661,7 @@
     },
     "hash": "ebdf6b1d078144d7",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: home.nosetea.com (US) claimed by DEADLOCK",
@@ -677,7 +677,7 @@
     },
     "hash": "b138f3478a10805f",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: coopebis.coop (CR) claimed by DEADLOCK",
@@ -693,7 +693,7 @@
     },
     "hash": "44a8f1805efb51ad",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Don’t Hand Propaganda a Gift: Reading the Brenner Base Tunnel SE Breach Calmly",
@@ -705,7 +705,7 @@
     "origin": "feed",
     "hash": "e9cd482f25d44141",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: globalair.com.sg (SG) claimed by ECLIPSE",
@@ -721,7 +721,7 @@
     },
     "hash": "dc659de1fd5b8813",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: trinitycustom.com (US) claimed by DEADLOCK",
@@ -737,7 +737,7 @@
     },
     "hash": "d232e3eb7e01a70a",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: www.chonlatee.com (TH) claimed by DEADLOCK",
@@ -753,7 +753,7 @@
     },
     "hash": "ce9f3524daa2476c",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: kadickintegrated.com (US) claimed by DEADLOCK",
@@ -769,7 +769,7 @@
     },
     "hash": "59b247ff4274830f",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Security Affairs newsletter Round 603 by Pierluigi Paganini – INTERNATIONAL EDITION",
@@ -781,7 +781,7 @@
     "origin": "feed",
     "hash": "0ceb16ba25f69af9",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Japan Emergency Cybersecurity Package: ¥10B Plan [2026] - shattered.io",
@@ -793,7 +793,7 @@
     "origin": "feed",
     "hash": "e558111b774c18f1",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: q-technicians.be (BE) claimed by INCRANSOM",
@@ -809,7 +809,7 @@
     },
     "hash": "52353f56ce002cce",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: bpcm.com (US) claimed by INCRANSOM",
@@ -825,7 +825,7 @@
     },
     "hash": "a97ad261707c21b6",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: www.bogard.com.mx (MX) claimed by INCRANSOM",
@@ -841,7 +841,7 @@
     },
     "hash": "41966f7f02a07844",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: unknown victim (CO) claimed by WHITEARMOR",
@@ -857,7 +857,7 @@
     },
     "hash": "645bb5a68e5f42ee",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LEAK SITE: unknown victim (US) claimed by BYOD",
@@ -873,7 +873,7 @@
     },
     "hash": "f9cab1cbb0c1b5ec",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Inside ARTEX: AI Hacking Tools, Exposed Servers and South Korean Bank Breaches",
@@ -885,7 +885,7 @@
     "origin": "feed",
     "hash": "68d77411a6de9288",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Hackers pull off $133 million French bank heist via service provider",
@@ -897,7 +897,7 @@
     "origin": "feed",
     "hash": "2cfb8ae184731e87",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Certificate authority DigiCert reports data breach involving business customer info",
@@ -909,7 +909,7 @@
     "origin": "feed",
     "hash": "aa2449de12ea46de",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
@@ -921,7 +921,7 @@
     "origin": "feed",
     "hash": "8ce52b04eae8e750",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "APT29's Watering Holes Target Thousands of Mobile Users",
@@ -933,7 +933,7 @@
     "origin": "feed",
     "hash": "89a75dcffc9352a1",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    }
   ],
   "darkweb": [
@@ -959,7 +959,7 @@
     "origin": "feed",
     "hash": "9b173881b4e1a937",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Critical Infrastructure Under Siege, From Freezers to Wider OT - SOCRadar",
@@ -983,7 +983,7 @@
     "origin": "feed",
     "hash": "b6ee2ceb3dd129e7",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Only 26% of Americans Pass This Online Scam Quiz. Can You? - money.com",
@@ -995,7 +995,7 @@
     "origin": "feed",
     "hash": "e542b3c47618dc87",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Pro-Russian hackers target European officials, offer rewards for personal information - The Record from Recorded Future News",
@@ -1007,7 +1007,7 @@
     "origin": "feed",
     "hash": "a6cafe5d9775ea41",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Pro-Russian hackers target European officials, offer rewards for personal information",
@@ -1019,7 +1019,7 @@
     "origin": "feed",
     "hash": "cc334416fb155d14",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Prosecutors open probe into publication of Tajani's personal data on dark web - ANSA",
@@ -1031,7 +1031,7 @@
     "origin": "feed",
     "hash": "222fadce62f3788a",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Italy's Meloni Blames Pro-Russian Hackers for Leak of Foreign Minister's Data on the Dark Web - SecurityWeek",
@@ -1043,7 +1043,7 @@
     "origin": "feed",
     "hash": "ba763018c20f3595",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "IT Industry News & Trends - IT Brew",
@@ -1055,7 +1055,7 @@
     "origin": "feed",
     "hash": "d33a1d135d60bdf7",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Pro-Russian Hackers Targeted Italy's Foreign Minister on the Dark Web. He Forced G7 to Address Attacks NATO Cannot Stop. - Tech Times",
@@ -1067,7 +1067,7 @@
     "origin": "feed",
     "hash": "5d1b31410b44369b",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "$133 million stolen from French bank via exploited service provider",
@@ -1079,7 +1079,7 @@
     "origin": "feed",
     "hash": "bcaa209886ea11b4",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "NoName057(16) doxxes 18 EU officials on Tor site - Cybernews",
@@ -1091,7 +1091,7 @@
     "origin": "feed",
     "hash": "22cf7472a256af98",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Product showcase: What the Malwarebytes Claude connector reveals about unexpected texts",
@@ -1103,7 +1103,7 @@
     "origin": "feed",
     "hash": "e4260b84a9aa09ce",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Shadows of the Night - Film Threat",
@@ -1115,7 +1115,7 @@
     "origin": "feed",
     "hash": "811883d61e16bf00",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Fake GitHub Security Tools Infect Over 2,000 PCs With Malware",
@@ -1127,7 +1127,7 @@
     "origin": "feed",
     "hash": "600247a9be8bd3d7",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Dia in the hackers’ sights; alleged anti-Mafia files on sale on the dark web: ‘222 MB archive’ - Il Sole 24 ORE",
@@ -1139,7 +1139,7 @@
     "origin": "feed",
     "hash": "a7677bed62900b99",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "An average of 8 minutes is all hackers need to log in with stolen credentials",
@@ -1151,6 +1151,18 @@
     "origin": "feed",
     "hash": "1342d3eacaba95ae",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
+    "age_days": 0.1
+   },
+   {
+    "title": "Pro-Russian Hackers Put Italy’s Tajani on Dark Web Target List of Hostile Figures - The SOFX Report",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXpSbV9UT3c5aEc1MTBYYzFRbUpPbWt3LVB1MlZzeE01T29ibDVIb3NoNFZoTXZVNU1kQnYwT3V1QVh1LWZFTGQ4a1kxelRob1lPUWVLUzFxSDFsVkVFVEFNN1V0X3g3RDYtVW5pQ2xKVjd6LVd3VTQxLXZsS3lybWxDeUZ0MUpxcm9BaXkyZTRTd1RrMUY0NjJXYlhpR0VWSVE0Tg?oc=5",
+    "summary": "Pro-Russian Hackers Put Italy’s Tajani on Dark Web Target List of Hostile Figures The SOFX Report",
+    "source": "GNews: darkweb",
+    "published": "2026-11-09T04:12:10+00:00",
+    "category": "darkweb",
+    "origin": "feed",
+    "hash": "bbe4b850dad532a8",
+    "first_seen": "2026-11-09T17:28:51.692113+00:00",
     "age_days": 0.0
    },
    {
@@ -1163,7 +1175,7 @@
     "origin": "feed",
     "hash": "99c2f3ac0669d6b8",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Pro-Kremlin hacktivists dox EU politicians, law enforcement - Risky Business Newsletters",
@@ -1175,7 +1187,7 @@
     "origin": "feed",
     "hash": "510b9d4d324370b4",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Italian FM says hackers posted his data on dark web for backing Ukraine - TVP World",
@@ -1187,7 +1199,7 @@
     "origin": "feed",
     "hash": "d6f39360d28ac05f",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
@@ -1199,7 +1211,7 @@
     "origin": "feed",
     "hash": "50a4294d81fa5b79",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Italy blames pro-Russian hackers for leaking Tajani’s personal data - The Next Web",
@@ -1211,7 +1223,7 @@
     "origin": "feed",
     "hash": "bfabb32903bf9998",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Giorgia Meloni blames pro-Russian hackers for leaking foreign minister’s personal data to dark web - The Hill",
@@ -1223,7 +1235,7 @@
     "origin": "feed",
     "hash": "1acf57a993b388a6",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Hacked school files 'cannot easily be removed' from dark web - Bristol Live",
@@ -1235,7 +1247,7 @@
     "origin": "feed",
     "hash": "f85fb8d2b18b1828",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Italian Foreign Minister Antonio Tajani’s Personal Data Sold On Dark Web By ‘Pro-Russian’ Hackers -What We Know - The Sunday Guardian",
@@ -1247,7 +1259,7 @@
     "origin": "feed",
     "hash": "fdce0149417c491c",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Govt sounds urgent hacking alert, calls for immediate security fixes - The Daily Star",
@@ -1259,7 +1271,7 @@
     "origin": "feed",
     "hash": "5ef951c596edf625",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "A woman with 1,150 demerit points led us to a black market in plain sight - ABC News & Headlines – Australian Broadcasting Corporation",
@@ -1271,7 +1283,7 @@
     "origin": "feed",
     "hash": "d13a3a3c05c6037c",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Italy's Meloni blames pro-Russian hackers after foreign minister's data leak - WION",
@@ -1283,19 +1295,7 @@
     "origin": "feed",
     "hash": "26b54fe0e3a9c465",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
-   },
-   {
-    "title": "Meloni blames pro-Russian hackers for cyberattack on foreign minister - Business Standard",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ2xQaWtUR3hkVFAzR3VUSFo5RUtBQmZUQVFGOW5RV2pMSnV1VG9Oc2x4QWVjWjA1VEVYcjZqZExsZUtQdUhVdV9sbXNLc0I3QmRlUWgtdDFnV09qbGhDajZqZWN2U05sdUlVeXREakl6cWZWQXVVdlJDdGdOem52SWFsN1M3cXZtYWhoNlRQSUZ5LWdtRlY1TTM3VGQ1S0dsR0N4a1NXVFd1dmxyT1RQaVM0LTQwZ05KZ3BnWklmMVl5UUVoRDhqVktwVWphTDDSAdQBQVVfeXFMT1hIZ0duTXAyWTIwM0ZJc2dwTkljTDdjMEtCdDN5dlRUNUVsLVA4Xy10eFVBQURxN1BKYkxXTlNrUnk4UkdEM3JsendwQXdWNE54MWNHUzVXcWJJeHZ4Zl9jNkUyd3cySm1hQjAyQTF0ZUlCZXZMby0zQ0RPczlSR0ZuYlN3dk9xTGNNZWdVcV9SeDZTTWpyUDJoeXl2dm8wbnZqeExSb2JKaUlKWFJldXVzVWQwejh6YXNXOXpwQWRzMk1uY0liYlpqUjZkSVRwbmNURmE?oc=5",
-    "summary": "Meloni blames pro-Russian hackers for cyberattack on foreign minister Business Standard",
-    "source": "GNews: darkweb",
-    "published": "2026-11-07T18:02:15+00:00",
-    "category": "darkweb",
-    "origin": "feed",
-    "hash": "76c95ae86f2d4c51",
-    "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Italian Foreign Minister Reports Dark Web Leak, Seeks G7 Cyber Talks - The 420.in",
@@ -1307,7 +1307,7 @@
     "origin": "feed",
     "hash": "e69e490e96a77714",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "ARTEX abuse expands as cybercriminals target financial sector - Microsoft",
@@ -1319,7 +1319,7 @@
     "origin": "feed",
     "hash": "60507c1fa0b9d191",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Fake security tools on GitHub push backdoors and infostealers",
@@ -1331,7 +1331,7 @@
     "origin": "feed",
     "hash": "c7c4fa8b21870e55",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
@@ -1343,7 +1343,7 @@
     "origin": "feed",
     "hash": "277048c0baf53f0c",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    }
   ],
   "exploits": [
@@ -1357,7 +1357,7 @@
     "origin": "feed",
     "hash": "371ae1c60ebdd9f3",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Warning: Actively exploited CVE-2026-19868 affects SonicWall SonicOS SSLVPN, Patch Immediately! - CCB Belgium",
@@ -1369,7 +1369,7 @@
     "origin": "feed",
     "hash": "c1a209f2c2667369",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Warning: Actively exploited CVE-2026-114713 affects UnrealIRCd, Patch Immediately! - CCB Belgium",
@@ -1381,7 +1381,7 @@
     "origin": "feed",
     "hash": "f5039e5d68ec66b7",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "QNAP Warns Users as Plex2Shell Flaws Are Used to Hack NAS Devices",
@@ -1393,7 +1393,7 @@
     "origin": "feed",
     "hash": "2981a4116f4dcf2b",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Alleged AI-aided cyberattack exploits assistant interface to breach German web host",
@@ -1405,7 +1405,7 @@
     "origin": "feed",
     "hash": "bb992cbdf412ccc4",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "The Expanding Attack Surface Demands a New Operating Model",
@@ -1417,7 +1417,7 @@
     "origin": "feed",
     "hash": "e5b098cf6d03eab2",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
@@ -1429,7 +1429,7 @@
     "origin": "feed",
     "hash": "d7bc89de6fe0a74a",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More - The Hacker News",
@@ -1441,7 +1441,7 @@
     "origin": "feed",
     "hash": "a3f4404f0e608b37",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Trio accused of using deepfake CEOs and bogus lawyers to scam businesses out of $129 million",
@@ -1453,7 +1453,7 @@
     "origin": "feed",
     "hash": "4a43c144f11ead8a",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "CISA Warns of SonicWall SonicOS SSLVPN Vulnerability Exploited in Attacks - CyberSecurityNews",
@@ -1465,7 +1465,7 @@
     "origin": "feed",
     "hash": "89a876b63fd35531",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
@@ -1477,7 +1477,7 @@
     "origin": "feed",
     "hash": "bf2fa158432ae2b8",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Exploited SonicWall SSL-VPN flaw lets attackers bypass SAML-enforced MFA (CVE-2026-19868)",
@@ -1489,7 +1489,7 @@
     "origin": "feed",
     "hash": "f5c66ba291ded444",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Exploited SonicWall SSL-VPN flaw lets attackers bypass SAML-enforced MFA (CVE-2026-19868) - Help Net Security",
@@ -1501,7 +1501,7 @@
     "origin": "feed",
     "hash": "753e3113a3103682",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
@@ -1513,7 +1513,7 @@
     "origin": "feed",
     "hash": "c8514fce7f6dc465",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "SonicWall CVE-2026-19868, exploited SSLVPN flaw - Meteora Web",
@@ -1525,7 +1525,7 @@
     "origin": "feed",
     "hash": "20343986aaf1c9a0",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "SonicWall Warns of Actively Exploited SSL-VPN Vulnerability That Bypasses SAML and MFA Protection - GBHackers News",
@@ -1537,7 +1537,7 @@
     "origin": "feed",
     "hash": "bb5e60657a57fe46",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
@@ -1549,7 +1549,7 @@
     "origin": "feed",
     "hash": "32fbf76592ccaba1",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
@@ -1561,7 +1561,7 @@
     "origin": "feed",
     "hash": "b985c19cc74d2dca",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation - The Hacker News",
@@ -1585,7 +1585,7 @@
     "origin": "feed",
     "hash": "1840e14fd561f281",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Companies seeking an MSP doubt their ability to spot cyberattacks",
@@ -1597,7 +1597,7 @@
     "origin": "feed",
     "hash": "1f5e6b411ba9aa3d",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "SonicWall SonicOS CVE-2026-19868: Exploited SSLVPN Flaw Can Bypass SAML-Enforced MFA - Rescana",
@@ -1609,7 +1609,7 @@
     "origin": "feed",
     "hash": "a88487e9e7348cbb",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 7",
@@ -1621,7 +1621,7 @@
     "origin": "feed",
     "hash": "e955ef4af818388f",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Attackers Exploit Third-Party Provider to Raid French Bank Crédit Mutuel Arkéa",
@@ -1633,7 +1633,7 @@
     "origin": "feed",
     "hash": "c12a446bf9dc4e8a",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "SonicWall Warns of Potential In-the-Wild Exploitation of SSLVPN Flaw That Bypasses MFA - CyberSecurityNews",
@@ -1645,7 +1645,7 @@
     "origin": "feed",
     "hash": "e81c38350a8b5764",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
@@ -1657,7 +1657,7 @@
     "origin": "feed",
     "hash": "ee6d9deb57ffea9b",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
@@ -1669,7 +1669,7 @@
     "origin": "feed",
     "hash": "b4f18d3e67fbc648",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "CVE-2026-123158 | OpenSSH musl Password Authentication Bypass & Remote Code Execution Vulnerability (*sshole)",
@@ -1681,7 +1681,7 @@
     "origin": "feed",
     "hash": "7696157d0c4d3f5f",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
@@ -1693,7 +1693,7 @@
     "origin": "feed",
     "hash": "9f9b660941705c64",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "GHSA GHSA-47w9-6r3f-938g: LXD has restricted project bypass leading to arbitrary command execution",
@@ -1709,7 +1709,7 @@
     },
     "hash": "337c64959a48bafc",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "GHSA GHSA-7mr3-28h5-m5vx: LXD has project restriction bypass for custom volume copy across projects",
@@ -1725,7 +1725,7 @@
     },
     "hash": "f2c0b4009967d483",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "GHSA GHSA-qx75-2p3r-pwm5: LXD has project restriction bypass in instance copy across projects",
@@ -1741,7 +1741,7 @@
     },
     "hash": "0c562ca82781ff7f",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "GHSA GHSA-r4hm-p9f9-fj9v: GeoNode has Stored XSS in Documents metadata abstract field",
@@ -1757,7 +1757,7 @@
     },
     "hash": "75e7afff48858746",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "GHSA GHSA-fqpv-mq26-pr4j: GeoNode has Unrestricted File Upload",
@@ -1773,7 +1773,7 @@
     },
     "hash": "7dc3f8bff10ed3ce",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "GHSA GHSA-9fpx-fr6j-2vh6: GeoNode has OS command injection via uploaded file layer name",
@@ -1789,7 +1789,7 @@
     },
     "hash": "0fb885ca4954f777",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "GHSA GHSA-j93m-3j9p-m5m8: LXD has CreateCustomVolumeFromBackup nil-pointer dereference on volumes[0].snapshots[*].expires_at",
@@ -1805,7 +1805,7 @@
     },
     "hash": "c773c3308a59328b",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "GHSA GHSA-pjff-c2wc-f6jm: LXD has arbitrary file write on client due to trusted image hash",
@@ -1821,7 +1821,7 @@
     },
     "hash": "3b5b25e8f8738577",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "GHSA GHSA-fmc8-p6q7-75cc: LXD has argument injection in backup compression algorithm leading to AFW and ACE",
@@ -1837,7 +1837,7 @@
     },
     "hash": "309429ec3775e8e6",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "GHSA GHSA-vghh-5rfx-xhq8: LXD has arbitrary file read+write on host via rootfs/ symlink in malicious image",
@@ -1853,7 +1853,7 @@
     },
     "hash": "5201930aea8e50e0",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "How to detect and patch a Log4J vulnerability? - IBM",
@@ -1865,7 +1865,7 @@
     "origin": "feed",
     "hash": "604d2f14dc1288e1",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "GHSA GHSA-jpf8-86f3-wp38: LXD has arbitrary file read+write on host via templates/ symlink in malicious image",
@@ -1881,7 +1881,7 @@
     },
     "hash": "cb9ef3d252565dac",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "GHSA GHSA-9j25-mm2h-2f76: LXD has arbitrary file write on host via `exec-output` symlink in crafted image",
@@ -1897,7 +1897,7 @@
     },
     "hash": "964b24ccb590b0de",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "GHSA GHSA-3gq2-x4qg-p4g6: LXD: SSRF via image import from URL allows internal network probing by authenticated users",
@@ -1913,7 +1913,7 @@
     },
     "hash": "11338bcb450e3ccf",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "GHSA GHSA-xgjr-7j9q-2h4r: listmonk: SQL Injection in `/api/subscribers/export` bypasses table access control, leaking admin password hashes and SMTP credentials",
@@ -1929,7 +1929,7 @@
     },
     "hash": "63b46d51c1d5c859",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "GHSA GHSA-5w5g-j6hw-6p8f: OSAC operator: Kubeconfig credential-plugin execution and SSRF in console proxy",
@@ -1945,7 +1945,7 @@
     },
     "hash": "0d255cec29ff0f9d",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "GHSA GHSA-92r3-p8c2-3fpx: Eclipse hawkBit DDI has Privilege Escalation that allows Tenant-Isolated Firmware Exfiltration",
@@ -1961,7 +1961,7 @@
     },
     "hash": "d076303d37ab62b2",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
@@ -1973,7 +1973,7 @@
     "origin": "feed",
     "hash": "822902b0ab44d262",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
@@ -1985,7 +1985,7 @@
     "origin": "feed",
     "hash": "f28e98739ef4fcee",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
@@ -1997,7 +1997,7 @@
     "origin": "feed",
     "hash": "cd8a0545c6c10bc5",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
@@ -2009,7 +2009,7 @@
     "origin": "feed",
     "hash": "d01b9c75e0a42a44",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Metasploit Wrapup: Unauth RCE modules in Network Perimeter Devices and much more",
@@ -2033,7 +2033,7 @@
     "origin": "feed",
     "hash": "d5f13995f89510f4",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
@@ -2045,7 +2045,7 @@
     "origin": "feed",
     "hash": "ef4b55be4bd37f0f",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -2057,7 +2057,7 @@
     "origin": "feed",
     "hash": "9a58a746ab4ad0be",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
@@ -2069,7 +2069,7 @@
     "origin": "feed",
     "hash": "905f72d5c753aa90",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "KEV: CVE-2026-19868 — SonicWall SonicOS SSLVPN",
@@ -2085,7 +2085,7 @@
     },
     "hash": "bcf379358f0eae2e",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Bring a tent, I've got the coffee: Lessons from it-sa",
@@ -2097,7 +2097,7 @@
     "origin": "feed",
     "hash": "3ff0fca35ab13253",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "GHSA GHSA-m5ph-mmg5-6w5h: filecoin-pin: Unbounded DAG pinning can exhaust server resources",
@@ -2113,7 +2113,7 @@
     },
     "hash": "6a159cf26944c86b",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "GHSA GHSA-64vx-6h2c-rjh7: Banks: Unsafe importlib.import_module of attacker-controlled Tool.import_path in CompletionExtension allows RCE",
@@ -2129,7 +2129,7 @@
     },
     "hash": "4cb9f46d7944319f",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "GHSA GHSA-5q7h-w9jf-cx97: kaniko can send the build's Azure (Entra ID) access token to lookalike ACR registry hosts",
@@ -2145,7 +2145,7 @@
     },
     "hash": "cb36fe0ebc479f0b",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "GHSA GHSA-hhf9-qw4v-72xp: lxd allows Cross-guest volume hijack via DevLXD device patch",
@@ -2161,7 +2161,7 @@
     },
     "hash": "36575b6e20e93774",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    }
   ],
   "redteam": [
@@ -2175,7 +2175,7 @@
     "origin": "feed",
     "hash": "62184cde17321783",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
@@ -2187,7 +2187,7 @@
     "origin": "feed",
     "hash": "1886b71ab27e556c",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
@@ -2199,7 +2199,7 @@
     "origin": "feed",
     "hash": "c44449112ac99799",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Canadian Webmail Access, US Bank Dump, Peru Leak, Spencer’s Breach, and ZoomInfo Sale - SOCRadar",
@@ -2211,7 +2211,7 @@
     "origin": "feed",
     "hash": "79caeb74d4ec9cda",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Metrics That Matter: Are We Becoming Harder to Attack?",
@@ -2223,7 +2223,7 @@
     "origin": "feed",
     "hash": "2f810b04b1dfcdc5",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Methods for Handling Non-Compliance in Randomized Trials - Bioengineer.org",
@@ -2235,7 +2235,7 @@
     "origin": "feed",
     "hash": "e9b6ef782f34e63a",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "AI-Powered Phishing Emails: The New Threat That's Hard to Detect - Vocal",
@@ -2247,7 +2247,7 @@
     "origin": "feed",
     "hash": "eee3b084bbc21db3",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
@@ -2259,7 +2259,7 @@
     "origin": "feed",
     "hash": "23e240a1a7796c1b",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "AI Gave Your Incident Archive a Second Job",
@@ -2271,7 +2271,7 @@
     "origin": "feed",
     "hash": "a649e4e837437b9e",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Why Europe's Freezer Hacks Spread So Far, So Fast",
@@ -2283,7 +2283,7 @@
     "origin": "feed",
     "hash": "fc01e5b22d3e55f2",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "The Flood is Coming And The Pipes Were Already Full",
@@ -2295,7 +2295,7 @@
     "origin": "feed",
     "hash": "63f99ac29810d50f",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "UK Warns Its Critical Infrastructure Faces Grave Risk",
@@ -2307,7 +2307,7 @@
     "origin": "feed",
     "hash": "2111d188058a8199",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
@@ -2319,7 +2319,7 @@
     "origin": "feed",
     "hash": "8f92d5d8ac2d3351",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Operação de influência russa tem como alvo generalizado a América Latina",
@@ -2331,7 +2331,7 @@
     "origin": "feed",
     "hash": "bad1f8424913ef77",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "US Government Email Systems Open to Abuse Thanks to Typos",
@@ -2343,7 +2343,7 @@
     "origin": "feed",
     "hash": "e9d2dc70727c4091",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "What We Missed: Knicks Phishing Test Goes Out of Bounds",
@@ -2355,10 +2355,22 @@
     "origin": "feed",
     "hash": "bd0347d6147e5d57",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    }
   ],
   "actors": [
+   {
+    "title": "PwC's CISO on AI, Robots & What's Next for Security",
+    "url": "https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security",
+    "summary": "As AI accelerates change across the enterprise, PwC's James Shira explains why security teams must rethink their approach to risk and adapt their strategies.",
+    "source": "Dark Reading",
+    "published": "2026-11-09T17:17:23+00:00",
+    "category": "actors",
+    "origin": "feed",
+    "hash": "dec4bb256ce9db8f",
+    "first_seen": "2026-11-09T17:28:51.692113+00:00",
+    "age_days": 0.0
+   },
    {
     "title": "Ukraine arrests four in $5 million crypto scam targeting Germans",
     "url": "https://therecord.media/ukraine-arrests-scam-call-centers-germany",
@@ -2369,7 +2381,7 @@
     "origin": "feed",
     "hash": "3751577afcf9b712",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Hackers abuse refrigeration controllers to send spam and route proxy traffic",
@@ -2381,7 +2393,7 @@
     "origin": "feed",
     "hash": "07799f5456de82cd",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Engineers Adapt Vision AI to Detect Deep Foundation Pit Structural Defects - Bioengineer.org",
@@ -2393,7 +2405,7 @@
     "origin": "feed",
     "hash": "8a97476d0d6da054",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
@@ -2405,7 +2417,7 @@
     "origin": "feed",
     "hash": "f1327ead8ca41ca8",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Binance Calls 335.9M User Record Breach Claim a Likely Scam - The Crypto Times",
@@ -2417,7 +2429,7 @@
     "origin": "feed",
     "hash": "89d0f93c4b8ef8b1",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 122",
@@ -2429,7 +2441,7 @@
     "origin": "feed",
     "hash": "420ad79f56fbe19f",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Medical services company settles with 4 states over 2023 hack of sensitive patient records",
@@ -2441,7 +2453,7 @@
     "origin": "feed",
     "hash": "10a2b526e2df928e",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    }
   ],
   "defense": [
@@ -2455,7 +2467,7 @@
     "origin": "feed",
     "hash": "77675ac92c13bde3",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Hybrid AI Model Detects Pavement Distress with High Accuracy - Bioengineer.org",
@@ -2467,7 +2479,7 @@
     "origin": "feed",
     "hash": "b874929f839946c3",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Engineered Lavender Biochar Enables Sensitive Room-Temperature Ethylene Glycol Detection - Bioengineer.org",
@@ -2479,7 +2491,7 @@
     "origin": "feed",
     "hash": "d9155ce54f219a83",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "CISA and the FBI Warn Of Attacks against Industrial Refrigeration Controllers",
@@ -2491,7 +2503,7 @@
     "origin": "feed",
     "hash": "baaeafd72c002114",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Cyberattacks Without Malware: What Is “Living Off the Land” and How to Detect It - Telefónica",
@@ -2503,7 +2515,7 @@
     "origin": "feed",
     "hash": "af01e0a591402058",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Towards Practical AI Inspection of Coated Wood Surfaces - European Coatings",
@@ -2515,7 +2527,7 @@
     "origin": "feed",
     "hash": "0cfc767db01220dc",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Reverse Engineering Malware: What It Is and Where It Stops - Buttondown",
@@ -2527,7 +2539,7 @@
     "origin": "feed",
     "hash": "ddf2530b120c7aea",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Durga Narayana Varma Addepalli on Building Safer and More Reliable AI-Driven Cloud Systems - Analytics Insight",
@@ -2539,7 +2551,7 @@
     "origin": "feed",
     "hash": "2aa0fa69cecbc199",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "New sensing technology targets faster detection of microplastics in drinking water - Water Magazine",
@@ -2551,7 +2563,7 @@
     "origin": "feed",
     "hash": "5dd9d0569018ef08",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "New Sequencing Method Detects Cancer DNA in Blood - Bioengineer.org",
@@ -2563,7 +2575,7 @@
     "origin": "feed",
     "hash": "6a60a39ccc1e2c6a",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Review Finds Gaps in Cloud Intrusion Detection Research - Bioengineer.org",
@@ -2575,7 +2587,7 @@
     "origin": "feed",
     "hash": "88dee4f686de4aaa",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Collaborative Neural Network Enhances Bridge Defect Detection at Low Computational Cost - Bioengineer.org",
@@ -2587,7 +2599,7 @@
     "origin": "feed",
     "hash": "27ac0a3dc1928f0d",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "BIM and Graph Optimization Improve Underground Pipeline Positioning - Bioengineer.org",
@@ -2599,7 +2611,7 @@
     "origin": "feed",
     "hash": "11a4045f9d5465d5",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "AI Model Improves Pediatric Arrhythmia Detection Using Custom ECG Data - Bioengineer.org",
@@ -2611,7 +2623,7 @@
     "origin": "feed",
     "hash": "aae0526d877a957b",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Two-Layer Aptamer Architecture Enables Visual Detection of Small Molecules - Bioengineer.org",
@@ -2623,7 +2635,7 @@
     "origin": "feed",
     "hash": "4faba8843490075d",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "New Feature Method Boosts Coal Mine Object Detection - Bioengineer.org",
@@ -2635,7 +2647,7 @@
     "origin": "feed",
     "hash": "44ebd29907f07a52",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Spectroscopic Technology Advances Agricultural Product Quality and Food Safety Detection Systems - Bioengineer.org",
@@ -2647,7 +2659,7 @@
     "origin": "feed",
     "hash": "f8f6baef5272591d",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Cross-Layer Coupled Random Walks Improve Community Detection in Multilayer Networks - Bioengineer.org",
@@ -2659,7 +2671,7 @@
     "origin": "feed",
     "hash": "e2a352171f235372",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "5G ISAC and Drone Detection: From Experimental Sensing to 6G Multi-Domain Surveillance - https://debuglies.com",
@@ -2671,7 +2683,7 @@
     "origin": "feed",
     "hash": "26d4a17c852cd7f1",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "New Model Detects Anomalies in Complex Network Data - Bioengineer.org",
@@ -2683,7 +2695,7 @@
     "origin": "feed",
     "hash": "0a0b307852d757e4",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Genetic Algorithms Optimize Carbon Nanotube Sensors for Nuclear Ammonia Gas Detection - Bioengineer.org",
@@ -2695,7 +2707,7 @@
     "origin": "feed",
     "hash": "062f342559cc3d8e",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Adaptive Reduced Basis Trust Region Methods Accelerate Complex Parameter Identification - Bioengineer.org",
@@ -2707,7 +2719,7 @@
     "origin": "feed",
     "hash": "f9a259184f1ab328",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration Systems",
@@ -2719,7 +2731,7 @@
     "origin": "feed",
     "hash": "42c943724f07ff18",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "From SOC to AI-SOC: Why security operations must evolve for the AI era - IBM",
@@ -2731,7 +2743,7 @@
     "origin": "feed",
     "hash": "5f0e0593bd0bfbac",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "FortiSIEM Logs: How to Export and Analyze - SOC Prime",
@@ -2743,7 +2755,7 @@
     "origin": "feed",
     "hash": "9d3f458cc30b0071",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    }
   ],
   "tooling": [
@@ -2757,7 +2769,7 @@
     "origin": "feed",
     "hash": "a0a2aad759873339",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
@@ -2769,7 +2781,7 @@
     "origin": "feed",
     "hash": "4fa4c9409611dd6c",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
@@ -2781,7 +2793,7 @@
     "origin": "feed",
     "hash": "dbc8958787567960",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    },
    {
     "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
@@ -2793,7 +2805,7 @@
     "origin": "feed",
     "hash": "c88ce15c84f52029",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
+    "age_days": 0.1
    }
   ]
  },
@@ -2841,8 +2853,8 @@
    "blurb": "New toys for the rack, the red cell and the basement."
   }
  ],
- "new_count": 0,
- "returning_count": 210,
- "total": 210,
+ "new_count": 2,
+ "returning_count": 209,
+ "total": 211,
  "errors": []
 }
