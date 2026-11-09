@@ -1,10 +1,10 @@
 {
- "at": "2026-11-09T17:25:48.885917+00:00",
+ "at": "2026-11-09T17:36:13.321874+00:00",
  "results": [
   {
    "agent": "athena",
-   "ok": false,
-   "findings": 0
+   "ok": true,
+   "findings": 7
   },
   {
    "agent": "iris",
@@ -19,7 +19,7 @@
   {
    "agent": "prometheus",
    "ok": true,
-   "findings": 7
+   "findings": 9
   },
   {
    "agent": "vulcan",
