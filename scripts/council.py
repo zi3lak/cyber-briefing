@@ -93,9 +93,10 @@ CLAUDE = ["claude", "-p", "--model", "sonnet", "--permission-mode", "acceptEdits
 CLAUDE_ABL = ["claude", "-p", "--settings", "/home/cssltd/.claude-abliteration/settings.json"]
 KIMI = ["kimi", "-p"]
 KIMI_OR = ["kimi", "-m", "openrouter/kimi-k3", "-p"]
-# nanogpt/qwen3.8-max-prime returns empty content through the Kimi client —
-# claude-sonnet-5.5 on the same provider is the working ORION model.
-KIMI_NANO = ["kimi", "-m", "nanogpt/claude-sonnet-5.5", "-p"]
+# ORION: NanoGPT has no credit balance ("Credit balance is too low") and
+# Kimi's WebSearch token is rejected, so ORION runs Claude Code against the
+# Z.AI GLM endpoint instead — same CLI family as ATHENA, different model.
+CLAUDE_ZAI = ["claude", "-p", "--settings", "/home/cssltd/.claude-zai/settings.json"]
 CODEX = ["codex", "exec", "--skip-git-repo-check"]
 
 AGENT_CMD = {
@@ -103,7 +104,7 @@ AGENT_CMD = {
     "vulcan": CODEX,
     "iris": KIMI_OR,
     "prometheus": CLAUDE_ABL,
-    "orion": KIMI_NANO,
+    "orion": CLAUDE_ZAI,
 }
 
 TIMEOUT = 900
@@ -159,6 +160,10 @@ def run_agent(beat: dict) -> dict:
     cmd = AGENT_CMD[name] + [prompt]
     env = dict(os.environ)
     env.setdefault("HOME", str(Path.home()))
+    # Providers that price by reserved output reject the request with an empty
+    # `provider.api_error` when max_tokens is too high. Cap it.
+    env["KIMI_MODEL_MAX_OUTPUT_SIZE"] = "3000"
+    env["KIMI_MODEL_MAX_COMPLETION_TOKENS"] = "3000"
     print(f"[council] {name} -> {beat['beat']}", file=sys.stderr)
     try:
         p = subprocess.run(
