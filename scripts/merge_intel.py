@@ -35,6 +35,7 @@ BEAT_OF = {
     "vulcan": "exploits",
     "iris": "darkweb",
     "prometheus": "actors",
+    "orion": "defense",
 }
 
 

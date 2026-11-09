@@ -1,6 +1,20 @@
 # IRIS — DARK WEB UNDERGROUND
-BINANCE | FAKE SHINYHUNTERS PEDDLES 335M 'BINANCE RECORDS' | BleepingComputer | https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/ | Nov 9, 2026 | Some scallywag on a new crime forum wants $900k fer 335M Binance records, wallet keys included; Binance swears 'tis infostealer scrap an' even the forum rats be callin' it a scam.
-MEXC | US CUTS OFF MEXC OVER DARKNET AND RANSOMWARE FLOWS | BleepingComputer | https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/ | Nov 9, 2026 | FinCEN caught MEXC movin' $16B in dirty doubloons fer ransomware crews an' darknet markets, so the exchange's been tossed overboard from the US financial system.
-CHAINALYSIS | CHAINALYSIS BREACH SPILLS ALL CUSTOMER CREDENTIALS | BleepingComputer | https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/ | Nov 6, 2026 | The crew that hunts blockchain bandits got boarded themselves: password hashes an' live tokens fer every customer exposed, portal hauled offline whilst the keys get rotated.
-GITHUB | FAKE SECURITY TOOLS ON GITHUB DROP INFOSTEALERS | BleepingComputer | https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/ | Nov 6, 2026 | Booby-trapped 'security tools' on GitHub be slingin' AsyncRAT an' a stealer that ships browser loot, VPN configs an' Discord tokens to a Telegram bot, 2,000+ Windows decks already plundered.
-UKRAINE | UKRAINE BUSTS CRYPTO SCAM CALL-CENTER CREW | BleepingComputer | https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/ | Nov 9, 2026 | Ukrainian an' German law scuttled a pig-butchering flotilla that fleeced 135 Germans o' €4.3M through fake tradin' platforms; four rogues jailed, facin' 12 years in the brig.
+
+• UserPromptSubmit hook
+
+  main
+
+• Search tool is down (auth), so I'm pulling live news front pages directly. Let me gather more from other outlets.
+
+• DuckDuckGo HTML works as a search fallback. Running targeted past-week searches now.
+
+• Google News RSS works via curl. Pulling headlines from the past week for several queries.
+
+kimi version 2.5.2
+Warning: [loop_control] 'max_retries_per_step' is deprecated and no longer used; rename it to 'max_attempts_per_step'. Run /update-config to fix it.
+default_plan_mode is not applied in print mode, because Plan mode waits for your review.
+• Search the live web for dark web underground news in last 24-72 hours (around Nov 7-9, 2026). Let me run several searches.WebSearch failed due to auth issue. Try again or use FetchURL? Retry search.WebSearch tool is broken (auth). Try FetchURL on known news sources directly — e.g., BleepingComputer, The Record, SecurityWeek, Dark Reading. Let me fetch their recent articles pages.Good — I have BleepingComputer front page with several dark-web-relevant items:
+  1. Binance denies data breach after alleged ShinyHunters claims on a newly emerged underground cybercrime forum — Nov 9. Very on-beat (stolen data advertised on underground forum).
+  2. FBI agent stole $2.5M crypto from hackers — Nov 9. Tangential.
+  3. US bans MEXC crypto exchange over cybercrime links — Nov 9. Tangential (money laundering for cybercrime gangs).
+  4. Chainalysis breach exposed credentials for all customers — Nov 6 (72h bound

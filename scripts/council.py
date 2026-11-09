@@ -58,6 +58,15 @@ BEATS = [
             "insider and nation-state activity, and attribution news"
         ),
     },
+    {
+        "agent": "orion",
+        "beat": "DEFENCE, PATCHING & TOOLING",
+        "focus": (
+            "New detection engineering, EDR/SIEM techniques, hardening guidance, "
+            "newly released offensive and security tooling, and exploitable "
+            "vulnerability details that defenders need to act on today"
+        ),
+    },
 ]
 
 SYSTEM = """You are one voice of the CSSLTD daily cyber briefing. Your beat: {beat}.
@@ -84,6 +93,9 @@ CLAUDE = ["claude", "-p", "--model", "sonnet", "--permission-mode", "acceptEdits
 CLAUDE_ABL = ["claude", "-p", "--settings", "/home/cssltd/.claude-abliteration/settings.json"]
 KIMI = ["kimi", "-p"]
 KIMI_OR = ["kimi", "-m", "openrouter/kimi-k3", "-p"]
+# nanogpt/qwen3.8-max-prime returns empty content through the Kimi client —
+# claude-sonnet-5.5 on the same provider is the working ORION model.
+KIMI_NANO = ["kimi", "-m", "nanogpt/claude-sonnet-5.5", "-p"]
 CODEX = ["codex", "exec", "--skip-git-repo-check"]
 
 AGENT_CMD = {
@@ -91,6 +103,7 @@ AGENT_CMD = {
     "vulcan": CODEX,
     "iris": KIMI_OR,
     "prometheus": CLAUDE_ABL,
+    "orion": KIMI_NANO,
 }
 
 TIMEOUT = 900
@@ -187,7 +200,7 @@ def main() -> int:
     for f in INTEL.glob("*.md"):
         f.unlink()
     results = []
-    with cf.ThreadPoolExecutor(max_workers=4) as ex:
+    with cf.ThreadPoolExecutor(max_workers=5) as ex:
         futs = {ex.submit(run_agent, b): b for b in BEATS}
         for fut in cf.as_completed(futs):
             try:

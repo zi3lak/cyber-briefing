@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T16:26:42.598704+00:00",
+ "generated": "2026-11-09T16:37:25.812244+00:00",
  "date": "2026-11-09",
  "buckets": {
   "ransomware": [
@@ -13,6 +13,18 @@
     "origin": "feed",
     "hash": "bb92b3218e049045",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
+    "age_days": 0.0
+   },
+   {
+    "title": "Anubis Ransomware Hackers Deploy New Lindnor Backdoor and 13 Security-Killing Tools in U.S. Attack - CyberSecurityNews",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42ZHNBNnFQcVJMRlRrVlZRSllMUWw5TjVmWkdHTDJoMXE0STFEWEVONGpRZ3RodEZsa2JiU28tRzlzZEhGVXVVVWI2UWZ4clhpdE9jSF9HNldjdFNlQTd5NVF2Qi15TDMtdUZuRFVweDZLVnfSAXhBVV95cUxPeTk1TGxoaFlfR1JpcWdSeFlNODR0RjZtMG9xdElxaHR5a0REbDFjc2dPRHQ4bTNiRERXZDFNbXpCVjNVcjU5OE5NcnczMEMyUG5qS1puZTFpREpvekZKWU1uMlZMY3dSVDRoZHdNbkpsVWl3N21OMnA?oc=5",
+    "summary": "Anubis Ransomware Hackers Deploy New Lindnor Backdoor and 13 Security-Killing Tools in U.S. Attack CyberSecurityNews",
+    "source": "GNews: ransomware",
+    "published": "2026-11-09T15:32:15+00:00",
+    "category": "ransomware",
+    "origin": "feed",
+    "hash": "e5237e5c78a4bfcb",
+    "first_seen": "2026-11-09T16:37:25.812244+00:00",
     "age_days": 0.0
    },
    {
@@ -61,6 +73,54 @@
     "origin": "feed",
     "hash": "09c03b3a3676da32",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
+    "age_days": 0.0
+   },
+   {
+    "title": "LEAK SITE: unknown victim (US) claimed by N0N",
+    "url": "http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion",
+    "summary": "precision oncology diagnostics · United States | [PENDING EXPOSURE] | data: size unknown | discovered 2026-11-09 12:29 UTC",
+    "source": "ransomware.live",
+    "published": "2026-11-09T12:29:03.058169+00:00",
+    "category": "ransomware",
+    "origin": "api",
+    "extra": {
+     "group": "N0N",
+     "country": "US"
+    },
+    "hash": "4e5c816005e42b68",
+    "first_seen": "2026-11-09T16:12:53.633241+00:00",
+    "age_days": 0.0
+   },
+   {
+    "title": "LEAK SITE: unknown victim (IT) claimed by N0N",
+    "url": "http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion",
+    "summary": "pharmaceutical (respiratory, neonatology and rare diseases) · Italy | [PENDING EXPOSURE] | data: size unknown | discovered 2026-11-09 12:26 UTC",
+    "source": "ransomware.live",
+    "published": "2026-11-09T12:26:09.230085+00:00",
+    "category": "ransomware",
+    "origin": "api",
+    "extra": {
+     "group": "N0N",
+     "country": "IT"
+    },
+    "hash": "f8ecfd2e911391a0",
+    "first_seen": "2026-11-09T16:37:25.812244+00:00",
+    "age_days": 0.0
+   },
+   {
+    "title": "LEAK SITE: unknown victim (US) claimed by N0N",
+    "url": "http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion#v-159solutions",
+    "summary": "specialty pharma data analytics · United States | A specialty patient claims warehouse of 735,022,313 measured rows for the June 2025 reporting month: 143,771,725 pharmacy claims in the five part fact table plus a 13,652,923 row extract, 342,305,857 medical claims, 193,314,289 remittance adjustment records, and 887,647 patient records with birth years and gender; Client environments for at least seventeen specialty pharma manufacturers with named prescrib… | data: size unknown | discovered 2026-11-09 12:23 UTC",
+    "source": "ransomware.live",
+    "published": "2026-11-09T12:23:17.999394+00:00",
+    "category": "ransomware",
+    "origin": "api",
+    "extra": {
+     "group": "N0N",
+     "country": "US"
+    },
+    "hash": "41585585d655d7be",
+    "first_seen": "2026-11-09T16:37:25.812244+00:00",
     "age_days": 0.0
    },
    {
@@ -176,22 +236,6 @@
      "country": "??"
     },
     "hash": "529a02f75c19c4b3",
-    "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
-   },
-   {
-    "title": "LEAK SITE: unknown victim (US) claimed by N0N",
-    "url": "http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion",
-    "summary": "outdoor apparel retail · United States | [PENDING EXPOSURE] | data: size unknown | discovered 2026-11-09 10:54 UTC",
-    "source": "ransomware.live",
-    "published": "2026-11-09T10:54:00.312025+00:00",
-    "category": "ransomware",
-    "origin": "api",
-    "extra": {
-     "group": "N0N",
-     "country": "US"
-    },
-    "hash": "4e5c816005e42b68",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
     "age_days": 0.0
    },
@@ -732,6 +776,18 @@
     "age_days": 0.0
    },
    {
+    "title": "Why Kenya is now one of Africa’s top cybercrime targets and what it means for your M-Pesa - Parents Africa",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdm9KcFNQN2V5YVhqbkhya01uWmdZSkxnc1NLVU1lUEd5TnQ0a2dDY3N2dlNvYnFVeGlpNUo1Y0lNN3NnOE9pV0dZV2NEVDlEOV9TZmg1STR0SHB6SzB2NXRMcXB6MFNwN1k2UjB3WTY3TEVld0FDNVpqUHZZbHNVOEpmd3YyQktrZWZOUWZPOW5fUDNxYXVBaWQ0R1BRUVF1VWFwNTVvRVQyWlJNTTV5Sjc1X2pHQQ?oc=5",
+    "summary": "Why Kenya is now one of Africa’s top cybercrime targets and what it means for your M-Pesa Parents Africa",
+    "source": "GNews: ransomware",
+    "published": "2026-11-08T10:27:55+00:00",
+    "category": "ransomware",
+    "origin": "feed",
+    "hash": "6dacb0bc3cab7cbc",
+    "first_seen": "2026-11-09T16:37:25.812244+00:00",
+    "age_days": 0.0
+   },
+   {
     "title": "LEAK SITE: q-technicians.be (BE) claimed by INCRANSOM",
     "url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6aefdcbbe91d0d7b3f96a945",
     "summary": "full | data: size unknown | discovered 2026-11-08 03:49 UTC",
@@ -840,22 +896,6 @@
     "age_days": 0.0
    },
    {
-    "title": "LEAK SITE: by.zivor.co.il (IL) claimed by SAFEPAY",
-    "url": "http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/byzivorcoil/",
-    "summary": "The organization was established to provide an educational framework combining traditional Jewish studies, academic education and professional development. Its programs … | data: size unknown | discovered 2026-11-07 19:48 UTC",
-    "source": "ransomware.live",
-    "published": "2026-11-07T19:48:15.476860+00:00",
-    "category": "ransomware",
-    "origin": "api",
-    "extra": {
-     "group": "SAFEPAY",
-     "country": "IL"
-    },
-    "hash": "00c87d35ec73064d",
-    "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
-   },
-   {
     "title": "Hackers pull off $133 million French bank heist via service provider",
     "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
     "summary": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
@@ -864,134 +904,6 @@
     "category": "ransomware",
     "origin": "feed",
     "hash": "2cfb8ae184731e87",
-    "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
-   },
-   {
-    "title": "LEAK SITE: unknown victim (BR) claimed by RHYSIDA",
-    "url": "https://www.ransomware.live/id/VHJpYnVuYWwgZGUgSnVzdGljYSBkbyBFc3RhZG8gZGUgTWluYXMgR2VyYWlzQHJoeXNpZGE=",
-    "summary": "Tribunal de Justica do Estado de Minas Gerais | data: size unknown | discovered 2026-11-07 13:16 UTC",
-    "source": "ransomware.live",
-    "published": "2026-11-07T13:16:04.118621+00:00",
-    "category": "ransomware",
-    "origin": "api",
-    "extra": {
-     "group": "RHYSIDA",
-     "country": "BR"
-    },
-    "hash": "de4ee8d008f06855",
-    "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
-   },
-   {
-    "title": "LEAK SITE: unknown victim (DE) claimed by PAYLOAD",
-    "url": "http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/94ffd0d7-4945-485f-810d-b2c65fa98d47",
-    "summary": "Autohaus Arnold (vw-arnold.de) is a German automotive dealership and service provider based in Bavaria, primarily serving the Höchstadt an der Aisch region. The company operates as an authorized Volkswagen Group partner, offering sales of both new and pre-owned vehicles from brands like Volkswagen, Volkswagen Commercial Vehicles, and Audi. | data: size unknown | discovered 2026-11-07 13:15 UTC",
-    "source": "ransomware.live",
-    "published": "2026-11-07T13:15:06.266313+00:00",
-    "category": "ransomware",
-    "origin": "api",
-    "extra": {
-     "group": "PAYLOAD",
-     "country": "DE"
-    },
-    "hash": "13a3e3fac9037ab4",
-    "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
-   },
-   {
-    "title": "LEAK SITE: unknown victim (??) claimed by PAYLOAD",
-    "url": "http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/7df8f224-6ed9-43c8-903d-ea7418c26a71",
-    "summary": "Brauco is a German service company specializing in the cleaning, inspection, and trenchless rehabilitation of sewer and pipeline systems. The company operates a fleet of specialized equipment and serves private properties, industrial facilities, and municipal utility networks in Germany. Its range of services also includes hydrodynamic flushing, pipe video inspection, and the disposal of industrial waste. | data: size unknown | discovered 2026-11-07 13:13 UTC",
-    "source": "ransomware.live",
-    "published": "2026-11-07T13:13:44.569461+00:00",
-    "category": "ransomware",
-    "origin": "api",
-    "extra": {
-     "group": "PAYLOAD",
-     "country": "??"
-    },
-    "hash": "0f918b4a5026119d",
-    "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
-   },
-   {
-    "title": "LEAK SITE: unknown victim (DE) claimed by PAYLOAD",
-    "url": "http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/668e222b-a32f-4335-93f7-fd41aefa49aa",
-    "summary": "Schroers Ingenieure is a German engineering firm specializing in the design of structural systems and building physics. The company develops technical documentation for residential, commercial, and industrial buildings. Its services also include energy efficiency assessments, fire protection, and structural reliability analysis. | data: size unknown | discovered 2026-11-07 13:12 UTC",
-    "source": "ransomware.live",
-    "published": "2026-11-07T13:12:23.416578+00:00",
-    "category": "ransomware",
-    "origin": "api",
-    "extra": {
-     "group": "PAYLOAD",
-     "country": "DE"
-    },
-    "hash": "615f7e00837c303d",
-    "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
-   },
-   {
-    "title": "LEAK SITE: unknown victim (??) claimed by PAYLOAD",
-    "url": "http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/16435614-7d1b-41a0-b5c4-a1c4137ef373",
-    "summary": "Otto Stops (stops.de) is a German IT systems integrator (Systemhaus) headquartered in Neuss. The company designs, deploys, and maintains corporate IT infrastructure, including servers, workstations, and telephone networks. It also provides managed services, offering cybersecurity, cloud solutions, and monitoring for small and medium-sized businesses. | data: size unknown | discovered 2026-11-07 13:11 UTC",
-    "source": "ransomware.live",
-    "published": "2026-11-07T13:11:05.856725+00:00",
-    "category": "ransomware",
-    "origin": "api",
-    "extra": {
-     "group": "PAYLOAD",
-     "country": "??"
-    },
-    "hash": "b83b6e1fedc0660e",
-    "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
-   },
-   {
-    "title": "LEAK SITE: www.christiedigital.com (US) claimed by METAENCRYPTOR",
-    "url": "https://metacrpttdfpbm4qoxzcrqqgr6e6zafpazgxm72knmujw2mwvi34rwad.onion/0AFC:4ba2268c10f0b972700e2f48b42d8438c9de2a39d510ce287419865721a1d505/0AFC:3bd7919b0bed6b24056469655e68c31dc92862cd3bd3d077db2ecf65fc0e310ddedd8ffed9df250fa6f470d320ca86c9",
-    "summary": "We’re a global visual technologies company with a vision: helping our customers create brilliant and unforgettable experiences. Customers around the world rely on our solutions to help them do just that in cinema, large mega-events, and themed entertainment. Our technology, paired with the support of professional services to design, deploy and maintain installations, includes advanced RGB pure laser projectors, SDVoE technology, image processing, and LED… | data: size unknown | discovered 2026-11-07 11:43 UTC",
-    "source": "ransomware.live",
-    "published": "2026-11-07T11:43:20.420722+00:00",
-    "category": "ransomware",
-    "origin": "api",
-    "extra": {
-     "group": "METAENCRYPTOR",
-     "country": "US"
-    },
-    "hash": "e577f48f269558f7",
-    "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
-   },
-   {
-    "title": "LEAK SITE: daeahenc.co.kr/en (KR) claimed by METAENCRYPTOR",
-    "url": "https://metacrpttdfpbm4qoxzcrqqgr6e6zafpazgxm72knmujw2mwvi34rwad.onion/0AFC:600fae9a663ff422f5cbefba74db5bdff39a7f304aa832776d1f411176a0a683/0AFC:ef0cf9d9b0a162e55a8c10a6bf4eb02afbe23f49ce38add09e2be21b64588f5d",
-    "summary": "We have been expanding our business into high-tech industries, nuclear power plants, power plants, industrial environmental facilities, civil engineering and building construction, establishing ourselves as a trusted partner in global markets including the Middle East, Southeast Asia, and Europe. Data size: 100 GB Revenue: USD 491M | data: size unknown | discovered 2026-11-07 11:42 UTC",
-    "source": "ransomware.live",
-    "published": "2026-11-07T11:42:38.227744+00:00",
-    "category": "ransomware",
-    "origin": "api",
-    "extra": {
-     "group": "METAENCRYPTOR",
-     "country": "KR"
-    },
-    "hash": "7c0e5ec35ed2c162",
-    "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
-   },
-   {
-    "title": "LEAK SITE: daewon21.co.kr (KR) claimed by METAENCRYPTOR",
-    "url": "https://metacrpttdfpbm4qoxzcrqqgr6e6zafpazgxm72knmujw2mwvi34rwad.onion/0AFC:67d2a2edaf0095a5da02ddb39673f839a2e105270f999bba8f6c65fe220f2968/0AFC:1a14ab65a25880b74f1d91ec52456e5e1b79a80cd55b26b0abe82a4978876063928b417a6d77726d72d17711fc281640",
-    "summary": "DAEWON Chemical was established in 1974 and has grown to the leader of manufacturers of Polyurethane synthetic leather and wallpaper in Korea. Data size: — | data: size unknown | discovered 2026-11-07 11:41 UTC",
-    "source": "ransomware.live",
-    "published": "2026-11-07T11:41:54.887663+00:00",
-    "category": "ransomware",
-    "origin": "api",
-    "extra": {
-     "group": "METAENCRYPTOR",
-     "country": "KR"
-    },
-    "hash": "dceee86699d0ea55",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
     "age_days": 0.0
    },
@@ -1043,18 +955,6 @@
     "origin": "feed",
     "hash": "9b173881b4e1a937",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
-   },
-   {
-    "title": "Critical Infrastructure Under Siege, From Freezers to Wider OT - SOCRadar",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qQ1BvY0ppdGg0RWh6ZjF2STVDNUxwNkttaXVLcUYxN1pYWEgzOUQxLVZyWFhvVFRmLVFiUFdicnhRUi05eF94NS1GSHBlZHFsSTBUaTFIaEZXNU5vV2RMRjczOXNjODZlWnVzZ2l3?oc=5",
-    "summary": "Critical Infrastructure Under Siege, From Freezers to Wider OT SOCRadar",
-    "source": "GNews: darkweb",
-    "published": "2026-11-09T14:33:24+00:00",
-    "category": "darkweb",
-    "origin": "feed",
-    "hash": "8f734625b3c30ee8",
-    "first_seen": "2026-11-09T16:26:42.598704+00:00",
     "age_days": 0.0
    },
    {
@@ -1294,6 +1194,18 @@
     "category": "darkweb",
     "origin": "feed",
     "hash": "bfabb32903bf9998",
+    "first_seen": "2026-11-09T16:12:53.633241+00:00",
+    "age_days": 0.0
+   },
+   {
+    "title": "Giorgia Meloni blames pro-Russian hackers for leaking foreign minister’s personal data to dark web - The Hill",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOWZ5V00xU0RFejBRQlZobE5CWWlHcTVQUE9FTzN6WG1kY1ZCZ1pYRFoxZHd0QnVQN2JlSWkwQ3RNUG9XazJSTFpBY0VpSXk3TEJvVTlMU1hwMjh1NkZqVHRKdEh0eFpmcGtydnNtZ0tJTEFFd2RoX3FzbEd4cWxaZEJqWVNkc3lUYXBTYno1NNIBlAFBVV95cUxOOUFxcDVPbG03cGdNX0lOMnR3LTVLTHE3bXlxd0RzU20wSkZtSWNlRV9lSVA0TnJGSzRNWkNQVjI5MkkyTldkeEJMNElaS2w4VFhkLTZwWWo0bWg1WVR2c3hKVzNBTmJPTTVoUE11c1FOSlV1R2h5WEt4Vzc1cXd1dXBUejFvaTFCRGhLSkdnbmU1OWli?oc=5",
+    "summary": "Giorgia Meloni blames pro-Russian hackers for leaking foreign minister’s personal data to dark web The Hill",
+    "source": "GNews: darkweb",
+    "published": "2026-11-08T14:27:00+00:00",
+    "category": "darkweb",
+    "origin": "feed",
+    "hash": "1acf57a993b388a6",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
     "age_days": 0.0
    },
@@ -2782,6 +2694,18 @@
     "age_days": 0.0
    },
    {
+    "title": "Laser Shearography in FRP Composites Under ISO 8203-4:2025 - Inspenet",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Hd2prT0JEMk1JLW9wbkdscTJLNHVFc29fUXZtNkRFQ2Y5ZnZkenlEZncwdThEdzQxOEhHQmtDaUQ3Y29kZmNYMmh0NWprREVlSWhWMUlNaDhaSWE5TnZWNkdSbzN5alhUV295c2JSa0VlUk51YzhoelltbHdMVGc?oc=5",
+    "summary": "Laser Shearography in FRP Composites Under ISO 8203-4:2025 Inspenet",
+    "source": "GNews: defense",
+    "published": "2026-11-08T06:30:00+00:00",
+    "category": "defense",
+    "origin": "feed",
+    "hash": "d17de0e0001b87df",
+    "first_seen": "2026-11-09T16:12:53.633241+00:00",
+    "age_days": 0.0
+   },
+   {
     "title": "New urine test detects 95% of bladder cancer cases in study: What patients should know - The Indian Express",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR1k5ck9WaUZxekhYLWxyN3JiODNDdHMtaUM0X2U4QVVzR1Uteno0cmtBM2hhSURycG1Ra3N5dEpqRHA3N1VrTWpxQXE3alIxTnVvTTZSNGNXb18ya3VicURqdUJqaDVrWmE1Z3RxOEM4WFU0MnNfMjl3Y21IejVQbjhVeVdVQmw3SUlWTm02Ulo5eVcxVGlJcW9ST24ySlJvSnJBNzFOTmhrN0ZJRjdwejB6Rmd5YzBWU3dpZWY4NmlNT0tkNmxSXzBjN3lSRTNYMlHSAdgBQVVfeXFMTUNBanFrNlpBM0N4VzdiX2hObWphRTAwcUxubUhxRDQ3UENPMHFtNUFnYTZJYlY3UTNuMmdrTDZwcTBsci1UT1hRMW45bXZYMEliZXhFY05HbEZGS3JGWW9HUzVZNXJKUS1BcFV2WDVZcl9vU1Z6Z3BQdWpycUgtVmJvaTF2eWFvdHlVdGpTaWNOZW9JRDZwdzRGZHBINEowNjRwRklMQVBiZ2o5YmJYZlprOTFkY2ptd0h3Y1dvU3dKQTUwM2VLdlk2V1R5aXpfcmdKNEVyU19E?oc=5",
     "summary": "New urine test detects 95% of bladder cancer cases in study: What patients should know The Indian Express",
@@ -3034,7 +2958,7 @@
   }
  ],
  "new_count": 4,
- "returning_count": 220,
- "total": 224,
+ "returning_count": 216,
+ "total": 220,
  "errors": []
 }
