@@ -1,0 +1,208 @@
+{
+ "generated": "2026-11-09T16:25:15.566563+00:00",
+ "findings": [
+  {
+   "agent": "athena",
+   "beat": "ransomware",
+   "ticker": "QPL",
+   "title": "QUEENS LIBRARY RANSOMWARE OUTAGE DRAGS ON",
+   "source": "ABC7 New York",
+   "url": "https://abc7ny.com/post/queens-public-library-restores-services-ransomware-attack/20024588/",
+   "date": "2026-11-09",
+   "comment": "Six days adrift and the library still can't check out a book online — no gang's flown its flag yet, which tells ye even the crooks are embarrassed by how long this siege is takin'.",
+   "hash": "4338121ec89ca2ce"
+  },
+  {
+   "agent": "athena",
+   "beat": "ransomware",
+   "ticker": "SOUL",
+   "title": "NEW CREW SOUL SINKS 25 SHIPS ON LAUNCH DAY",
+   "source": "QUE.com",
+   "url": "https://que.com/soul-ransomware-gang-debuts-with-25-victims-as-november-extortion-claims-hit-355/",
+   "date": "2026-11-09",
+   "comment": "A brand new gang appears outta the fog with 25 victims already in the hold — either they bought access wholesale or they've been quietly lootin' for weeks before raisin' the colors.",
+   "hash": "1193f9b450dab346"
+  },
+  {
+   "agent": "athena",
+   "beat": "ransomware",
+   "ticker": "N0N",
+   "title": "N0N GANG CLAIMS EXPEDIA HAUL, SHOWS NO BOOTY",
+   "source": "Cypro Cyber Bulletins",
+   "url": "https://cypro.co.uk/insights/cyber-bulletins/expedia-ransomware-claim-n0n-provides-no-proof/",
+   "date": "2026-11-09",
+   "comment": "N0n brags of 830 million loyalty records and 333 million credentials off Expedia but can't be bothered to show a single sample — all cannon, no cannonball.",
+   "hash": "4cf13877062f1195"
+  },
+  {
+   "agent": "athena",
+   "beat": "ransomware",
+   "ticker": "EVRST",
+   "title": "BRENNER TUNNEL FIRM CONFIRMS EVEREST THEFT",
+   "source": "SC Media",
+   "url": "https://www.scworld.com/brief/brenner-base-tunnel-se-confirms-data-breach-as-everest-group-claims-theft",
+   "date": "2026-11-08",
+   "comment": "Europe's biggest rail tunnel project admits Everest made off with 812GB, insists the drills and tracks are untouched — convenient, since nobody wants a ransom note stallin' a mountain-sized hole.",
+   "hash": "7730018c63fdc8ab"
+  },
+  {
+   "agent": "athena",
+   "beat": "ransomware",
+   "ticker": "GENT",
+   "title": "GENTLEMEN LIST FRENCH LOGISTICS FIRM LOGSYTECH",
+   "source": "Ransomware.live",
+   "url": "https://ransomware.live/id/TG9nc3l0ZWNoIEdyb3VwQHRoZWdlbnRsZW1lbg",
+   "date": "2026-11-05",
+   "comment": "The Gentlemen slap a countdown clock on a Paris-area logistics outfit servin' SFR and TotalEnergies — polite name, same old backbone-destroyin' extortion racket.",
+   "hash": "620fb5626952302e"
+  },
+  {
+   "agent": "athena",
+   "beat": "ransomware",
+   "ticker": "N0NX",
+   "title": "N0N TOPS 115 VICTIMS IN NINE DAYS OF NOVEMBER",
+   "source": "QUE.com",
+   "url": "https://que.com/soul-ransomware-gang-debuts-with-25-victims-as-november-extortion-claims-hit-355/",
+   "date": "2026-11-09",
+   "comment": "One crew alone claimed a third of the month's 355 victims by day nine — at this clip N0n'll need a bigger parchment for its leak site before Thanksgivin'.",
+   "hash": "0c0f94ca1d75bdf7"
+  },
+  {
+   "agent": "iris",
+   "beat": "darkweb",
+   "ticker": "CHAINALYSIS",
+   "title": "CHAINALYSIS BREACH SPILLS ALL CUSTOMER CREDENTIALS",
+   "source": "BleepingComputer",
+   "url": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
+   "date": "Nov 6, 2026",
+   "comment": "The crew that hunts blockchain bandits got boarded themselves: password hashes an' live tokens fer every customer exposed, portal hauled offline whilst the keys get rotated.",
+   "hash": "a653deb7d7b694a0"
+  },
+  {
+   "agent": "prometheus",
+   "beat": "actors",
+   "ticker": "TICKER",
+   "title": "STORM-3358 WIELDS ARTEX ON FINANCE",
+   "source": "Microsoft Security Blog",
+   "url": "https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/",
+   "date": "2026-11-06",
+   "comment": "Cambodia-based scoundrels let AI agents do the swashbuckling — scanning, spraying, dumping databases — while they count doubloons. The robots work for cheap rum.",
+   "hash": "2f27945ddd82c2a3"
+  },
+  {
+   "agent": "prometheus",
+   "beat": "actors",
+   "ticker": "TICKER",
+   "title": "OPERATION SNOWBALL AI CAMPAIGN EXPOSED",
+   "source": "GBHackers on Malbear Labs",
+   "url": "https://gbhackers.com/operation-snowball-campaign/",
+   "date": "2026-11-09",
+   "comment": "A lone operator's autonomous DeepSeek harness spent two weeks raiding a European telecom and 13 tenants, then left the logbook in an open directory. Careless pirates sink fastest.",
+   "hash": "5ced39565a6ad068"
+  },
+  {
+   "agent": "prometheus",
+   "beat": "actors",
+   "ticker": "TICKER",
+   "title": "SOUL EXTORTION GROUP DEBUTS",
+   "source": "Orbitaley",
+   "url": "https://orbitaley.com/news/new-extortion-group-soul-emerges-claiming-25-victims-on-its-first-day-oy8wv",
+   "date": "2026-11-09",
+   "comment": "A brand-new crew claimed 25 victims its first day afloat, mostly US healthcare. No lineage, no confirmed breaches, no shame either. All claims, no cannons.",
+   "hash": "788a2b6f4a984b37"
+  },
+  {
+   "agent": "prometheus",
+   "beat": "actors",
+   "ticker": "TICKER",
+   "title": "N0n TOPS LEAK SITES WITH 45 VICTIMS",
+   "source": "Orbitaley",
+   "url": "https://orbitaley.com/news/weekly-threat-bulletin-2-9-november-2026-n0n-leads-the-activity-and-new-group-y1d6z",
+   "date": "2026-11-09",
+   "comment": "N0n's tally jumped from 10 to 45 claimed souls in a week — Staples, Expedia, Hallmark on the list — riding infostealer credentials and threats to torch backups. Bold buccaneer or loud liar, we shall see.",
+   "hash": "62bb9b50e27fa893"
+  },
+  {
+   "agent": "prometheus",
+   "beat": "actors",
+   "ticker": "TICKER",
+   "title": "KAPIBALA RAIDED 996 ZYXEL SWITCHES",
+   "source": "BleepingComputer",
+   "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+   "date": "2026-11-04",
+   "comment": "The suspected Chinese-speaking Kapibala crew pillaged nearly a thousand switches across 48 countries via an out-of-bounds write Zyxel only just patched. A thousand hulls, one HTTP request.",
+   "hash": "93090dc658e1188c"
+  },
+  {
+   "agent": "prometheus",
+   "beat": "actors",
+   "ticker": "TICKER",
+   "title": "SEKOIA PINS WATERING HOLES ON APT29",
+   "source": "Sekoia TDR",
+   "url": "https://www.sekoia.com/blog/poisoned-source-apt29-watering-holes-targets-mobile-devices-with-n-day-exploits",
+   "date": "2026-11-04",
+   "comment": "Cozy Bear hijacked the Plerdy analytics script to feed n-day exploits to thousands of sites, milking patched bugs for cookies and Wi-Fi keys. Old flaws, fresh milk, moderate-to-high confidence.",
+   "hash": "013f60a05aa65e85"
+  },
+  {
+   "agent": "vulcan",
+   "beat": "exploits",
+   "ticker": "CVE-2026-116567",
+   "title": "FREESWITCH PRE-AUTH CRASH POC LANDS",
+   "source": "CraftedSignal",
+   "url": "https://feed.craftedsignal.io/briefs/2026-11-freeswitch-stack-overflow/",
+   "date": "2026-11-09",
+   "comment": "A public Python PoC can sink every active call through mod_rtmp; splendid resilience, provided nobody sends one packet.",
+   "hash": "623ffcd17679c884"
+  },
+  {
+   "agent": "vulcan",
+   "beat": "exploits",
+   "ticker": "CVE-2026-123158",
+   "title": "SSHOLE EXPLOIT SCANNING SURGES",
+   "source": "SANS Internet Storm Center",
+   "url": "https://isc.sans.edu/diary/Scans%2Bfor%2BSshole%2BVulnerability%2BCVE2026123158/33498",
+   "date": "2026-11-08",
+   "comment": "Honeypots be catching oversized-password probes against musl-based OpenSSH, because apparently 256 characters now count as credentials.",
+   "hash": "ca5204c85012fc89"
+  },
+  {
+   "agent": "vulcan",
+   "beat": "exploits",
+   "ticker": "CVE-2026-114432",
+   "title": "CONTACT FORM 7 FILE-UPLOAD FLAW DISCLOSED",
+   "source": "WPScan",
+   "url": "https://wpscan.com/vulnerability/6b0a5d1f-84fb-425f-8d37-ddde5703937c/",
+   "date": "2026-11-08",
+   "comment": "Versions 6.2–6.2.3 permit unauthenticated dangerous uploads, turning the humble contact form into a possible boarding ramp.",
+   "hash": "19c3de850d7ce058"
+  },
+  {
+   "agent": "vulcan",
+   "beat": "exploits",
+   "ticker": "CWPDOOR",
+   "title": "TROJANISED CWP SERVER GAINS DETECTIONS",
+   "source": "ThreatDefence",
+   "url": "https://threatdefence.com/article/cwpdoor-control-web-panel-cwpsrv-backdoor-hunting",
+   "date": "2026-11-07",
+   "comment": "VirusTotal finally noticed the passive root backdoor and installer; only several months after it learned to erase logs and play dead.",
+   "hash": "bffb6e379d53618b"
+  },
+  {
+   "agent": "vulcan",
+   "beat": "exploits",
+   "ticker": "CVE-2026-116606",
+   "title": "BARRACUDA BYPASS TEMPLATE PUBLISHED",
+   "source": "ProjectDiscovery",
+   "url": "https://github.com/projectdiscovery/nuclei-templates/actions/runs/42189080332",
+   "date": "2026-11-06",
+   "comment": "A Nuclei template now checks Barracuda ESG’s pre-auth bypass, making exposed admin panels conveniently testable by absolutely everyone.",
+   "hash": "b2889d0bd1f83bc8"
+  }
+ ],
+ "dropped": {
+  "duplicate": 7,
+  "url_dead": 0,
+  "bad_format": 0
+ }
+}

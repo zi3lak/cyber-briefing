@@ -1,0 +1,67 @@
+name: Daily Cyber Briefing (publish)
+
+on:
+  schedule:
+    # 08:00 UTC every day — the briefing refreshes itself
+    - cron: '0 8 * * *'
+    # weekly deep refresh (Sunday 07:00 UTC)
+    - cron: '0 7 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: cyber-briefing-pages
+  cancel-in-progress: false
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Collect fresh intel
+        run: python3 scripts/collect.py
+
+      - name: Render the page
+        run: python3 scripts/render.py
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4
+
+      - name: Commit new edition back to main
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "nothing new to commit"
+          else
+            git commit -m "briefing: refresh $(date -u +%Y-%m-%d)"
+            for i in 1 2 3; do
+              if git pull --rebase --autostash origin main && git push; then
+                echo "pushed"; break
+              fi
+              echo "retry $i"; sleep 5
+            done
+          fi
