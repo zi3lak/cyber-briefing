@@ -1,11 +1,10 @@
 # ORION — DEFENCE, PATCHING & TOOLING
-
-• UserPromptSubmit hook
-
-  main
-
-kimi version 2.5.2
-Warning: [loop_control] 'max_retries_per_step' is deprecated and no longer used; rename it to 'max_attempts_per_step'. Run /update-config to fix it.
-default_plan_mode is not applied in print mode, because Plan mode waits for your review.
-error: failed to run prompt: provider.api_error:
-See log: /home/cssltd/.kimi-code/logs/kimi-code.log
+KEV | CISA KEV: SONICWALL SSLVPN MFA BYPASS | CISA | https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog | 2026-11-06 | Yer fancy SAML MFA be pure decoration — valid creds plus CVE-2026-19868 sail straight past it, an' CISA says crews be aboard already. Feds patch by Nov 20; the rest of ye, why wait for the deadline letter?
+PATCH | VEEAM KERNEL UAF CVSS 9.8 PATCH SHIPS | Security Online | https://securityonline.info/veeam-software-appliance-cve-2026-98432-patched/ | 2026-11-06 | A TCP use-after-free aboard yer backup fleet while scanners probe 2.1 million hosts for it. Ransom crews dream of drowned backups — run Veeam Updater, grab KB4966, an' rebuild that crusty boot media.
+TOOLING | ARTEX AGENT ABUSE HITS FINANCE SECTOR | Microsoft Security Blog | https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector | 2026-11-06 | Storm-3358 pointed the open-source ARTEX agent at yer leaked GitHub secrets an' dropped RATs at machine speed. Microsoft hands ye hunting queries an' honeypots — bait the bot before it bilges yer cloud.
+TOOLING | ARTEX: PENTEST TOOL TO ATTACKER STAPLE IN 3 MONTHS | Help Net Security | https://www.helpnetsecurity.com/2026/11/09/artex-goes-from-pentesting-tool-to-attacker-staple-in-three-months | 2026-11-09 | Twelve thousand forks of an AI burglar kit an' counting; one crew pillaged 200 orgs in 11 days, another went secret-huntin' to theft in five minutes. Treat every public secret as plunder already spent, ye scallywags.
+TOOLING | FAKE SECURITY TOOLS BACKDOOR DEFENDERS | BleepingComputer | https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers | 2026-11-06 | The bilge rats now hide AsyncRAT in fake fscan wrappers that patch AMSI, ETW an' uninstall yer antivirus. Two years, 2,000 crews robbed. Trust no repo that arrives too pretty, an' mind them pre-build events.
+DETECTION | MODSECURITY WAF UPLOAD BYPASS POC PUBLIC | Security Online | https://securityonline.info/modsecurity-vulnerabilities-poc/ | 2026-11-09 | A wee RFC 2231 filename* trick an' yer CRS upload rules wave the cargo straight through to Go, Python an' Java backends. Full PoC be public — hoist libmodsecurity 3.0.17 or admit ye be guardin' naught.
+VULN | CRAFT CMS 9.8 SQLI POC GOES PUBLIC | GitHub (fixedbyreboot) | https://github.com/fixedbyreboot/CVE-2026-123488-POC | 2026-11-06 | Unauthenticated SQLi, CVSS 9.8, an' a public script that simply sets admin=1 — no kraken required. Craft 4.18.9 an' 5.11.2 plugged this hole in September; check whether ye actually installed the bloody fix.
+TOOLING | FREE PHP2SHELL / NODE2SHELL SCANNER RELEASED | Security Online | https://securityonline.info/insignary-releases-free-insignary-chk-tool-to-detect-php2shell-and-node2shell-exposure/ | 2026-11-06 | Two KEV-listed runtime holes an' half the fleet still sails unpatched, so Insignary tosses a free one-file scanner over the side. No install, no registry — run it before the boardin' party does yer inventory for ye.
+TOOLING | OPENCTI TRIPLE RELEASE WITH LTS SECURITY FIXES | GitHub (OpenCTI Platform) | https://github.com/OpenCTI-Platform/opencti/releases | 2026-11-06 | Filigran shipped three releases in a single day, includin' LTS patches with dependency an' auth fixes. If yer threat-intel map still runs the old LTS crate, haul the new one aboard before someone charts yer charts.
