@@ -309,81 +309,105 @@ def icon(name: str, size: int = 64, cls: str = "ic") -> str:
 
 # --------------------------------------------------------------------- hero art
 def hero() -> str:
-    """Pirate captain at a terminal, parrot on the shoulder, jolly roger behind."""
+    """Pirate captain at a terminal, parrot on the shoulder, jolly roger behind.
+
+    Everything lives in the right half (x 400-880) so the headline copy on the
+    left is never covered by ink.
+    """
     s = []
-    # background jolly roger
-    s.append('<g opacity="0.13" transform="translate(300,40) scale(3.4) translate(-50,-50)">')
+
+    # ---- faint jolly roger on the back wall
+    s.append('<g opacity="0.10" transform="translate(430,60) scale(3.6)">')
     s.append(icon_skull())
     s.append("</g>")
 
-    # desk
-    s.append(path_d("M120 430 L760 430 L800 470 L80 470 Z", 2.6))
-    s.append(path_d("M80 470 L800 470", 2.4))
-    s.append(path_d("M150 470 L150 500 M730 470 L730 500", 2.0, INK_DIM, "none", 0.8))
-
-    # captain bust
-    s.append(path_d("M300 430 C292 380 300 336 330 312 C356 291 400 288 424 312 C452 340 458 386 450 430", 2.6))
-    # coat collar
-    s.append(path_d("M330 312 L382 372 L350 430 L286 430 L300 350 Z", 2.3, INK, "url(#hatchA)"))
-    s.append(path_d("M424 312 L382 372 L414 430 L478 430 L464 350 Z", 2.3, INK, "url(#hatchB)"))
-    # neck + head
-    s.append(path_d("M356 300 L356 268 L410 268 L410 300 Z", 2.2, INK, "url(#hatchC)"))
-    s.append(path_d("M348 214 C348 176 372 156 384 156 C396 156 420 176 420 214 C420 246 408 268 384 268 C360 268 348 246 348 214 Z", 2.5))
-    # tricorn hat
-    s.append(path_d("M318 168 C318 132 344 110 384 110 C424 110 450 132 450 168 C428 152 404 146 384 146 C364 146 340 152 318 168 Z", 2.5))
-    s.append(path_d("M304 170 C330 186 438 186 464 170 C452 196 316 196 304 170 Z", 2.4))
-    s.append(path_d("M320 132 C336 116 356 110 384 110 C412 110 432 116 448 132", 1.2, INK_DIM, "none", 0.6))
-    # feather
-    s.append(path_d("M444 128 C470 108 494 100 512 102 C508 124 494 146 470 158 C462 150 452 138 444 128 Z", 2.1, GOLD, "url(#hatchG)"))
-    s.append(line(448, 130, 508, 104, 1.2, INK, 0.7))
-    # eyepatch
-    s.append(ellipse(360, 212, 13, 11, 2.2, INK, "url(#hatchR)"))
-    s.append(path_d("M347 206 L330 196 M373 210 L414 186", 1.8))
-    s.append(ellipse(407, 210, 10, 8, 2.0, INK))
-    s.append(circle(407, 210, 2.4, 1.2, INK, INK))
-    # nose + mouth
-    s.append(path_d("M384 216 L378 234 L390 234", 1.7))
-    s.append(path_d("M368 246 C378 254 392 254 402 244", 1.9))
-    # beard
-    s.append(path_d("M348 232 C352 272 366 292 384 292 C402 292 416 272 420 232 C410 258 396 266 384 266 C372 266 358 258 348 232 Z", 2.3, INK, "url(#hatchB)"))
-    s.append(line(370, 262, 372, 282, 1.0, INK_DIM, 0.6))
-    s.append(line(384, 264, 384, 288, 1.0, INK_DIM, 0.6))
-    s.append(line(398, 262, 396, 282, 1.0, INK_DIM, 0.6))
-
-    # hook hand on the desk
-    s.append(path_d("M470 392 C490 392 500 404 500 418 C500 430 490 436 482 432", 2.6))
-    s.append(path_d("M482 432 L494 442", 2.2))
-
-    # laptop
-    s.append(path_d("M250 430 L520 430 L548 396 L222 396 Z", 2.5))
-    s.append(path_d("M236 396 L534 396", 2.0, INK_DIM, "none", 0.7))
-    # screen with terminal glyphs
-    s.append(path_d("M262 384 L500 384 L494 336 L268 336 Z", 2.0, INK, "none", 0.9))
-    s.append(line(276, 356, 316, 356, 1.6, SEA, 0.9))
-    s.append(line(276, 366, 344, 366, 1.4, SEA, 0.75))
-    s.append(line(276, 376, 300, 376, 1.4, CRIMSON, 0.85))
-    s.append(path_d("M282 344 L292 350 L282 356", 1.6, SEA, "none", 0.9))
-
-    # parrot on the shoulder
-    s.append('<g transform="translate(455,250) scale(1.15)">')
-    s.append(path_d("M30 88 C22 70 26 48 40 38 C52 29 70 32 76 46 C82 60 74 74 62 78 C54 81 46 80 40 84", 2.4))
-    s.append(path_d("M40 38 C46 26 62 24 70 32 L76 46 C70 40 58 36 48 40 Z", 1.9, INK, "url(#hatchA)"))
-    s.append(path_d("M74 42 L92 50 L74 54 Z", 2.1, GOLD))
-    s.append(circle(62, 40, 3.0, 1.4))
-    s.append(path_d("M40 50 C50 48 60 54 62 66 C56 72 44 70 38 62 Z", 1.6, INK, "url(#hatchB)"))
-    s.append(path_d("M30 86 L16 92 L24 78 Z", 1.9))
-    s.append("</g>")
-
-    # mug
-    s.append(path_d("M600 396 L660 396 L654 438 L606 438 Z", 2.2, INK, "url(#hatchC)"))
-    s.append(path_d("M660 404 C676 404 676 424 660 424", 1.9))
-    s.append(line(610, 390, 612, 380, 1.4, INK_DIM, 0.7))
-    s.append(line(618, 390, 620, 378, 1.4, INK_DIM, 0.7))
-
-    # anchor in the corner
-    s.append('<g transform="translate(660,60) scale(1.5)" opacity="0.9">')
+    # ---- anchor on the wall
+    s.append('<g transform="translate(748,44) scale(1.15)" opacity="0.55">')
     s.append(icon_anchor())
     s.append("</g>")
+
+    # ---- desk
+    s.append(path_d("M392 424 L812 424 L842 462 L368 462 Z", 2.4))
+    s.append(path_d("M368 462 L842 462", 2.2))
+    s.append(path_d("M410 462 L410 492 M800 462 L800 492", 1.8, INK_DIM, "none", 0.7))
+
+    # ---- captain: shoulders / coat
+    s.append(path_d("M556 424 C548 372 556 330 588 308 C612 290 660 288 682 312 C710 342 716 384 708 424", 2.5))
+    s.append(path_d("M588 308 L636 368 L612 424 L538 424 L552 344 Z", 2.2, INK, "url(#hatchA)"))
+    s.append(path_d("M682 312 L636 368 L660 424 L734 424 L718 348 Z", 2.2, INK, "url(#hatchB)"))
+    s.append(path_d("M636 368 L636 424", 1.6, INK_DIM, "none", 0.6))
+    for i in range(3):
+        s.append(circle(636, 382 + i * 14, 2.2, 1.1, INK, INK, 0.85))
+
+    # ---- neck
+    s.append(path_d("M612 296 L612 264 L660 264 L660 296 Z", 2.0, INK, "url(#hatchC)"))
+
+    # ---- head
+    s.append(path_d(
+        "M600 206 C600 172 616 152 636 152 C656 152 672 172 672 206 "
+        "C672 230 668 244 660 254 C652 264 644 268 636 268 "
+        "C628 268 620 264 612 254 C604 244 600 230 600 206 Z", 2.4))
+    # cheek line
+    s.append(path_d("M610 214 C612 232 618 244 628 250", 0.9, INK_DIM, "none", 0.4))
+    s.append(path_d("M662 214 C660 232 654 244 644 250", 0.9, INK_DIM, "none", 0.4))
+
+    # ---- tricorn hat
+    s.append(path_d("M578 166 C578 132 604 112 636 112 C668 112 694 132 694 166 C672 150 600 150 578 166 Z", 2.4))
+    s.append(path_d("M562 168 C588 184 684 184 710 168 C698 194 574 194 562 168 Z", 2.3))
+    s.append(path_d("M578 134 C594 118 612 112 636 112 C660 112 678 118 694 134", 1.1, INK_DIM, "none", 0.55))
+
+    # ---- feather
+    s.append(path_d("M694 128 C716 110 738 102 754 104 C750 124 738 144 716 156 C708 148 700 138 694 128 Z", 2.0, GOLD, "url(#hatchG)"))
+    s.append(line(698, 130, 750, 106, 1.1, INK, 0.65))
+
+    # ---- eyepatch + eye
+    s.append(ellipse(613, 204, 10, 8.5, 2.0, INK, "url(#hatchR)"))
+    s.append(path_d("M604 200 L590 192", 1.5))
+    s.append(path_d("M622 202 C636 190 652 186 668 190", 1.5))
+    s.append(ellipse(652, 206, 7.5, 6, 1.8, INK))
+    s.append(circle(652, 206, 2.0, 1.0, INK, INK))
+    s.append(path_d("M648 203 L656 209 M656 203 L648 209", 0.8, INK, "none", 0.7))
+
+    # ---- nose + mouth
+    s.append(path_d("M636 214 L630 230 L642 230", 1.6))
+    s.append(path_d("M626 244 C632 249 641 249 647 242", 1.6))
+
+    # ---- beard
+    s.append(path_d("M618 238 C622 254 628 262 636 262 C644 262 650 254 654 238 C650 250 644 254 636 254 C628 254 622 250 618 238 Z", 2.0, INK, "url(#hatchB)"))
+    s.append(path_d("M622 264 C626 278 631 284 636 284 C641 284 646 278 650 264 C646 274 642 278 636 278 C630 278 626 274 622 264 Z", 1.9, INK, "url(#hatchB)"))
+    s.append(line(630, 270, 631, 280, 0.8, INK_DIM, 0.45))
+    s.append(line(638, 271, 638, 281, 0.8, INK_DIM, 0.45))
+
+    # ---- hook hand resting on the desk
+    s.append(path_d("M712 392 C728 392 736 404 736 416 C736 428 726 434 718 430", 2.5))
+    s.append(path_d("M718 430 L730 440", 2.1))
+
+    # ---- laptop in front of the captain
+    s.append(path_d("M498 424 L700 424 L722 396 L476 396 Z", 2.4))
+    s.append(path_d("M490 396 L708 396", 1.9, INK_DIM, "none", 0.65))
+    s.append(path_d("M512 386 L676 386 L670 344 L518 344 Z", 1.9, INK, "none", 0.9))
+    s.append(line(526, 358, 566, 358, 1.5, SEA, 0.9))
+    s.append(line(526, 367, 590, 367, 1.3, SEA, 0.75))
+    s.append(line(526, 376, 548, 376, 1.3, CRIMSON, 0.85))
+    s.append(path_d("M532 348 L540 353 L532 358", 1.5, SEA, "none", 0.9))
+
+    # ---- parrot on the captain's shoulder
+    s.append('<g transform="translate(676,232) scale(1.0)">')
+    s.append(path_d("M30 88 C22 70 26 48 40 38 C52 29 70 32 76 46 C82 60 74 74 62 78 C54 81 46 80 40 84", 2.2))
+    s.append(path_d("M40 38 C46 26 62 24 70 32 L76 46 C70 40 58 36 48 40 Z", 1.8, INK, "url(#hatchA)"))
+    s.append(path_d("M74 42 L90 50 L74 54 Z", 2.0, GOLD))
+    s.append(circle(62, 40, 2.8, 1.3))
+    s.append(path_d("M40 50 C50 48 60 54 62 66 C56 72 44 70 38 62 Z", 1.5, INK, "url(#hatchB)"))
+    s.append(path_d("M30 86 L17 92 L25 78 Z", 1.8))
+    s.append("</g>")
+
+    # ---- mug on the desk
+    s.append(path_d("M752 400 L796 400 L792 434 L756 434 Z", 2.0, INK, "url(#hatchC)"))
+    s.append(path_d("M796 406 C808 406 808 424 796 424", 1.8))
+
+    # ---- waves below the desk
+    s.append(path_d("M300 500 C330 492 358 510 388 502 C418 494 446 512 476 504", 1.7, SEA, "none", 0.5))
+    s.append(path_d("M540 506 C570 498 598 516 628 508 C658 500 686 518 716 510", 1.7, SEA, "none", 0.5))
 
     return "".join(s)
 

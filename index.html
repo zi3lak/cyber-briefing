@@ -9,6 +9,9 @@
 <meta property="og:description" content="Ransomware, dark web, exploits and red team tradecraft — daily, with a pirate's eye.">
 <meta property="og:type" content="website">
 <meta http-equiv="refresh" content="3600">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Pirata+One&family=Cormorant+Garamond:ital,wght@0,600;1,400&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
 <style>
 :root{
   --ink:#efe6d4; --ink-dim:#a9a08c; --ink-faint:#5d5a50;
@@ -83,9 +86,12 @@ header.top{
 
 /* ---------------- hero */
 .hero{position:relative;margin:26px 0 8px;border:1px solid var(--line);background:linear-gradient(160deg,#0b1017 0%,#080b10 60%,#100c0a 100%);overflow:hidden}
+.hero::after{content:"";position:absolute;inset:0;background:linear-gradient(100deg,rgba(6,9,13,.9) 0%,rgba(6,9,13,.55) 38%,rgba(6,9,13,0) 58%);pointer-events:none;z-index:2}
 .hero-art{display:block;width:100%;height:auto}
 .hero-copy{
-  position:absolute;left:26px;top:24px;max-width:430px;
+  position:absolute;left:26px;top:24px;max-width:400px;z-index:3;
+  background:linear-gradient(100deg, rgba(7,10,14,.92) 0%, rgba(7,10,14,.80) 62%, rgba(7,10,14,0) 100%);
+  padding:14px 30px 14px 0;
 }
 .hero-copy h2{font-family:var(--serif);font-size:clamp(22px,3vw,34px);margin:0 0 10px;color:var(--ink);font-style:italic}
 .hero-copy p{color:var(--ink-dim);font-size:13px;margin:0 0 14px;max-width:400px}
@@ -312,7 +318,7 @@ footer.bot a{color:var(--sea)}
     <stop offset="100%" stop-color="#05070a" stop-opacity="0.85"/>
   </radialGradient>
   
-</defs><rect x="0" y="0" width="880" height="520" fill="url(#vign)"/><g filter="url(#rough)"><g opacity="0.13" transform="translate(300,40) scale(3.4) translate(-50,-50)"><path d="M18 78 L82 26" fill="none" stroke="#efe6d4" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M82 78 L18 26" fill="none" stroke="#efe6d4" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><circle cx="20" cy="24" r="5.4" fill="none" stroke="#efe6d4" stroke-width="2.4" opacity="1.0"/><circle cx="80" cy="76" r="5.4" fill="none" stroke="#efe6d4" stroke-width="2.4" opacity="1.0"/><circle cx="80" cy="24" r="5.4" fill="none" stroke="#efe6d4" stroke-width="2.4" opacity="1.0"/><circle cx="20" cy="76" r="5.4" fill="none" stroke="#efe6d4" stroke-width="2.4" opacity="1.0"/><path d="M50 14 C28 14 16 30 16 46 C16 58 22 64 27 68 L27 74 L73 74 L73 68 C78 64 84 58 84 46 C84 30 72 14 50 14 Z" fill="none" stroke="#efe6d4" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><line x1="33.0" y1="74" x2="33.0" y2="80" stroke="#a9a08c" stroke-width="1.3" stroke-linecap="round" opacity="0.9"/><line x1="41.6" y1="74" x2="41.6" y2="80" stroke="#a9a08c" stroke-width="1.3" stroke-linecap="round" opacity="0.9"/><line x1="50.2" y1="74" x2="50.2" y2="80" stroke="#a9a08c" stroke-width="1.3" stroke-linecap="round" opacity="0.9"/><line x1="58.8" y1="74" x2="58.8" y2="80" stroke="#a9a08c" stroke-width="1.3" stroke-linecap="round" opacity="0.9"/><line x1="67.4" y1="74" x2="67.4" y2="80" stroke="#a9a08c" stroke-width="1.3" stroke-linecap="round" opacity="0.9"/><path d="M27 80 L73 80" fill="none" stroke="#efe6d4" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><ellipse cx="37" cy="44" rx="8.5" ry="9.5" fill="url(#hatchA)" stroke="#efe6d4" stroke-width="2.2" opacity="1.0" transform="rotate(0 37 44)"/><ellipse cx="63" cy="44" rx="8.5" ry="9.5" fill="url(#hatchA)" stroke="#efe6d4" stroke-width="2.2" opacity="1.0" transform="rotate(0 63 44)"/><path d="M31 40 L43 47" fill="0.65" stroke="#a9a08c" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M69 40 L57 47" fill="0.65" stroke="#a9a08c" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M50 52 L45 62 L55 62 Z" fill="none" stroke="#efe6d4" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><line x1="40" y1="70" x2="60" y2="70" stroke="#a9a08c" stroke-width="1.2" stroke-linecap="round" opacity="0.8"/><line x1="50" y1="66" x2="50" y2="80" stroke="#a9a08c" stroke-width="1.1" stroke-linecap="round" opacity="0.7"/></g><path d="M120 430 L760 430 L800 470 L80 470 Z" fill="none" stroke="#efe6d4" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M80 470 L800 470" fill="none" stroke="#efe6d4" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M150 470 L150 500 M730 470 L730 500" fill="none" stroke="#a9a08c" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round" opacity="0.8"/><path d="M300 430 C292 380 300 336 330 312 C356 291 400 288 424 312 C452 340 458 386 450 430" fill="none" stroke="#efe6d4" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M330 312 L382 372 L350 430 L286 430 L300 350 Z" fill="url(#hatchA)" stroke="#efe6d4" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M424 312 L382 372 L414 430 L478 430 L464 350 Z" fill="url(#hatchB)" stroke="#efe6d4" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M356 300 L356 268 L410 268 L410 300 Z" fill="url(#hatchC)" stroke="#efe6d4" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M348 214 C348 176 372 156 384 156 C396 156 420 176 420 214 C420 246 408 268 384 268 C360 268 348 246 348 214 Z" fill="none" stroke="#efe6d4" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M318 168 C318 132 344 110 384 110 C424 110 450 132 450 168 C428 152 404 146 384 146 C364 146 340 152 318 168 Z" fill="none" stroke="#efe6d4" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M304 170 C330 186 438 186 464 170 C452 196 316 196 304 170 Z" fill="none" stroke="#efe6d4" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M320 132 C336 116 356 110 384 110 C412 110 432 116 448 132" fill="none" stroke="#a9a08c" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.6"/><path d="M444 128 C470 108 494 100 512 102 C508 124 494 146 470 158 C462 150 452 138 444 128 Z" fill="url(#hatchG)" stroke="#d8a54a" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><line x1="448" y1="130" x2="508" y2="104" stroke="#efe6d4" stroke-width="1.2" stroke-linecap="round" opacity="0.7"/><ellipse cx="360" cy="212" rx="13" ry="11" fill="url(#hatchR)" stroke="#efe6d4" stroke-width="2.2" opacity="1.0" transform="rotate(0 360 212)"/><path d="M347 206 L330 196 M373 210 L414 186" fill="none" stroke="#efe6d4" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><ellipse cx="407" cy="210" rx="10" ry="8" fill="none" stroke="#efe6d4" stroke-width="2.0" opacity="1.0" transform="rotate(0 407 210)"/><circle cx="407" cy="210" r="2.4" fill="#efe6d4" stroke="#efe6d4" stroke-width="1.2" opacity="1.0"/><path d="M384 216 L378 234 L390 234" fill="none" stroke="#efe6d4" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M368 246 C378 254 392 254 402 244" fill="none" stroke="#efe6d4" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M348 232 C352 272 366 292 384 292 C402 292 416 272 420 232 C410 258 396 266 384 266 C372 266 358 258 348 232 Z" fill="url(#hatchB)" stroke="#efe6d4" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><line x1="370" y1="262" x2="372" y2="282" stroke="#a9a08c" stroke-width="1.0" stroke-linecap="round" opacity="0.6"/><line x1="384" y1="264" x2="384" y2="288" stroke="#a9a08c" stroke-width="1.0" stroke-linecap="round" opacity="0.6"/><line x1="398" y1="262" x2="396" y2="282" stroke="#a9a08c" stroke-width="1.0" stroke-linecap="round" opacity="0.6"/><path d="M470 392 C490 392 500 404 500 418 C500 430 490 436 482 432" fill="none" stroke="#efe6d4" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M482 432 L494 442" fill="none" stroke="#efe6d4" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M250 430 L520 430 L548 396 L222 396 Z" fill="none" stroke="#efe6d4" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M236 396 L534 396" fill="none" stroke="#a9a08c" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/><path d="M262 384 L500 384 L494 336 L268 336 Z" fill="none" stroke="#efe6d4" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/><line x1="276" y1="356" x2="316" y2="356" stroke="#4fa8a0" stroke-width="1.6" stroke-linecap="round" opacity="0.9"/><line x1="276" y1="366" x2="344" y2="366" stroke="#4fa8a0" stroke-width="1.4" stroke-linecap="round" opacity="0.75"/><line x1="276" y1="376" x2="300" y2="376" stroke="#c0392b" stroke-width="1.4" stroke-linecap="round" opacity="0.85"/><path d="M282 344 L292 350 L282 356" fill="none" stroke="#4fa8a0" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/><g transform="translate(455,250) scale(1.15)"><path d="M30 88 C22 70 26 48 40 38 C52 29 70 32 76 46 C82 60 74 74 62 78 C54 81 46 80 40 84" fill="none" stroke="#efe6d4" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M40 38 C46 26 62 24 70 32 L76 46 C70 40 58 36 48 40 Z" fill="url(#hatchA)" stroke="#efe6d4" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M74 42 L92 50 L74 54 Z" fill="none" stroke="#d8a54a" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><circle cx="62" cy="40" r="3.0" fill="none" stroke="#efe6d4" stroke-width="1.4" opacity="1.0"/><path d="M40 50 C50 48 60 54 62 66 C56 72 44 70 38 62 Z" fill="url(#hatchB)" stroke="#efe6d4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M30 86 L16 92 L24 78 Z" fill="none" stroke="#efe6d4" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/></g><path d="M600 396 L660 396 L654 438 L606 438 Z" fill="url(#hatchC)" stroke="#efe6d4" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M660 404 C676 404 676 424 660 424" fill="none" stroke="#efe6d4" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><line x1="610" y1="390" x2="612" y2="380" stroke="#a9a08c" stroke-width="1.4" stroke-linecap="round" opacity="0.7"/><line x1="618" y1="390" x2="620" y2="378" stroke="#a9a08c" stroke-width="1.4" stroke-linecap="round" opacity="0.7"/><g transform="translate(660,60) scale(1.5)" opacity="0.9"><circle cx="50" cy="12" r="5.4" fill="none" stroke="#efe6d4" stroke-width="2.2" opacity="1.0"/><line x1="50" y1="17" x2="50" y2="88" stroke="#efe6d4" stroke-width="2.6" stroke-linecap="round" opacity="1.0"/><line x1="32" y1="32" x2="68" y2="32" stroke="#efe6d4" stroke-width="2.4" stroke-linecap="round" opacity="1.0"/><path d="M22 40 C22 68 34 84 50 84 C66 84 78 68 78 40" fill="none" stroke="#efe6d4" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M22 40 L12 34 L16 48 Z" fill="url(#hatchA)" stroke="#efe6d4" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M78 40 L88 34 L84 48 Z" fill="url(#hatchA)" stroke="#efe6d4" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M38 26 L62 38" fill="none" stroke="#a9a08c" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/></g></g></svg>
+</defs><rect x="0" y="0" width="880" height="520" fill="url(#vign)"/><g filter="url(#rough)"><g opacity="0.10" transform="translate(430,60) scale(3.6)"><path d="M18 78 L82 26" fill="none" stroke="#efe6d4" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M82 78 L18 26" fill="none" stroke="#efe6d4" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><circle cx="20" cy="24" r="5.4" fill="none" stroke="#efe6d4" stroke-width="2.4" opacity="1.0"/><circle cx="80" cy="76" r="5.4" fill="none" stroke="#efe6d4" stroke-width="2.4" opacity="1.0"/><circle cx="80" cy="24" r="5.4" fill="none" stroke="#efe6d4" stroke-width="2.4" opacity="1.0"/><circle cx="20" cy="76" r="5.4" fill="none" stroke="#efe6d4" stroke-width="2.4" opacity="1.0"/><path d="M50 14 C28 14 16 30 16 46 C16 58 22 64 27 68 L27 74 L73 74 L73 68 C78 64 84 58 84 46 C84 30 72 14 50 14 Z" fill="none" stroke="#efe6d4" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><line x1="33.0" y1="74" x2="33.0" y2="80" stroke="#a9a08c" stroke-width="1.3" stroke-linecap="round" opacity="0.9"/><line x1="41.6" y1="74" x2="41.6" y2="80" stroke="#a9a08c" stroke-width="1.3" stroke-linecap="round" opacity="0.9"/><line x1="50.2" y1="74" x2="50.2" y2="80" stroke="#a9a08c" stroke-width="1.3" stroke-linecap="round" opacity="0.9"/><line x1="58.8" y1="74" x2="58.8" y2="80" stroke="#a9a08c" stroke-width="1.3" stroke-linecap="round" opacity="0.9"/><line x1="67.4" y1="74" x2="67.4" y2="80" stroke="#a9a08c" stroke-width="1.3" stroke-linecap="round" opacity="0.9"/><path d="M27 80 L73 80" fill="none" stroke="#efe6d4" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><ellipse cx="37" cy="44" rx="8.5" ry="9.5" fill="url(#hatchA)" stroke="#efe6d4" stroke-width="2.2" opacity="1.0" transform="rotate(0 37 44)"/><ellipse cx="63" cy="44" rx="8.5" ry="9.5" fill="url(#hatchA)" stroke="#efe6d4" stroke-width="2.2" opacity="1.0" transform="rotate(0 63 44)"/><path d="M31 40 L43 47" fill="0.65" stroke="#a9a08c" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M69 40 L57 47" fill="0.65" stroke="#a9a08c" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M50 52 L45 62 L55 62 Z" fill="none" stroke="#efe6d4" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><line x1="40" y1="70" x2="60" y2="70" stroke="#a9a08c" stroke-width="1.2" stroke-linecap="round" opacity="0.8"/><line x1="50" y1="66" x2="50" y2="80" stroke="#a9a08c" stroke-width="1.1" stroke-linecap="round" opacity="0.7"/></g><g transform="translate(748,44) scale(1.15)" opacity="0.55"><circle cx="50" cy="12" r="5.4" fill="none" stroke="#efe6d4" stroke-width="2.2" opacity="1.0"/><line x1="50" y1="17" x2="50" y2="88" stroke="#efe6d4" stroke-width="2.6" stroke-linecap="round" opacity="1.0"/><line x1="32" y1="32" x2="68" y2="32" stroke="#efe6d4" stroke-width="2.4" stroke-linecap="round" opacity="1.0"/><path d="M22 40 C22 68 34 84 50 84 C66 84 78 68 78 40" fill="none" stroke="#efe6d4" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M22 40 L12 34 L16 48 Z" fill="url(#hatchA)" stroke="#efe6d4" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M78 40 L88 34 L84 48 Z" fill="url(#hatchA)" stroke="#efe6d4" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M38 26 L62 38" fill="none" stroke="#a9a08c" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/></g><path d="M392 424 L812 424 L842 462 L368 462 Z" fill="none" stroke="#efe6d4" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M368 462 L842 462" fill="none" stroke="#efe6d4" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M410 462 L410 492 M800 462 L800 492" fill="none" stroke="#a9a08c" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/><path d="M556 424 C548 372 556 330 588 308 C612 290 660 288 682 312 C710 342 716 384 708 424" fill="none" stroke="#efe6d4" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M588 308 L636 368 L612 424 L538 424 L552 344 Z" fill="url(#hatchA)" stroke="#efe6d4" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M682 312 L636 368 L660 424 L734 424 L718 348 Z" fill="url(#hatchB)" stroke="#efe6d4" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M636 368 L636 424" fill="none" stroke="#a9a08c" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.6"/><circle cx="636" cy="382" r="2.2" fill="#efe6d4" stroke="#efe6d4" stroke-width="1.1" opacity="0.85"/><circle cx="636" cy="396" r="2.2" fill="#efe6d4" stroke="#efe6d4" stroke-width="1.1" opacity="0.85"/><circle cx="636" cy="410" r="2.2" fill="#efe6d4" stroke="#efe6d4" stroke-width="1.1" opacity="0.85"/><path d="M612 296 L612 264 L660 264 L660 296 Z" fill="url(#hatchC)" stroke="#efe6d4" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M600 206 C600 172 616 152 636 152 C656 152 672 172 672 206 C672 230 668 244 660 254 C652 264 644 268 636 268 C628 268 620 264 612 254 C604 244 600 230 600 206 Z" fill="none" stroke="#efe6d4" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M610 214 C612 232 618 244 628 250" fill="none" stroke="#a9a08c" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" opacity="0.4"/><path d="M662 214 C660 232 654 244 644 250" fill="none" stroke="#a9a08c" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" opacity="0.4"/><path d="M578 166 C578 132 604 112 636 112 C668 112 694 132 694 166 C672 150 600 150 578 166 Z" fill="none" stroke="#efe6d4" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M562 168 C588 184 684 184 710 168 C698 194 574 194 562 168 Z" fill="none" stroke="#efe6d4" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M578 134 C594 118 612 112 636 112 C660 112 678 118 694 134" fill="none" stroke="#a9a08c" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" opacity="0.55"/><path d="M694 128 C716 110 738 102 754 104 C750 124 738 144 716 156 C708 148 700 138 694 128 Z" fill="url(#hatchG)" stroke="#d8a54a" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><line x1="698" y1="130" x2="750" y2="106" stroke="#efe6d4" stroke-width="1.1" stroke-linecap="round" opacity="0.65"/><ellipse cx="613" cy="204" rx="10" ry="8.5" fill="url(#hatchR)" stroke="#efe6d4" stroke-width="2.0" opacity="1.0" transform="rotate(0 613 204)"/><path d="M604 200 L590 192" fill="none" stroke="#efe6d4" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M622 202 C636 190 652 186 668 190" fill="none" stroke="#efe6d4" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><ellipse cx="652" cy="206" rx="7.5" ry="6" fill="none" stroke="#efe6d4" stroke-width="1.8" opacity="1.0" transform="rotate(0 652 206)"/><circle cx="652" cy="206" r="2.0" fill="#efe6d4" stroke="#efe6d4" stroke-width="1.0" opacity="1.0"/><path d="M648 203 L656 209 M656 203 L648 209" fill="none" stroke="#efe6d4" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/><path d="M636 214 L630 230 L642 230" fill="none" stroke="#efe6d4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M626 244 C632 249 641 249 647 242" fill="none" stroke="#efe6d4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M618 238 C622 254 628 262 636 262 C644 262 650 254 654 238 C650 250 644 254 636 254 C628 254 622 250 618 238 Z" fill="url(#hatchB)" stroke="#efe6d4" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M622 264 C626 278 631 284 636 284 C641 284 646 278 650 264 C646 274 642 278 636 278 C630 278 626 274 622 264 Z" fill="url(#hatchB)" stroke="#efe6d4" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><line x1="630" y1="270" x2="631" y2="280" stroke="#a9a08c" stroke-width="0.8" stroke-linecap="round" opacity="0.45"/><line x1="638" y1="271" x2="638" y2="281" stroke="#a9a08c" stroke-width="0.8" stroke-linecap="round" opacity="0.45"/><path d="M712 392 C728 392 736 404 736 416 C736 428 726 434 718 430" fill="none" stroke="#efe6d4" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M718 430 L730 440" fill="none" stroke="#efe6d4" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M498 424 L700 424 L722 396 L476 396 Z" fill="none" stroke="#efe6d4" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M490 396 L708 396" fill="none" stroke="#a9a08c" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/><path d="M512 386 L676 386 L670 344 L518 344 Z" fill="none" stroke="#efe6d4" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/><line x1="526" y1="358" x2="566" y2="358" stroke="#4fa8a0" stroke-width="1.5" stroke-linecap="round" opacity="0.9"/><line x1="526" y1="367" x2="590" y2="367" stroke="#4fa8a0" stroke-width="1.3" stroke-linecap="round" opacity="0.75"/><line x1="526" y1="376" x2="548" y2="376" stroke="#c0392b" stroke-width="1.3" stroke-linecap="round" opacity="0.85"/><path d="M532 348 L540 353 L532 358" fill="none" stroke="#4fa8a0" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/><g transform="translate(676,232) scale(1.0)"><path d="M30 88 C22 70 26 48 40 38 C52 29 70 32 76 46 C82 60 74 74 62 78 C54 81 46 80 40 84" fill="none" stroke="#efe6d4" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M40 38 C46 26 62 24 70 32 L76 46 C70 40 58 36 48 40 Z" fill="url(#hatchA)" stroke="#efe6d4" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M74 42 L90 50 L74 54 Z" fill="none" stroke="#d8a54a" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><circle cx="62" cy="40" r="2.8" fill="none" stroke="#efe6d4" stroke-width="1.3" opacity="1.0"/><path d="M40 50 C50 48 60 54 62 66 C56 72 44 70 38 62 Z" fill="url(#hatchB)" stroke="#efe6d4" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M30 86 L17 92 L25 78 Z" fill="none" stroke="#efe6d4" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/></g><path d="M752 400 L796 400 L792 434 L756 434 Z" fill="url(#hatchC)" stroke="#efe6d4" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M796 406 C808 406 808 424 796 424" fill="none" stroke="#efe6d4" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/><path d="M300 500 C330 492 358 510 388 502 C418 494 446 512 476 504" fill="none" stroke="#4fa8a0" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" opacity="0.5"/><path d="M540 506 C570 498 598 516 628 508 C658 500 686 518 716 510" fill="none" stroke="#4fa8a0" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" opacity="0.5"/></g></svg>
   <div class="hero-copy">
     <h2>Ahoy, security folk.</h2>
     <p>Another day, another set of crews sailing straight into the same reef. Here is what the water looks like: what got breached, what got weaponised, what the pit is selling, and what you should patch before someone else does it for you.</p>
@@ -584,7 +590,7 @@ footer.bot a{color:var(--sea)}
     <div class="card-top">
       <span class="tag t-ransomware">EXFIL</span>
       <span class="meta-src">BleepingComputer</span>
-      <span class="meta-rel">14m</span>
+      <span class="meta-rel">23m</span>
       <span class="badge b-new">NEW</span>
     </div>
     <h3 class="card-title"><a href="https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/" target="_blank" rel="noopener noreferrer">Binance denies data breach after alleged ShinyHunters claims</a></h3>
@@ -670,7 +676,7 @@ footer.bot a{color:var(--sea)}
     <div class="card-top">
       <span class="tag t-ransomware">EXFIL</span>
       <span class="meta-src">BleepingComputer</span>
-      <span class="meta-rel">1h</span>
+      <span class="meta-rel">2h</span>
       <span class="badge b-new">NEW</span>
     </div>
     <h3 class="card-title"><a href="https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/" target="_blank" rel="noopener noreferrer">FBI agent stole $2.5 million in crypto from hackers under investigation</a></h3>
@@ -756,7 +762,7 @@ footer.bot a{color:var(--sea)}
     <div class="card-top">
       <span class="tag t-ransomware">EXFIL</span>
       <span class="meta-src">BleepingComputer</span>
-      <span class="meta-rel">2h</span>
+      <span class="meta-rel">3h</span>
       <span class="badge b-new">NEW</span>
     </div>
     <h3 class="card-title"><a href="https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/" target="_blank" rel="noopener noreferrer">US bans MEXC crypto exchange over sanctions evasion, cybercrime links</a></h3>
@@ -1357,7 +1363,7 @@ footer.bot a{color:var(--sea)}
     <div class="card-top">
       <span class="tag t-darkweb">PIT</span>
       <span class="meta-src">GNews: darkweb</span>
-      <span class="meta-rel">1h</span>
+      <span class="meta-rel">2h</span>
       <span class="badge b-new">NEW</span>
     </div>
     <h3 class="card-title"><a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE9qQ1BvY0ppdGg0RWh6ZjF2STVDNUxwNkttaXVLcUYxN1pYWEgzOUQxLVZyWFhvVFRmLVFiUFdicnhRUi05eF94NS1GSHBlZHFsSTBUaTFIaEZXNU5vV2RMRjczOXNjODZlWnVzZ2l3?oc=5" target="_blank" rel="noopener noreferrer">Critical Infrastructure Under Siege, From Freezers to Wider OT - SOCRadar</a></h3>
@@ -1486,7 +1492,7 @@ footer.bot a{color:var(--sea)}
     <div class="card-top">
       <span class="tag t-darkweb">PIT</span>
       <span class="meta-src">GNews: darkweb</span>
-      <span class="meta-rel">2h</span>
+      <span class="meta-rel">3h</span>
       <span class="badge b-new">NEW</span>
     </div>
     <h3 class="card-title"><a href="https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NQTdKT0JpdmVPLWFOZGYwZ2tPVUVpaGVxMlJpRlFOanFZU0s2OVBSdWZ3d1FxdTk0RGJja2xOYTdqZnpKSDVJMTM0REVTMnJNc0tOVUNkV1VlMWtDdW1zOQ?oc=5" target="_blank" rel="noopener noreferrer">Pro-Russian hackers target European officials, offer rewards for personal information - The Record from Recorded Future News</a></h3>
@@ -1701,7 +1707,7 @@ footer.bot a{color:var(--sea)}
     <div class="card-top">
       <span class="tag t-darkweb">PIT</span>
       <span class="meta-src">GNews: darkweb</span>
-      <span class="meta-rel">4h</span>
+      <span class="meta-rel">5h</span>
       <span class="badge b-new">NEW</span>
     </div>
     <h3 class="card-title"><a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMkZzVWJVdEw5aXZDb1o1YnNFYXVuWURSRnE4V2RVLXBFQnpSamVEeGlSZmJvU0ZxX202MmJhUld3RHhNR3NVSUxXWld4VG9XemZDMFF4N2hzMzIzSDBHTFpFeklzcHhscTIzUUhXLXREeUtQa2djN0RTTGt4YmU2dzRvZllkT3hIVU14QlI4ODdJejNUZVdNVnIzeVFYZVpJNS0xeVFaNlBIT2hwNmtha0xrYjBsenJqNnlYQ2xybnp6VFUwN0o3NkVLN0t2UGNSellhSzhNVEcxWlNqV2c?oc=5" target="_blank" rel="noopener noreferrer">Pro-Russian Hackers Targeted Italy&#x27;s Foreign Minister on the Dark Web. He Forced G7 to Address Attacks NATO Cannot Stop. - Tech Times</a></h3>
@@ -1787,7 +1793,7 @@ footer.bot a{color:var(--sea)}
     <div class="card-top">
       <span class="tag t-darkweb">PIT</span>
       <span class="meta-src">GNews: darkweb</span>
-      <span class="meta-rel">6h</span>
+      <span class="meta-rel">7h</span>
       <span class="badge b-new">NEW</span>
     </div>
     <h3 class="card-title"><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE1jZDVGYmNaeXRtLWNIcl9OMlVkNm9vMGh0S0ZjSGlyOWhBREhfZEMzeWFlRWRkLTk4TmJSZFdTQmp5X1BSMEtGNm4yRm5GOHNYTlVWZldsMTd3bmNLZnduWEdBQzVzSkJtaUpoUTBzRQ?oc=5" target="_blank" rel="noopener noreferrer">NoName057(16) doxxes 18 EU officials on Tor site - Cybernews</a></h3>
@@ -2044,7 +2050,7 @@ footer.bot a{color:var(--sea)}
     <div class="card-top">
       <span class="tag t-exploits">CVE</span>
       <span class="meta-src">BleepingComputer</span>
-      <span class="meta-rel">21m</span>
+      <span class="meta-rel">31m</span>
       <span class="badge b-new">NEW</span>
     </div>
     <h3 class="card-title"><a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/" target="_blank" rel="noopener noreferrer">Hackers exploit SSHole OpenSSH flaw to breach Linux systems</a></h3>
@@ -2087,7 +2093,7 @@ footer.bot a{color:var(--sea)}
     <div class="card-top">
       <span class="tag t-exploits">CVE</span>
       <span class="meta-src">GNews: exploits</span>
-      <span class="meta-rel">40m</span>
+      <span class="meta-rel">50m</span>
       <span class="badge b-new">NEW</span>
     </div>
     <h3 class="card-title"><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxPbzVuMWREb0t6XzJNOVZBWmpuN2Z4QXo1cFRwTllFUGJmMm5NdDRMWWFRcXNia3BlbXpUT09aZmxyd2lPSk5hdHhwT3IwSjE0QURUY1pBNDAzemMyZ19Nb0ZPYlNOV1lvX1dLNDJYYXg3cE8xYkxpMnlkaTlMWm9kYlpfdVQyOGo3ZEpnNFZSSmk0QXk2V0JpZHBhNVVwQWRXeWxEQ01Dakxpak1vdU1TU3dkX1E?oc=5" target="_blank" rel="noopener noreferrer">Warning: Actively exploited CVE-2026-19868 affects SonicWall SonicOS SSLVPN, Patch Immediately! - CCB Belgium</a></h3>
@@ -2130,7 +2136,7 @@ footer.bot a{color:var(--sea)}
     <div class="card-top">
       <span class="tag t-exploits">CVE</span>
       <span class="meta-src">GNews: exploits</span>
-      <span class="meta-rel">40m</span>
+      <span class="meta-rel">50m</span>
       <span class="badge b-new">NEW</span>
     </div>
     <h3 class="card-title"><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQSlBqeGt2ZU5JeHFMczhyX2FKSDlrd3ZuelctWjlFRndWWXJmRnB0N0k5MWpwNEo5Ty1HQ3AwcEs3UmtzWWxBMVBIZC1wa3g5eUY5ajRWS2ZIaExCRlVDemowMzJGUTE1bkVPblprQmM3dnZtTW0zYWg4bXVjbHlVVmRfR1Q4T2lvR2ZQek9JUDMtR1JYTFppUGMtQWVfZFN3cS1YaXpBTk11eC1UWmtZN05CUQ?oc=5" target="_blank" rel="noopener noreferrer">Warning: Actively exploited CVE-2026-114713 affects UnrealIRCd, Patch Immediately! - CCB Belgium</a></h3>
@@ -2302,7 +2308,7 @@ footer.bot a{color:var(--sea)}
     <div class="card-top">
       <span class="tag t-exploits">CVE</span>
       <span class="meta-src">The Hacker News</span>
-      <span class="meta-rel">2h</span>
+      <span class="meta-rel">3h</span>
       <span class="badge b-new">NEW</span>
     </div>
     <h3 class="card-title"><a href="https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html" target="_blank" rel="noopener noreferrer">⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More</a></h3>
@@ -2345,7 +2351,7 @@ footer.bot a{color:var(--sea)}
     <div class="card-top">
       <span class="tag t-exploits">CVE</span>
       <span class="meta-src">GNews: exploits</span>
-      <span class="meta-rel">2h</span>
+      <span class="meta-rel">3h</span>
       <span class="badge b-new">NEW</span>
     </div>
     <h3 class="card-title"><a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxNRTh2X2FOREpKRmoxTUNweG1SZ2JqQzhMQWlnYklRZThPd1pWZlFScEozcWF2dG5hSWZDZzlaYktVOG82dTNLUS1NekZOVVE3NTlVR0FndDVMSmNWSVFCQXpOc3ZqMVl1MkVlT09PZzVzeENFdFdXZlJNMTdsUWlYVi1VZw?oc=5" target="_blank" rel="noopener noreferrer">⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More - The Hacker News</a></h3>
@@ -2517,7 +2523,7 @@ footer.bot a{color:var(--sea)}
     <div class="card-top">
       <span class="tag t-exploits">CVE</span>
       <span class="meta-src">Help Net Security</span>
-      <span class="meta-rel">5h</span>
+      <span class="meta-rel">6h</span>
       <span class="badge b-new">NEW</span>
     </div>
     <h3 class="card-title"><a href="https://www.helpnetsecurity.com/2026/11/09/exploited-sonicwall-ssl-vpn-flaw-lets-attackers-bypass-saml-enforced-mfa-cve-2026-19868/" target="_blank" rel="noopener noreferrer">Exploited SonicWall SSL-VPN flaw lets attackers bypass SAML-enforced MFA (CVE-2026-19868)</a></h3>
@@ -2817,7 +2823,7 @@ footer.bot a{color:var(--sea)}
     <div class="card-top">
       <span class="tag t-redteam">TTP</span>
       <span class="meta-src">The Hacker News</span>
-      <span class="meta-rel">4h</span>
+      <span class="meta-rel">5h</span>
       <span class="badge b-new">NEW</span>
     </div>
     <h3 class="card-title"><a href="https://thehackernews.com/2026/11/default-adminadmin-server-password.html" target="_blank" rel="noopener noreferrer">Default &#x27;admin:admin&#x27; Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars</a></h3>
@@ -3633,7 +3639,7 @@ footer.bot a{color:var(--sea)}
     <div class="card-top">
       <span class="tag t-actors">APT</span>
       <span class="meta-src">The Hacker News</span>
-      <span class="meta-rel">1h</span>
+      <span class="meta-rel">2h</span>
       <span class="badge b-new">NEW</span>
     </div>
     <h3 class="card-title"><a href="https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html" target="_blank" rel="noopener noreferrer">Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia</a></h3>
@@ -4019,7 +4025,7 @@ footer.bot a{color:var(--sea)}
     <div class="card-top">
       <span class="tag t-defense">HARDEN</span>
       <span class="meta-src">Dark Reading</span>
-      <span class="meta-rel">40m</span>
+      <span class="meta-rel">50m</span>
       <span class="badge b-new">NEW</span>
     </div>
     <h3 class="card-title"><a href="https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure" target="_blank" rel="noopener noreferrer">NIST: Solo Shouldn&#x27;t Mean Less Secure</a></h3>
@@ -4191,7 +4197,7 @@ footer.bot a{color:var(--sea)}
     <div class="card-top">
       <span class="tag t-defense">HARDEN</span>
       <span class="meta-src">GNews: defense</span>
-      <span class="meta-rel">7h</span>
+      <span class="meta-rel">8h</span>
       <span class="badge b-new">NEW</span>
     </div>
     <h3 class="card-title"><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxQakVUNWNrTGc5LWZNUy1YRDFha09CaThJVUFmaU4tZzRteV9PX0xETHNLdjdoNktJa0lnbnFzY1NCXzhYN0xleDIxb21ncy01VXoxY3JBR3JFal9Ja1ZuZ0F3bUhaVWZtZUhrSGJxblQzNUJDRTRnQk9jSDkxbmRCa3pjR3hydVBIWHhqOHphZkhKem5EVDVHMTQ5bDhuYXJpZXlSbUpR?oc=5" target="_blank" rel="noopener noreferrer">Cyberattacks Without Malware: What Is “Living Off the Land” and How to Detect It - Telefónica</a></h3>
@@ -4320,7 +4326,7 @@ footer.bot a{color:var(--sea)}
     <div class="card-top">
       <span class="tag t-defense">HARDEN</span>
       <span class="meta-src">GNews: defense</span>
-      <span class="meta-rel">9h</span>
+      <span class="meta-rel">10h</span>
       <span class="badge b-new">NEW</span>
     </div>
     <h3 class="card-title"><a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxOb05yODlCSERDOF9SN2ktNmx6TDRSZlU5bjEwTmExM1lOVWZlcWlXZkpnYVJ6Ri1FMTFDM3hyRGNmdjRGT3V2a3pENkdYNWRXMHhDeU41LTdqNzRmWnNtWjFIcWZVdjNSTHFHZk5NendXajRfb0VieDdsb1VZYXB3RGZrYjNaLXNvN1k3Z0VkaVpXQzh6dlNYVlRjdTNfbUREYzJ3V01KY0I5dl9XaXpUeVNPZGVwQjJUWklUY0V4NldTaEQxRlB5VHFDeDNIMVHSAdwBQVVfeXFMTmpwZkJKOF8xWTRqaXlYLXFlNUJlLWVacTJFdXZmaTE2b0JJVnZNMzJ5MktKcW5CUXJuV25JNGNpeEc3ZVE0d3d2bm11ZVgwMmtzaF9WRVc5MTFnZldUcTRhUTNidTNPdk5peEJTOFd1WXJIT3lYcURGMGhvTjFYYWNrNXNacV8yV2FDSVRkdjRBMzZuSXlTSHlnMC1GZ2Z3WTVqWFNfbVBRSEZhUlhXbmlLVjE5QUZ6OVV4bFRubHlNZ0JYUFk4WXZuUGFqX0JoRzhKWnlZclZIYmtmcQ?oc=5" target="_blank" rel="noopener noreferrer">Durga Narayana Varma Addepalli on Building Safer and More Reliable AI-Driven Cloud Systems - Analytics Insight</a></h3>
@@ -4449,7 +4455,7 @@ footer.bot a{color:var(--sea)}
     <div class="card-top">
       <span class="tag t-defense">HARDEN</span>
       <span class="meta-src">GNews: defense</span>
-      <span class="meta-rel">15h</span>
+      <span class="meta-rel">16h</span>
       <span class="badge b-new">NEW</span>
     </div>
     <h3 class="card-title"><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPcDhKbFB1Z3lKamxCbDB6Q2dNcFVZMjhDQ1MySTVxOFRHZl9ENFFlU3VUZnd1dTJWUVpDVVFEWFduM2lrSTczWVRWNmxLVFRLVFpHTGY5ekJXdUNsbUtpcHNWZmtIU1QyNUxrRFhocEZTSERBY0YxYTc0NXMzcGU2cGpnTlNJMUE?oc=5" target="_blank" rel="noopener noreferrer">Review Finds Gaps in Cloud Intrusion Detection Research - Bioengineer.org</a></h3>
@@ -4945,7 +4951,7 @@ footer.bot a{color:var(--sea)}
   <td class="dv-g">BleepingComputer</td>
   <td><a href="https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/" target="_blank" rel="noopener noreferrer">Binance denies data breach after alleged ShinyHunters claims</a></td>
   <td class="dv-c"></td>
-  <td class="dv-d">14m</td>
+  <td class="dv-d">23m</td>
 </tr>
 <tr>
   <td class="dv-g">BleepingComputer</td>
@@ -4957,7 +4963,7 @@ footer.bot a{color:var(--sea)}
   <td class="dv-g">BleepingComputer</td>
   <td><a href="https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/" target="_blank" rel="noopener noreferrer">FBI agent stole $2.5 million in crypto from hackers under investigation</a></td>
   <td class="dv-c"></td>
-  <td class="dv-d">1h</td>
+  <td class="dv-d">2h</td>
 </tr>
 <tr>
   <td class="dv-g">GNews: ransomware</td>
@@ -4969,7 +4975,7 @@ footer.bot a{color:var(--sea)}
   <td class="dv-g">BleepingComputer</td>
   <td><a href="https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/" target="_blank" rel="noopener noreferrer">US bans MEXC crypto exchange over sanctions evasion, cybercrime links</a></td>
   <td class="dv-c"></td>
-  <td class="dv-d">2h</td>
+  <td class="dv-d">3h</td>
 </tr>
 <tr>
   <td class="dv-g">AOQIN</td>
@@ -5047,25 +5053,25 @@ footer.bot a{color:var(--sea)}
   <td class="dv-g">N0N</td>
   <td><a href="http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion" target="_blank" rel="noopener noreferrer">LEAK SITE: unknown victim (ZA) claimed by N0N</a></td>
   <td class="dv-c">ZA</td>
-  <td class="dv-d">5h</td>
+  <td class="dv-d">6h</td>
 </tr>
 <tr>
   <td class="dv-g">N0N</td>
   <td><a href="http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion" target="_blank" rel="noopener noreferrer">LEAK SITE: unknown victim (DK) claimed by N0N</a></td>
   <td class="dv-c">DK</td>
-  <td class="dv-d">5h</td>
+  <td class="dv-d">6h</td>
 </tr>
 <tr>
   <td class="dv-g">N0N</td>
   <td><a href="http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion" target="_blank" rel="noopener noreferrer">LEAK SITE: unknown victim (HK) claimed by N0N</a></td>
   <td class="dv-c">HK</td>
-  <td class="dv-d">5h</td>
+  <td class="dv-d">6h</td>
 </tr>
 <tr>
   <td class="dv-g">N0N</td>
   <td><a href="http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion" target="_blank" rel="noopener noreferrer">LEAK SITE: unknown victim (SA) claimed by N0N</a></td>
   <td class="dv-c">SA</td>
-  <td class="dv-d">5h</td>
+  <td class="dv-d">6h</td>
 </tr>
 <tr>
   <td class="dv-g">N0N</td>

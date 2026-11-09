@@ -297,9 +297,12 @@ header.top{
 
 /* ---------------- hero */
 .hero{position:relative;margin:26px 0 8px;border:1px solid var(--line);background:linear-gradient(160deg,#0b1017 0%,#080b10 60%,#100c0a 100%);overflow:hidden}
+.hero::after{content:"";position:absolute;inset:0;background:linear-gradient(100deg,rgba(6,9,13,.9) 0%,rgba(6,9,13,.55) 38%,rgba(6,9,13,0) 58%);pointer-events:none;z-index:2}
 .hero-art{display:block;width:100%;height:auto}
 .hero-copy{
-  position:absolute;left:26px;top:24px;max-width:430px;
+  position:absolute;left:26px;top:24px;max-width:400px;z-index:3;
+  background:linear-gradient(100deg, rgba(7,10,14,.92) 0%, rgba(7,10,14,.80) 62%, rgba(7,10,14,0) 100%);
+  padding:14px 30px 14px 0;
 }
 .hero-copy h2{font-family:var(--serif);font-size:clamp(22px,3vw,34px);margin:0 0 10px;color:var(--ink);font-style:italic}
 .hero-copy p{color:var(--ink-dim);font-size:13px;margin:0 0 14px;max-width:400px}
@@ -469,6 +472,9 @@ def build(feed: dict, intel: list[dict]) -> str:
 <meta property="og:description" content="Ransomware, dark web, exploits and red team tradecraft — daily, with a pirate's eye.">
 <meta property="og:type" content="website">
 <meta http-equiv="refresh" content="3600">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Pirata+One&family=Cormorant+Garamond:ital,wght@0,600;1,400&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
 <style>{CSS}</style>
 </head>
 <body>

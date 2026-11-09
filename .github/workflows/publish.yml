@@ -7,9 +7,11 @@ on:
     # weekly deep refresh (Sunday 07:00 UTC)
     - cron: '0 7 * * 0'
   workflow_dispatch:
+  push:
+    branches: [main]
 
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 
@@ -31,6 +33,10 @@ jobs:
         with:
           python-version: '3.12'
 
+      # Re-collect so the published page is never stale, even when the local
+      # cron box was asleep. data/intel.json (council findings) is read from
+      # the repo and preserved. This job NEVER commits back to main — the
+      # local pipeline owns the repository, so the two never collide.
       - name: Collect fresh intel
         run: python3 scripts/collect.py
 
@@ -48,20 +54,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deploy
         uses: actions/deploy-pages@v4
-
-      - name: Commit new edition back to main
-        run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
-          if git diff --staged --quiet; then
-            echo "nothing new to commit"
-          else
-            git commit -m "briefing: refresh $(date -u +%Y-%m-%d)"
-            for i in 1 2 3; do
-              if git pull --rebase --autostash origin main && git push; then
-                echo "pushed"; break
-              fi
-              echo "retry $i"; sleep 5
-            done
-          fi
