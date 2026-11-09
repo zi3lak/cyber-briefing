@@ -1113,5 +1113,25 @@
   "first_seen": "2026-11-09T16:12:53.633241+00:00",
   "first_seen_date": "2026-11-09",
   "title": "LEAK SITE: wooshinsys.co.kr/eng/main (KR) claimed by METAENCRYPTOR"
+ },
+ "50d94fad701a819a": {
+  "first_seen": "2026-11-09T16:26:42.598704+00:00",
+  "first_seen_date": "2026-11-09",
+  "title": "Metasploit Wrapup: Unauth RCE modules in Network Perimeter Devices and much more"
+ },
+ "8f734625b3c30ee8": {
+  "first_seen": "2026-11-09T16:26:42.598704+00:00",
+  "first_seen_date": "2026-11-09",
+  "title": "Critical Infrastructure Under Siege, From Freezers to Wider OT - SOCRadar"
+ },
+ "a4b701975c542247": {
+  "first_seen": "2026-11-09T16:26:42.598704+00:00",
+  "first_seen_date": "2026-11-09",
+  "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation - The Hacker News"
+ },
+ "44a9e4ba0719fa8e": {
+  "first_seen": "2026-11-09T16:26:42.598704+00:00",
+  "first_seen_date": "2026-11-09",
+  "title": "LEAK SITE: unknown victim (CO) claimed by AOQIN"
  }
 }

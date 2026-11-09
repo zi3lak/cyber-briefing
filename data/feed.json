@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T16:12:53.633241+00:00",
+ "generated": "2026-11-09T16:26:42.598704+00:00",
  "date": "2026-11-09",
  "buckets": {
   "ransomware": [
@@ -61,6 +61,22 @@
     "origin": "feed",
     "hash": "09c03b3a3676da32",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
+    "age_days": 0.0
+   },
+   {
+    "title": "LEAK SITE: unknown victim (CO) claimed by AOQIN",
+    "url": "http://aoqinwwrizxbrwm3qb6l4jzgujgmcetp4jaug7fqylbf3xcwqwzvbuid.onion",
+    "summary": "Fortox Security Group is a private security company based in Colombia with over 50 years of experience, specializing in comprehensive security solutions including physical security, electronic security, and reliability studies for businesses. They design hybrid security solutions that integrate technology and trained personnel to protect individuals, assets, and operations across the country. Their services cater to various sectors such as industrial, ret… | data: size unknown | discovered 2026-11-09 12:20 UTC",
+    "source": "ransomware.live",
+    "published": "2026-11-09T12:20:40.201661+00:00",
+    "category": "ransomware",
+    "origin": "api",
+    "extra": {
+     "group": "AOQIN",
+     "country": "CO"
+    },
+    "hash": "44a9e4ba0719fa8e",
+    "first_seen": "2026-11-09T16:26:42.598704+00:00",
     "age_days": 0.0
    },
    {
@@ -980,22 +996,6 @@
     "age_days": 0.0
    },
    {
-    "title": "LEAK SITE: wooshinsys.co.kr/eng/main (KR) claimed by METAENCRYPTOR",
-    "url": "https://metacrpttdfpbm4qoxzcrqqgr6e6zafpazgxm72knmujw2mwvi34rwad.onion/0AFC:7d4f8197d5fcf24d33f90b7bfaeba7e4aa7577544549bed57818e6f5f0b2bcd5/0AFC:4bd29f600092b99c78c8b76c8a904cf7bedf8c3527b7ed5e816915817bc84d4f",
-    "summary": "Based on our technology and know-how accumulated since our founding in 1984, Wooshin System has become a leader for the future of automotive industry through continuous R&D, under the goal of making the life of the human more productive and valuable. Data size: — | data: size unknown | discovered 2026-11-07 11:41 UTC",
-    "source": "ransomware.live",
-    "published": "2026-11-07T11:41:12.887935+00:00",
-    "category": "ransomware",
-    "origin": "api",
-    "extra": {
-     "group": "METAENCRYPTOR",
-     "country": "KR"
-    },
-    "hash": "a9aa750cc965996d",
-    "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
-   },
-   {
     "title": "Certificate authority DigiCert reports data breach involving business customer info",
     "url": "https://therecord.media/digicert-certificate-authority-reports-data-breach",
     "summary": "DigiCert explained that over the summer, an internal business system was \"externally accessible when that was not intended,\" and someone had created an unauthorized account.",
@@ -1043,6 +1043,18 @@
     "origin": "feed",
     "hash": "9b173881b4e1a937",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
+    "age_days": 0.0
+   },
+   {
+    "title": "Critical Infrastructure Under Siege, From Freezers to Wider OT - SOCRadar",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qQ1BvY0ppdGg0RWh6ZjF2STVDNUxwNkttaXVLcUYxN1pYWEgzOUQxLVZyWFhvVFRmLVFiUFdicnhRUi05eF94NS1GSHBlZHFsSTBUaTFIaEZXNU5vV2RMRjczOXNjODZlWnVzZ2l3?oc=5",
+    "summary": "Critical Infrastructure Under Siege, From Freezers to Wider OT SOCRadar",
+    "source": "GNews: darkweb",
+    "published": "2026-11-09T14:33:24+00:00",
+    "category": "darkweb",
+    "origin": "feed",
+    "hash": "8f734625b3c30ee8",
+    "first_seen": "2026-11-09T16:26:42.598704+00:00",
     "age_days": 0.0
    },
    {
@@ -1282,18 +1294,6 @@
     "category": "darkweb",
     "origin": "feed",
     "hash": "bfabb32903bf9998",
-    "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
-   },
-   {
-    "title": "Giorgia Meloni blames pro-Russian hackers for leaking foreign minister’s personal data to dark web - The Hill",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOWZ5V00xU0RFejBRQlZobE5CWWlHcTVQUE9FTzN6WG1kY1ZCZ1pYRFoxZHd0QnVQN2JlSWkwQ3RNUG9XazJSTFpBY0VpSXk3TEJvVTlMU1hwMjh1NkZqVHRKdEh0eFpmcGtydnNtZ0tJTEFFd2RoX3FzbEd4cWxaZEJqWVNkc3lUYXBTYno1NNIBlAFBVV95cUxOOUFxcDVPbG03cGdNX0lOMnR3LTVLTHE3bXlxd0RzU20wSkZtSWNlRV9lSVA0TnJGSzRNWkNQVjI5MkkyTldkeEJMNElaS2w4VFhkLTZwWWo0bWg1WVR2c3hKVzNBTmJPTTVoUE11c1FOSlV1R2h5WEt4Vzc1cXd1dXBUejFvaTFCRGhLSkdnbmU1OWli?oc=5",
-    "summary": "Giorgia Meloni blames pro-Russian hackers for leaking foreign minister’s personal data to dark web The Hill",
-    "source": "GNews: darkweb",
-    "published": "2026-11-08T14:27:00+00:00",
-    "category": "darkweb",
-    "origin": "feed",
-    "hash": "1acf57a993b388a6",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
     "age_days": 0.0
    },
@@ -1657,6 +1657,18 @@
     "origin": "feed",
     "hash": "b985c19cc74d2dca",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
+    "age_days": 0.0
+   },
+   {
+    "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation - The Hacker News",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUjlURm1XclVha3VlWUM0UTVVWFFXTVRueUdLUXdaWVVOa1pHZ0xZNDNqeVdRdktkdVlWbGJ2MV9wZW5IeVAzeUw3NzJBQlVTTG5pTjFKMUtqYl9RZTEzNWRfSEdFTjVnNl9QNHdfM0VKdWtIYmJEaXpZdTc2SXAzM1plaUE?oc=5",
+    "summary": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation The Hacker News",
+    "source": "GNews: exploits",
+    "published": "2026-11-09T06:05:00+00:00",
+    "category": "exploits",
+    "origin": "feed",
+    "hash": "a4b701975c542247",
+    "first_seen": "2026-11-09T16:26:42.598704+00:00",
     "age_days": 0.0
    },
    {
@@ -2093,6 +2105,18 @@
     "origin": "feed",
     "hash": "d01b9c75e0a42a44",
     "first_seen": "2026-11-09T16:12:53.633241+00:00",
+    "age_days": 0.0
+   },
+   {
+    "title": "Metasploit Wrapup: Unauth RCE modules in Network Perimeter Devices and much more",
+    "url": "https://www.rapid7.com/blog/post/pt-metasploit-wrapup-unauth-rce-modules-in-network-perimeter-devices-and-much-more",
+    "summary": "",
+    "source": "Rapid7",
+    "published": "2026-11-06T13:52:11+00:00",
+    "category": "exploits",
+    "origin": "feed",
+    "hash": "50d94fad701a819a",
+    "first_seen": "2026-11-09T16:26:42.598704+00:00",
     "age_days": 0.0
    },
    {
@@ -2758,18 +2782,6 @@
     "age_days": 0.0
    },
    {
-    "title": "Laser Shearography in FRP Composites Under ISO 8203-4:2025 - Inspenet",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Hd2prT0JEMk1JLW9wbkdscTJLNHVFc29fUXZtNkRFQ2Y5ZnZkenlEZncwdThEdzQxOEhHQmtDaUQ3Y29kZmNYMmh0NWprREVlSWhWMUlNaDhaSWE5TnZWNkdSbzN5alhUV295c2JSa0VlUk51YzhoelltbHdMVGc?oc=5",
-    "summary": "Laser Shearography in FRP Composites Under ISO 8203-4:2025 Inspenet",
-    "source": "GNews: defense",
-    "published": "2026-11-08T06:30:00+00:00",
-    "category": "defense",
-    "origin": "feed",
-    "hash": "d17de0e0001b87df",
-    "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
-   },
-   {
     "title": "New urine test detects 95% of bladder cancer cases in study: What patients should know - The Indian Express",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR1k5ck9WaUZxekhYLWxyN3JiODNDdHMtaUM0X2U4QVVzR1Uteno0cmtBM2hhSURycG1Ra3N5dEpqRHA3N1VrTWpxQXE3alIxTnVvTTZSNGNXb18ya3VicURqdUJqaDVrWmE1Z3RxOEM4WFU0MnNfMjl3Y21IejVQbjhVeVdVQmw3SUlWTm02Ulo5eVcxVGlJcW9ST24ySlJvSnJBNzFOTmhrN0ZJRjdwejB6Rmd5YzBWU3dpZWY4NmlNT0tkNmxSXzBjN3lSRTNYMlHSAdgBQVVfeXFMTUNBanFrNlpBM0N4VzdiX2hObWphRTAwcUxubUhxRDQ3UENPMHFtNUFnYTZJYlY3UTNuMmdrTDZwcTBsci1UT1hRMW45bXZYMEliZXhFY05HbEZGS3JGWW9HUzVZNXJKUS1BcFV2WDVZcl9vU1Z6Z3BQdWpycUgtVmJvaTF2eWFvdHlVdGpTaWNOZW9JRDZwdzRGZHBINEowNjRwRklMQVBiZ2o5YmJYZlprOTFkY2ptd0h3Y1dvU3dKQTUwM2VLdlk2V1R5aXpfcmdKNEVyU19E?oc=5",
     "summary": "New urine test detects 95% of bladder cancer cases in study: What patients should know The Indian Express",
@@ -3021,8 +3033,8 @@
    "blurb": "New toys for the rack, the red cell and the basement."
   }
  ],
- "new_count": 223,
- "returning_count": 0,
- "total": 223,
+ "new_count": 4,
+ "returning_count": 220,
+ "total": 224,
  "errors": []
 }
