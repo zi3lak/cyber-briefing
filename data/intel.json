@@ -1,120 +1,186 @@
 {
- "generated": "2026-11-09T16:41:04.904216+00:00",
+ "generated": "2026-11-09T17:18:08.889903+00:00",
  "findings": [
   {
-   "agent": "athena",
-   "beat": "ransomware",
-   "ticker": "QUEENSLIB",
-   "title": "QUEENS PUBLIC LIBRARY RANSOMWARE CRIPPLES 66 BRANCHES",
-   "source": "The Record (Recorded Future News)",
-   "url": "https://therecord.media/queens-library-ransomware-causes-disruptions",
-   "date": "2026-11-05",
-   "comment": "Wi-Fi, checkout machines, and the website all walked the plank while 2.3 million New Yorkers just wanted to return a library book, ye scallywags.",
-   "hash": "1a0a9320dea60233"
-  },
-  {
-   "agent": "athena",
-   "beat": "ransomware",
-   "ticker": "ANUBISLIND",
-   "title": "ANUBIS CREW DEPLOYS NEW LINDNOR BACKDOOR, GETS FOILED ANYWAY",
-   "source": "Symantec via security.com",
-   "url": "https://www.security.com/threat-intelligence/lindnor-new-backdoor-anubis-ransomware",
-   "date": "2026-11-05",
-   "comment": "Thirteen security killers and five vulnerable drivers in under an hour, and still the encryption payload sank before it sailed — Hawkmoth's crew brought a cannon to a knife fight and missed.",
-   "hash": "dbec2a178c9d5015"
-  },
-  {
-   "agent": "athena",
-   "beat": "ransomware",
-   "ticker": "SOULDEBUT",
-   "title": "NEW SOUL GANG POSTS 25 VICTIMS WITHIN HOURS OF LAUNCH",
-   "source": "QUE.com",
-   "url": "https://que.com/soul-ransomware-gang-debuts-with-25-victims-as-november-extortion-claims-hit-355/",
+   "agent": "orion",
+   "beat": "defense",
+   "ticker": "DEF-PATCH",
+   "title": "CISA DROPS THREE FRESH EXPLOITED BUGS WITH A 72-HOUR DEADLINE",
+   "source": "CISA KEV Catalog",
+   "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
    "date": "2026-11-09",
-   "comment": "A leak site this polished on day one smells less like a scrappy upstart and more like a rebrand wearin' a fake beard.",
-   "hash": "7527e8b65e50ad14"
+   "comment": "FreeSWITCH, GPUStack and OpenSSH all landed in the catalog on a quiet Sunday with remedies due Wednesday — CISA hands feds a three-day patch clock, so batten those hatches today, not after yer coffee.",
+   "hash": "dd2dc69b0602b05f"
   },
   {
-   "agent": "athena",
-   "beat": "ransomware",
-   "ticker": "N0NFLOOD",
-   "title": "N0N GANG CLAIMS 115 VICTIMS, ONE THIRD OF NOVEMBER'S HAUL",
-   "source": "Ransomnews / RedPacketSecurity",
-   "url": "https://www.redpacketsecurity.com/n0n-ransomware-victim-company-183/",
+   "agent": "orion",
+   "beat": "defense",
+   "ticker": "DEF-PATCH",
+   "title": "GPUSTACK AUTH BYPASS YIELDS ADMIN ON AI GPU CLUSTERS",
+   "source": "Security Online",
+   "url": "https://securityonline.info/gpustack-authentication-bypass-cve-2026-102895-exploited",
+   "date": "2026-11-05",
+   "comment": "Yer shiny AI GPU fleet hands admin to any scallywag who whispers \"127.0.0.1\" via a spoofed header — flip force_auth_localhost to true, strip X-GPUStack-Real-IP at the proxy, or watch yer cloud keys sail off on a rented AWS sloop.",
+   "hash": "1fcace738ba310e3"
+  },
+  {
+   "agent": "orion",
+   "beat": "defense",
+   "ticker": "DEF-PATCH",
+   "title": "SONICWALL SSLVPN SAML MFA BYPASS, NO WORKAROUND",
+   "source": "CISA KEV Catalog",
+   "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+   "date": "2026-11-06",
+   "comment": "A second login route quietly steps around yer SAML-enforced MFA like a drunk guard waving drunks past — no workaround exists, so patch Gen7 and Gen8 firmware before ransomware crews chart this well-worn VPN course.",
+   "hash": "1e2cf9c748232dd5"
+  },
+  {
+   "agent": "orion",
+   "beat": "defense",
+   "ticker": "DEF-PATCH",
+   "title": "GITLAB CVSS 10 CI LINT RCE TAKES 225 SHOTS IN FIVE DAYS",
+   "source": "CrowdSec",
+   "url": "https://www.crowdsec.net/vulntracking-report/cve-2026-97229-gitlab-rce-exploitation",
    "date": "2026-11-09",
-   "comment": "355 claimed victims in nine days across 45 crews — the extortion economy's never looked healthier, which is to say everyone else's week has never looked worse.",
-   "hash": "457f742475f3a20a"
+   "comment": "Two hundred twenty-five unauthenticated cannon blasts at self-managed GitLabs Nov 4-8 with no confirmed prize yet — patch to 19.4.2 and mind the Ruby hiding under the deck, or yer pipeline secrets feed the fish.",
+   "hash": "ae7eec00035cb114"
   },
   {
-   "agent": "athena",
-   "beat": "ransomware",
-   "ticker": "BLATTRANSOM",
-   "title": "BARRACUDA GROUP CLAIMS GERMAN ARCHITECTURE FIRM ADG BLATT",
-   "source": "HookPhish",
-   "url": "https://www.hookphish.com/blog/ransomware-group-barracuda-hits-adg-blatt/",
-   "date": "2026-11-08",
-   "comment": "Blueprints and client contracts up for sale at fifty grand, no proof offered beyond the gang's own word — buyer beware, or don't buy at all, ye fools.",
-   "hash": "c0e87c04e5c8588f"
+   "agent": "orion",
+   "beat": "defense",
+   "ticker": "DEF-TOOL",
+   "title": "ARES OPEN-CORE RED TEAM PLATFORM MAPS PATHS TO DOMAIN ADMIN",
+   "source": "GitHub / Cyber Security News",
+   "url": "https://github.com/Mafifrizi/ARES",
+   "date": "2026-11-02",
+   "comment": "A free red-team galleon with 66 modules mapped to ATT&CK and graded by OPSEC noise — grand for yer purple crew, less grand knowing every script kiddie can download the same cannons by suppertime.",
+   "hash": "2506931b9c578182"
   },
   {
    "agent": "prometheus",
    "beat": "actors",
-   "ticker": "SOUL",
-   "title": "SOUL RANSOMWARE GANG DEBUTS WITH 25 VICTIMS",
-   "source": "QUE.com",
-   "url": "https://que.com/soul-ransomware-gang-debuts-with-25-victims-as-november-extortion-claims-hit-355/",
+   "ticker": "N0N",
+   "title": "N0N RANSOMWARE SPREE LISTS EXPEDIA, STAPLES, HALLMARK",
+   "source": "Ransomware.live",
+   "url": "https://www.ransomware.live/group/N0n",
    "date": "2026-11-09",
-   "comment": "A brand-new crew calling itself Soul dropped 25 victims on its leak site in one day. Either veterans in fresh colors or the fastest shipwrights the seas have seen, nobody can say yet.",
-   "hash": "14afd31fb1494d74"
+   "comment": "N0n dumped Staples, Expedia, Hallmark and a whole fleet of biopharma names this week, 281 victims total, yet offers not a doubloon of proof for the big prizes. Bold as a broadside, thin as the last rum ration.",
+   "hash": "6da150b578cbc0ac"
   },
   {
    "agent": "prometheus",
    "beat": "actors",
-   "ticker": "ARTEX",
-   "title": "STORM-3358 WIELDS AGENTIC AI FRAMEWORK ON BANKS",
+   "ticker": "STORM-3358",
+   "title": "STORM-3358 WIELDS ARTEX AI AGAINST BANKS",
    "source": "Microsoft Security Blog",
    "url": "https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/",
    "date": "2026-11-06",
-   "comment": "Microsoft tracks Cambodia-based Storm-3358 turning the ARTEX agentic AI framework loose on Southeast Asian banks since October. Robbers letting the robots row the longboat now.",
-   "hash": "f05635b5297013b1"
+   "comment": "Cambodia-based Storm-3358 turned the ARTEX agentic framework loose on Southeast Asian finance since October, letting robot deckhands run the boarding party. Even the pirates have automated the galley now.",
+   "hash": "50d53649999d208e"
   },
   {
    "agent": "prometheus",
    "beat": "actors",
    "ticker": "APT29",
-   "title": "COZY BEAR WATERING HOLE HARVESTS PHONES",
-   "source": "jark.me",
-   "url": "https://jark.me/blog/cozy-bear-empties-phones-with-exploits-apple-already-fixed/",
-   "date": "2026-11-08",
-   "comment": "Sekoia fingers APT29 with moderate-to-high confidence for Poisoned Source, poisoning an analytics script to swipe cookies and Wi-Fi passwords from unpatched iPhones in Ukraine. SVR crooks squatting in the watering hole.",
-   "hash": "6b496d9281ed6ce0"
+   "title": "COZY BEAR POISONS WEB ANALYTICS IN WATERING HOLE CAMPAIGN",
+   "source": "Sekoia",
+   "url": "https://www.sekoia.com/blog/poisoned-source-apt29-watering-holes-targets-mobile-devices-with-n-day-exploits",
+   "date": "2026-11-04",
+   "comment": "SVR-linked APT29 hijacked the Plerdy analytics script to serve n-day exploit chains at thousands of phones, mostly Ukrainian, slurping Telegram, Keychain and WhatsApp booty. Old bear, new tricks, same thieving paws.",
+   "hash": "56af94b1bed5dd5a"
   },
   {
-   "agent": "vulcan",
-   "beat": "exploits",
-   "ticker": "SSHOLE",
-   "title": "OPENSSH AUTH BYPASS EXPLOITED",
-   "source": "GreyNoise",
-   "url": "https://sshole.events.greynoise.io/",
+   "agent": "prometheus",
+   "beat": "actors",
+   "ticker": "BITTER APT",
+   "title": "BITTER APT SPEARPHISHS SOUTH ASIA WITH PAPRAT",
+   "source": "Check Point Research",
+   "url": "https://research.checkpoint.com/2026/9th-november-threat-intelligence-report/",
    "date": "2026-11-09",
-   "comment": "Arrr, oversized passwords now unlock Alpine boxes, and attackers reached post-exploitation before many captains had read the advisory.",
-   "hash": "64501311248c1b7e"
+   "comment": "BITTER APT lobbed diplomatic and military lures at government, energy and engineering targets across South Asia to deliver PapRAT spyware, per Fortinet. A seasoned privateer still sailing the same tired waters.",
+   "hash": "05f04e677058390d"
+  },
+  {
+   "agent": "prometheus",
+   "beat": "actors",
+   "ticker": "SNOWBALL",
+   "title": "OPERATION SNOWBALL: AUTONOMOUS AI INTRUSIONS HIT EUROPEAN TELECOM",
+   "source": "GBHackers",
+   "url": "https://gbhackers.com/operation-snowball-campaign/",
+   "date": "2026-11-08",
+   "comment": "Malbear Labs found a DeepSeek Flash-powered autonomous harness prowling a European telecom and 13 hosted orgs via Cisco BroadWorks XSP for two weeks. No flag, no face, just a ghost crew with a very long prompt.",
+   "hash": "d1318501ffc10713"
+  },
+  {
+   "agent": "prometheus",
+   "beat": "actors",
+   "ticker": "SOUL",
+   "title": "SOUL RANSOMWARE DEBUTS WITH 25 VICTIMS IN A DAY",
+   "source": "Orbitaley",
+   "url": "https://orbitaley.com/news/weekly-threat-bulletin-2-9-november-2026-n0n-leads-the-activity-and-new-group-y1d6z",
+   "date": "2026-11-09",
+   "comment": "New crew Soul posted its first leak-site prizes on Nov 4 and racked up 25 victims on day one, while N0n led the week with 45 claims across 36 countries. Fresh keel, same extortion cargo.",
+   "hash": "d6e32d228b377357"
+  },
+  {
+   "agent": "prometheus",
+   "beat": "actors",
+   "ticker": "SLIPPYNUNCHUCKS",
+   "title": "SLIPPYNUNCHUCKS ABUSES SOGOU UPDATES FOR DARKVIGIL",
+   "source": "Check Point Research",
+   "url": "https://research.checkpoint.com/2026/9th-november-threat-intelligence-report/",
+   "date": "2026-11-09",
+   "comment": "China-aligned SlippyNunchucks hijacked Sogou input-method updates through DNS trickery to drop DarkVigil malware. Poisoning the very keyboards folk type their pleas for help on. Devilish tidy work.",
+   "hash": "eaea8e6c8c6d8fa3"
   },
   {
    "agent": "vulcan",
    "beat": "exploits",
-   "ticker": "CLAUDE",
-   "title": "CODING-AGENT SECRETS EXPOSED",
-   "source": "SANS ISC",
+   "ticker": "CVE-2026-123158",
+   "title": "SSHOLE EXPLOIT SCANS HIT HONEYPOTS",
+   "source": "SANS Internet Storm Center",
    "url": "https://isc.sans.edu/podcastdetail/10170",
    "date": "2026-11-09",
-   "comment": "Over a thousand public Claude settings files reportedly carried credentials, while honeypots caught fresh probing; “don’t ask again” became “steal me later.”",
-   "hash": "88e2867499953bff"
+   "comment": "Arrr, attackers need only a comically long password; Alpine’s tiny attack surface apparently included a gangplank.",
+   "hash": "6e4b45d88f875df1"
+  },
+  {
+   "agent": "vulcan",
+   "beat": "exploits",
+   "ticker": "CVE-2026-19868",
+   "title": "SONICWALL MFA BYPASS JOINS KEV",
+   "source": "Canadian Centre for Cyber Security",
+   "url": "https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av26-1133",
+   "date": "2026-11-06",
+   "comment": "Arrr, valid alternate credentials can sidestep SAML-enforced MFA, because two locks are useless when one door ignores both.",
+   "hash": "f83c5ccfd3f597b6"
+  },
+  {
+   "agent": "vulcan",
+   "beat": "exploits",
+   "ticker": "CVE-2026-116606",
+   "title": "BARRACUDA ROOT CHAIN ENTERS NUCLEI",
+   "source": "ThreatDefence",
+   "url": "https://threatdefence.com/article/barracuda-esg-cve-2026-116606-patching-hunting",
+   "date": "2026-11-08",
+   "comment": "Arrr, the pre-auth ESG chain now has a public Nuclei template; mass probing be industrialised before confirmed attacks even arrive.",
+   "hash": "998f5aa079294dfd"
+  },
+  {
+   "agent": "vulcan",
+   "beat": "exploits",
+   "ticker": "CVE-2026-99284",
+   "title": "LINUX ZERO-COPY BUG ENABLES ROOT",
+   "source": "Red Hat",
+   "url": "https://access.redhat.com/security/cve/cve-2026-99284",
+   "date": "2026-11-07",
+   "comment": "Arrr, a low-privileged user can overwrite cached read-only files through packet processing; “read-only” was merely a polite suggestion.",
+   "hash": "9d4def4cb2b7b1be"
   }
  ],
  "dropped": {
-  "duplicate": 7,
-  "url_dead": 1,
-  "bad_format": 13
+  "duplicate": 2,
+  "url_dead": 2,
+  "bad_format": 15
  }
 }
