@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T17:08:23.606900+00:00",
+ "generated": "2026-11-09T17:18:40.441192+00:00",
  "date": "2026-11-09",
  "buckets": {
   "ransomware": [
@@ -2638,30 +2638,6 @@
     "age_days": 0.0
    },
    {
-    "title": "Machine Learning Models Analyze Tabular Clinical Data to Improve Glaucoma Detection - Bioengineer.org",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcDYxX2hkakpuOVFITHNRQ2wyVGxsdDRhb2Y1UGt3VFI1UFY3OXlhRTZpR1FwSnJDR3hDXzQ0aFc0OTZEYzVQcW5lUzliMWM1YmozZ0NFME5jU2wyMjFMUERpNE15V3hxRDFMeUNxRG5uRXBuZjlkNFZQMUktLUhYY1VEcDN2Ujlqa1g4THIxeEt6MDNUSTN0M0I4UjE2OVZRdGNka3c3VERyOHBo?oc=5",
-    "summary": "Machine Learning Models Analyze Tabular Clinical Data to Improve Glaucoma Detection Bioengineer.org",
-    "source": "GNews: defense",
-    "published": "2026-11-08T07:01:33+00:00",
-    "category": "defense",
-    "origin": "feed",
-    "hash": "a627801001c91752",
-    "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
-   },
-   {
-    "title": "New urine test detects 95% of bladder cancer cases in study: What patients should know - The Indian Express",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR1k5ck9WaUZxekhYLWxyN3JiODNDdHMtaUM0X2U4QVVzR1Uteno0cmtBM2hhSURycG1Ra3N5dEpqRHA3N1VrTWpxQXE3alIxTnVvTTZSNGNXb18ya3VicURqdUJqaDVrWmE1Z3RxOEM4WFU0MnNfMjl3Y21IejVQbjhVeVdVQmw3SUlWTm02Ulo5eVcxVGlJcW9ST24ySlJvSnJBNzFOTmhrN0ZJRjdwejB6Rmd5YzBWU3dpZWY4NmlNT0tkNmxSXzBjN3lSRTNYMlHSAdgBQVVfeXFMTUNBanFrNlpBM0N4VzdiX2hObWphRTAwcUxubUhxRDQ3UENPMHFtNUFnYTZJYlY3UTNuMmdrTDZwcTBsci1UT1hRMW45bXZYMEliZXhFY05HbEZGS3JGWW9HUzVZNXJKUS1BcFV2WDVZcl9vU1Z6Z3BQdWpycUgtVmJvaTF2eWFvdHlVdGpTaWNOZW9JRDZwdzRGZHBINEowNjRwRklMQVBiZ2o5YmJYZlprOTFkY2ptd0h3Y1dvU3dKQTUwM2VLdlk2V1R5aXpfcmdKNEVyU19E?oc=5",
-    "summary": "New urine test detects 95% of bladder cancer cases in study: What patients should know The Indian Express",
-    "source": "GNews: defense",
-    "published": "2026-11-08T05:29:33+00:00",
-    "category": "defense",
-    "origin": "feed",
-    "hash": "a69da5c356a3cd3c",
-    "first_seen": "2026-11-09T16:12:53.633241+00:00",
-    "age_days": 0.0
-   },
-   {
     "title": "Spectroscopic Technology Advances Agricultural Product Quality and Food Safety Detection Systems - Bioengineer.org",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeW1HekFDeG8tMGtNaG56dDhBajVjNVhYN2hfYUlJdWZYN1hESERXSUdkcjFQZHdQUVRZVGxsZnNHaTZKbENJd1pIRFNyeXQ3UUxROEg0QVh6T01vMm16WWx4TWJBOWtUMDFnVHpDM3hHaHhHNVpzSlNNbDczVjg1X0RySEZjOHBpbk9URkdta2VQaDVkYjRMRFVEdERMNHRJbmhyWnJacVhWWnd1LUpfOWljWEFJUTQ2VTlQdEdB?oc=5",
     "summary": "Spectroscopic Technology Advances Agricultural Product Quality and Food Safety Detection Systems Bioengineer.org",
@@ -2865,8 +2841,8 @@
    "blurb": "New toys for the rack, the red cell and the basement."
   }
  ],
- "new_count": 3,
- "returning_count": 209,
- "total": 212,
+ "new_count": 0,
+ "returning_count": 210,
+ "total": 210,
  "errors": []
 }

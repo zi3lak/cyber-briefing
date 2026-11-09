@@ -17,6 +17,7 @@ import os
 import re
 import subprocess
 import sys
+import time
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -133,7 +134,9 @@ def parse_findings(text: str) -> list[dict]:
     out = []
     for ln in text.splitlines():
         parts = [p.strip() for p in ln.split("|")]
-        if len(parts) < 5:
+        if len(parts) < 6:
+            if "|" not in ln and ("FIRST LINE" in ln or ":" in ln) and ln.strip():
+                continue  # the agent's verdict line, not a finding
             continue
         ticker, title, source, url, date = parts[:5]
         comment = "|".join(parts[5:]).strip()
@@ -152,7 +155,7 @@ def parse_findings(text: str) -> list[dict]:
     return out
 
 
-def run_agent(beat: dict) -> dict:
+def run_agent(beat: dict, attempt: int = 1) -> dict:
     name = beat["agent"]
     INTEL.mkdir(parents=True, exist_ok=True)
     LOGS.mkdir(parents=True, exist_ok=True)
@@ -184,6 +187,24 @@ def run_agent(beat: dict) -> dict:
 
     text = clean_output(raw)
     (LOGS / f"{name}.log").write_text(raw[-20000:])
+
+    # Providers reject parallel bursts with "would exceed your available credits
+    # given your current in-flight requests". Retry with backoff.
+    rate_limited = any(
+        marker in raw
+        for marker in (
+            "would exceed your available credits",
+            "in-flight requests",
+            "provider.api_error",
+            "429",
+        )
+    )
+    if attempt < 3 and rate_limited and not parse_findings(text):
+        wait = 45 * attempt
+        print(f"[council] {name} rate-limited, retry in {wait}s", file=sys.stderr)
+        time.sleep(wait)
+        return run_agent(beat, attempt + 1)
+
     findings = parse_findings(text)
     if not findings:
         # agent failed or format drifted - keep the raw prose so nothing is lost
@@ -203,10 +224,17 @@ def run_agent(beat: dict) -> dict:
 def main() -> int:
     INTEL.mkdir(parents=True, exist_ok=True)
     for f in INTEL.glob("*.md"):
+        if f.name.lower() == "readme.md":
+            continue
         f.unlink()
     results = []
+    def staggered(beat: dict) -> dict:
+        # spread the burst so shared providers are not hit simultaneously
+        time.sleep(6 * BEATS.index(beat))
+        return run_agent(beat)
+
     with cf.ThreadPoolExecutor(max_workers=5) as ex:
-        futs = {ex.submit(run_agent, b): b for b in BEATS}
+        futs = {ex.submit(staggered, b): b for b in BEATS}
         for fut in cf.as_completed(futs):
             try:
                 results.append(fut.result())

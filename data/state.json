@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-09T17:08:23.606900+00:00",
+ "generated": "2026-11-09T17:18:40.441192+00:00",
  "date": "2026-11-09",
- "total": 212,
- "new": 3,
- "returning": 209,
+ "total": 210,
+ "new": 0,
+ "returning": 210,
  "per_category": {
   "ransomware": 63,
   "darkweb": 34,
   "exploits": 61,
   "redteam": 16,
   "actors": 7,
-  "defense": 27,
+  "defense": 25,
   "tooling": 4
  },
  "errors": [],

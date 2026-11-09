@@ -1,26 +1,8 @@
 # IRIS — DARK WEB UNDERGROUND
-
-• UserPromptSubmit hook
-
-  main
-
-• Search tool is failing on auth — let me try fetching news sources directly.
-
-• BleepingComputer yielded several leads. Let me get the article URLs and check other sources for market/IAB/carding news.
-
-• Good material so far. I need exact article URLs and dates, plus more carding/IAB-specific news. Checking sitemaps and other outlets.
-
-• FetchURL can't parse RSS; let me grab the feeds with curl to get exact URLs and dates.
-
-• Krebs items are just outside the window. Let me pull The Record's feed and hunt for more market/IAB/carding items.
-
-• Now let me verify the two key BleepingComputer articles and scan The Record's feed further.
-
-• Binance finding confirmed — excellent. Hunting for one or two more market/carding/IAB items.
-
-• Verifying the remaining candidate articles by actually fetching them.
-
-kimi version 2.5.2
-Warning: [loop_control] 'max_retries_per_step' is deprecated and no longer used; rename it to 'max_attempts_per_step'. Run /update-config to fix it.
-default_plan_mode is not applied in print mode, because Plan mode waits for your review.
-• I need to search the live web for dark web underground news from the last 24-72 hours (Nov 6-9, 2026). Let me search.WebSearch failed due to auth token. Try again? It says re-login required — retrying likely fails. But rules say must search live web. Let me try FetchURL or WebSearch again — maybe transient.WebSearch is broken due to auth. Try FetchURL on a news site directly, e.g., Google News 
+BINANCE | FAKE SHINYHUNTERS PAWNS "335M BINANCE USERS" FOR $900K | BleepingComputer | https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/ | 2026-11-09 | Some scallywag wearin' the ShinyHunters flag be hawkin' 335 million Binance records on a fresh crime forum, yet even the forum rats be askin' why a man holdin' all the private keys needs $900K — because 'tis infostealer scrapin's dressed as treasure, matey.
+MEXC | FINCEN KEELHAULS MEXC, DARKNET MARKETS' FAVOURITE LAUNDRY | BleepingComputer | https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/ | 2026-11-09 | The US Treasury cut MEXC off from the dollar over $16 billion in dirty doubloons — ransomware booty, scam coin and darknet market trade — and the exchange swears its compliance crew be "reviewin' controls" five years too late.
+CHAINALYSIS | CHAINALYSIS BREACH SPILLS CREDENTIALS AND LIVE TOKENS FOR EVERY CUSTOMER | BleepingComputer | https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/ | 2026-11-06 | The firm what hunts crooks on the blockchain got boarded by an on-path attack leakin' password hashes and live tokens for the whole crew — law enforcement logins now floatin' where the markets can smell 'em.
+NONAME057 | PRO-RUSSIAN CREW RUNS DARK WEB DOX SHOP WITH CRYPTO BOUNTIES | The Record (Recorded Future News) | https://therecord.media/hackers-russia-italy-noname | 2026-11-09 | NoName057(16) posted 18 European officials, prosecutors and journos on a Tor site and be payin' coin fer fresh dirt on their families — the underground bounty board gone downright feudal.
+GITHUB | FAKE SECURITY TOOLS ON GITHUB PUSH INFOSTEALERS TO 2,000+ MACHINES | BleepingComputer | https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/ | 2026-11-06 | Poisoned "pentest" repos be droppin' AsyncRAT and a stealer what hoists browser creds, VPN configs and Discord tokens straight to a Telegram bot — the logs'll be on the market by supper, no doubt.
+SSHOLE | SSHOLE OPENSSH FLAW EXPLOITED TO STEAL KEYS AND PLANT PERSISTENCE | BleepingComputer | https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/ | 2026-11-09 | Exploited 40 hours after patch, the SSHole boarders be readin' password hashes, root SSH keys and rewritin' authorized_keys — initial-access pickin's ripenin' fer the broker stalls.
+DIGICERT | CERTIFICATE AUTHORITY DIGICERT ADMITS YEAR-LONG DATABASE EXPOSURE | The Record (Recorded Future News) | https://therecord.media/digicert-certificate-authority-reports-data-breach | 2026-11-06 | DigiCert left a business system hangin' off the yardarm fer months, spillin' customer passports and licences — no certs forged, they swear, but ID papers tied to certificate holders be fine tradin' stock all the same.
