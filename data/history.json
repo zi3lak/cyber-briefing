@@ -1188,5 +1188,600 @@
   "first_seen": "2026-11-09T17:38:50.162435+00:00",
   "first_seen_date": "2026-11-09",
   "title": "Four Quantum Machine Learning Models Assessed For Detecting IoT Intrusions - Quantum Zeitgeist"
+ },
+ "14b7d5f3849ca6a6": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Fireworks AI discloses new breach after cloud provider hack"
+ },
+ "d73dc2e9d68b1f87": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed"
+ },
+ "38ea31dac5866084": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "SEGA newsletter data breach exposes 2.2 million email addresses"
+ },
+ "f094c932a0af6902": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published"
+ },
+ "144250db6291d6fc": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "York University breach exposed personal information dating to 2007"
+ },
+ "ea66d193d79764ae": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "France blames Iranian hackers for supermarket attacks that sparked fires"
+ },
+ "622ef7fa62b3ed39": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Russian cloud firm Beget rebuilds from scratch after data wiper attack"
+ },
+ "3597f50c827ca395": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026"
+ },
+ "957e7592e0f966e8": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits"
+ },
+ "6df996b3d132b52b": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws"
+ },
+ "e2358bae6d047d16": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data"
+ },
+ "0b0d115175ff2886": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware"
+ },
+ "207e7f7e01aa3736": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents"
+ },
+ "b348d07784f61bb7": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion"
+ },
+ "33f449a7580ad793": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India"
+ },
+ "480a45de015a3e3b": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Attackers Crash Claude's 'Office Party' Flaw to Run Malicious Code on Linux"
+ },
+ "49d3772f386a70af": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Data breach at hearing aid giant Amplifon impacts thousands"
+ },
+ "f50b276e034d5005": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "France blames Iran for fridge cyberattacks, says some caused fires"
+ },
+ "8e855715d486c3df": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Vanderbilt cybersecurity incident impacting campus devices and systems"
+ },
+ "48b498adbfd68416": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog"
+ },
+ "443e169090b52fa3": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Iris Ohyama data breach may expose personal information of 7.7 million people"
+ },
+ "003773d17d23d945": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "France Blames Iran for the Supermarket Fridge Attacks"
+ },
+ "7152a75499551add": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "What a security leader should tell the CEO about leaked credentials"
+ },
+ "fffa8b20d454f461": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Security teams want to spot unusual AI agent behavior while they’re still defining normal"
+ },
+ "39a66942ccf72df5": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Over 575 malicious OpenClaw skills delivered malware to Windows and macOS"
+ },
+ "c33fda98c9d77bed": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Cybersecurity jobs available right now: November 10, 2026"
+ },
+ "786bbbfc7e9c2b76": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Securing Financial Services: 5 Critical Cybersecurity Advantages of NodeZero"
+ },
+ "c1f45fb9697977d3": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "5 Key Benefits of NodeZero for Enhancing Security in Financial Services Organizations"
+ },
+ "ba2db80e94ed7e1a": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Alation Data Breach Lawsuit Investigation - Claim Depot"
+ },
+ "43d43084624720a7": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Safari 27.3 beta adds adaptive dark mode to sites that never built it - Make Tech Easier"
+ },
+ "539c5895cec5f1ba": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Privacy watchdog warns media about Tajani's data - Meteora Web"
+ },
+ "6c534e850ded18a5": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Prosecutors open probe into publication of Tajani's personal data on dark web - ANSA"
+ },
+ "6f74532145dbec35": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Herman Mashaba offers Geordin Hill-Lewis a deal, and important notice for anyone who owes over R3,000 in licence fees - BusinessTech"
+ },
+ "489a5c881e2422ff": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Florida bank accounts for sale on the dark web - WESH"
+ },
+ "35361e67d4405fa1": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Only 26% of Americans Pass This Online Scam Quiz. Can You? - money.com"
+ },
+ "68086b00415867de": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Cybersecurity after Black October - Tech News TT"
+ },
+ "59254278ce85f2b5": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Den Hartog Industries Data Breach Affects 2,957 People - Claim Depot"
+ },
+ "28d756d885a3b0ef": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Zelenkofske Axelrod Data Breach Exposed PHI and PII Data - Claim Depot"
+ },
+ "37a9a43cd1c7feaa": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Zelenkofske Axelrod Data Breach Lawsuit Investigation - Claim Depot"
+ },
+ "492a3349f196bdfe": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Dutch online gift retailer confirms its website was hacked, customer data stolen - NL Times"
+ },
+ "2839613d95c9c658": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Vanderbilt cybersecurity incident impacting campus devices and systems - The Record from Recorded Future News"
+ },
+ "dfc2e9a5463962ad": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Weekly Cybersecurity Newsletter — Top 50 Cybersecurity Stories of the Week - Cyber Press"
+ },
+ "b478c866180c7d67": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Exclusive: Townsville’s Calvary Christian College investigating cyber incident - Cyber Daily"
+ },
+ "778d33e0b1b1ade0": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Nvidia teams with Hyundai, Doosan, LG and SK hynix to advance physical AI - Chosunbiz"
+ },
+ "eea30fa9c8f21675": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026 - The Hacker News"
+ },
+ "f86ecb4164662b16": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Chrome Update Patches Exploited XML Zero-Day, Eighth This Year - SecurityWeek"
+ },
+ "be8f5da9119be039": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "N-able Disables Cloud Services Following Disclosure of \"Able2Shell\" Exploit Chains - Huntress"
+ },
+ "3b4b9869c2c78ad1": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Google Chrome CVE-2026-125350: Use-After-Free in XML, Exploit Exists in the Wild — Patch Now - Rescana"
+ },
+ "33c1ecfff6ac9c19": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "CISA KEV: 4 Exploited Flaws, Federal Deadline Nov. 12 - shattered.io"
+ },
+ "88e1d7b14ada4458": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems - BleepingComputer"
+ },
+ "d24cd89ef7247fbc": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "CISA adds SonicWall SonicOS MFA bypass flaw to exploited vulnerabilities catalog - news.lavx.hu"
+ },
+ "0955f43c9a6a409a": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Chrome 157 Fixes an Exploited Zero-Day: Update Chrome on Android Now - AndroidPure"
+ },
+ "a5e02fe53259c237": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Portable test detects Zika and hepatitis C in hours without lab-grade equipment - Medical Xpress"
+ },
+ "9fc87bc8ea623baa": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "New Algorithm Predicts Epileptic Seizures Using Two EEG Channels - Bioengineer.org"
+ },
+ "e0c85ece99effd45": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Datadog Cloud SIEM Logs: Export and Analyze - SOC Prime"
+ },
+ "0877ffbd36c3b82c": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "How to Detect AI-Generated and Automated Calls in Your Contact Center - Resemble AI"
+ },
+ "71d6c70e13385d8e": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Grok at SpaceX: 5 Details That Matter on FOD Detection - BASENOR - Tesla Accessories"
+ },
+ "7499e6f74dd0daf2": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Screw Lens Ultrasound Transducer Detects Microscopic Defects in Semiconductor Chips - Bioengineer.org"
+ },
+ "f7d7cf8b96da4c82": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "Seven Python libraries for time series analysis and modelling - TechGig"
+ },
+ "12afc839d24dac9d": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "MeerKAT Radio Telescope Detects Cosmic Hydrogen Signal Independently for First Time at Dark-Energy Scales - Tech Times"
+ },
+ "d5292d91863e2876": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "KEV: CVE-2026-102895 — GPUStack GPUStack"
+ },
+ "157e1c677d56a930": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "KEV: CVE-2026-123158 — OpenBSD OpenSSH"
+ },
+ "34c43d1cf8af50b5": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "KEV: CVE-2026-116779 — SignalWire FreeSwitch"
+ },
+ "b92c9142ca4edf1a": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "KEV: CVE-2026-123218 — IBM Aspera Faspex"
+ },
+ "458f90a164fab212": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-g3qx-frcg-j979: Kubeflow Pipelines: Reflected XSS in the frontend pod information and events error responses"
+ },
+ "d445c91b0309b4ac": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-r4mx-2gr2-8277: Kubeflow Pipelines: SQL injection through unvalidated pagination tokens in Kubeflow Pipelines API server"
+ },
+ "77a5869131fa7f45": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-gcwf-c25f-p9rv: Kiwi TCMS account confirmation open redirect through protocol-relative URLs"
+ },
+ "323ea5266094d361": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-ghgh-57qv-h687: Kubeflow Pipelines: RBAC bypass on shared pipelines allows any authenticated user to delete or modify global pipelines"
+ },
+ "a723b7916329863e": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-f7vj-6669-qvv4: Kubeflow Pipelines — API server fetches a caller-supplied pipelineURL without host validation"
+ },
+ "fab539da2b74bfdd": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-2xwh-426q-42c5: Kubeflow Pipelines: Cross-tenant execution-cache poisoning / output substitution via a namespace-blind cache key in the cache webhook "
+ },
+ "2706e95da20ed1af": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-5xjx-9qx6-jcrv: Claude Code: TOCTOU Race in Edit Tool Allows File Writes Outside the Workspace"
+ },
+ "328b327a83c1f346": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-x89h-7h96-v88f: croc: Overwrite-confirmation bypass via a crafted \"croc-stdin-\" filename on receive"
+ },
+ "0e9a40725d1fbdf0": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-9hq4-hm3j-jmph: DDEV incomplete tar symlink traversal fix allows host file overwrite - Incomplete fix of CVE-2026-32885"
+ },
+ "749ad916ca1557cb": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-h89v-g948-47vp: Moleculer: Unauthenticated Denial of Service via negative length field in the TCP transporter packet parser"
+ },
+ "9c5235ddb72bbff4": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-9qq5-422f-33c2: Velociraptor: Low-priv analyst reads arbitrary server files via ungated sql() VQL plugin"
+ },
+ "48f2f4c9df5b65a1": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-rjr3-43j3-4q8g: Kubeflow Pipelines API server lacks authorization for shared pipeline uploads"
+ },
+ "ac27265ba0f88ce8": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-44r8-3p76-84mw: FileGator: Missing authorization in POST /upload allows cross-user read and deletion of temporary files"
+ },
+ "c2bf199aa0bdaf11": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-f74m-x83r-c4v4: FileGator: Missing authorization in GET /batchdownload allows cross-user retrieval of another user's archive"
+ },
+ "92adc2bf5a3b9487": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-85gg-2gfq-q95m: Code Graph RAG structural tools follow out-of-root symlinks"
+ },
+ "03fecb23c2693358": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-gj9m-f8ph-pmhr: GPUStack: Authentication bypass via trusted loopback source (reverse-proxy TCP peer or X-GPUStack-Real-IP header) grants unauthenticat"
+ },
+ "94699af7f6cfba40": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-rm8c-2cv8-jwf6: Pocket ID: Email verification token remains valid after address change, enabling arbitrary verified-email spoofing"
+ },
+ "3ddebd1150a0bdce": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-cp25-j9x5-p5xm: Urwid: handle_short_request() crashes on non-ASCII POST body (UnicodeEncodeError DoS)"
+ },
+ "116ccf3f94fa9a9c": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-g3c2-rjq2-c763: esm.sh: web.NewHandler allows arbitrary file read via encoded dot-segment path traversal"
+ },
+ "9a9fb0c958170811": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-9vhv-g5hf-m7m7: fast-agent: `fast-agent serve` binds HTTP to 0.0.0.0 with no authentication by default; with --shell this is unauthenticated remote co"
+ },
+ "0d0f44baa7175205": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-j8j4-rw65-56r6: Telepresence: Traffic Manager gRPC has no auth — any pod claims arbitrary namespace and intercepts services, receiving victim environm"
+ },
+ "e064a3f856accfd4": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-6j3h-rp73-6rvf: Telepresence: Tunnel endpoint accepts caller-supplied session ID with no ownership proof — active client sessions hijackable"
+ },
+ "b8902fb7b9c6a626": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-f42p-wjw5-97qh: zizmor: Debug logging prints available GitHub credentials in cleartext"
+ },
+ "56cd3188080ca199": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-wchh-mrv2-5h4q: ezBookkeeping: Source-IP allowlist (MCP & API token) is bypassable via a spoofed `X-Forwarded-For` header"
+ },
+ "6493680f843eea3b": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-m27g-v28p-f9fx: OmniAuth: Host Header Injection Vulnerability"
+ },
+ "efa6af9768cfa55e": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-rr8v-fxxf-c986: Gradle Shadow: Zip Slip path traversal in ShadowCopyAction — no independent entry-name sanitization"
+ },
+ "ddad1dd912f804c9": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-vvr2-h2jp-838m: Code Graph RAG: MCP paginated read_file path traversal / arbitrary file read"
+ },
+ "1673f0362f033782": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-56x6-q882-mf27: Remark42: Rate limit bypass via unconditional trust of X-Forwarded-For/X-Real-IP headers in direct-internet deployment"
+ },
+ "803cb96ec65dcaf4": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-q4xm-p75h-h9p3: Pocket ID: The client credentials grant allows any OIDC client to obtain tokens for arbitrary audiences"
+ },
+ "7bbf9dfe567b4435": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-h7c4-q426-7jh9: tsParticles: A single anonymous MCP session can monopolize HTTP mode and deny new clients"
+ },
+ "98c18fb8a768ab7a": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-4p8p-pjpq-2w7h: tsParticles: Malformed JSON requests can terminate the @tsparticles/mcp-server HTTP process"
+ },
+ "59457546cc193189": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-ghc9-756g-vrcv: JSON-java: JSONTokener Has Unbounded Numeric String Resource-Exhaustion DoS"
+ },
+ "0c111307a1e2742c": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-447x-qqwf-m7xq: tsParticles: Unbounded HTTP Request Body Buffering in @tsparticles/mcp-server Leads to Remote DoS"
+ },
+ "324045f73bc75bdc": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-6w3r-6hpr-hp6p: ag-psd: Uncontrolled Memory Allocation in PSD Layer Decoding (totalMemoryLimit bypass)"
+ },
+ "37f13b405f55fd4a": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-v2g6-7r9j-v6px: zt-zip: ZipUtil.unpack can change file permissions of output directory"
+ },
+ "d11dc63a16aefd4f": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-8cfq-jgf7-8m27: traQ: Privilege escalation by OAuth prompt=none request"
+ },
+ "6e1985f7c850d40d": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-p74g-f95m-7fx7: traQ: XSS in the User Uploaded File Retrieval API"
+ },
+ "0507d7e1aab84a8e": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-cw2g-2vwq-88w6: isomorphic-git: Path traversal via a \"..\" tree-entry name writes files outside the working directory on clone/checkout"
+ },
+ "74f2790b3de0529a": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-96wc-2m84-2cj7: isomorphic-git: Circular symbolic references cause non-terminating resolution (DoS)"
+ },
+ "3e66aa9bf6a12cae": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "GHSA GHSA-9qw7-j9xw-fv9c: isomorphic-git: Arbitrary file write outside of working tree via directory symlink during checkout (potential RCE)"
+ },
+ "072c7391a3f60824": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "LEAK SITE: unknown victim (AE) claimed by N0N"
+ },
+ "bd571bba53b6f58f": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "LEAK SITE: unknown victim (US) claimed by N0N"
+ },
+ "6f99c751be49849e": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "LEAK SITE: unknown victim (??) claimed by IAH6477"
+ },
+ "53dbaba413d906ae": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "LEAK SITE: unknown victim (US) claimed by AOQIN"
+ },
+ "79fce3efa75e1f38": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "LEAK SITE: unknown victim (??) claimed by SILENTRANSOMGROUP"
+ },
+ "c836e04d902819fd": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "LEAK SITE: unknown victim (??) claimed by SILENTRANSOMGROUP"
+ },
+ "bc455f98b31e5718": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "LEAK SITE: unknown victim (??) claimed by PIXELLEAKS"
+ },
+ "91ce108b6244fa2d": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "LEAK SITE: www.ornico.co (ZA) claimed by GLOBAL SECRET GROUP"
+ },
+ "bfe7f3157fc946b9": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "LEAK SITE: heartlandhonda.com (US) claimed by GLOBAL SECRET GROUP"
+ },
+ "e23c9a795a4e5079": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "LEAK SITE: unknown victim (TH) claimed by RHYSIDA"
+ },
+ "fb5688dcbff112bf": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "LEAK SITE: mindef.gov.cm (CM) claimed by HYFLOCK"
+ },
+ "b11cdf8d0e6df354": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "LEAK SITE: unknown victim (US) claimed by BYOD"
+ },
+ "cbc202f808f599cb": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "LEAK SITE: carrollins.com (US) claimed by EVERSTAKE"
+ },
+ "2d4b6cdec102fcf5": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "LEAK SITE: www.laalaalkuwait.com (KW) claimed by ECLIPSE"
+ },
+ "07f3528adcf52112": {
+  "first_seen": "2026-11-10T08:00:09.986684+00:00",
+  "first_seen_date": "2026-11-10",
+  "title": "LEAK SITE: unknown victim (US) claimed by BYOD"
  }
 }
