@@ -251,12 +251,41 @@ def run_agent(beat: dict, attempt: int = 1) -> dict:
     return {"agent": name, "ok": True, "findings": len(findings)}
 
 
+def count_fragment(agent: str) -> int:
+    """Findings currently on disk for an agent (used when a run is resumed)."""
+    f = INTEL / f"{agent}.md"
+    if not f.exists():
+        return 0
+    n = 0
+    for ln in f.read_text().splitlines():
+        ln = ln.strip()
+        if not ln or ln.startswith("#") or "|" not in ln:
+            continue
+        if len([p for p in ln.split("|")]) < 6:
+            continue
+        n += 1
+    return n
+
+
 def main() -> int:
+    # `--agents iris,orion` runs only those beats and leaves the other
+    # fragments in place — used to resume a run that was cut short.
+    only = None
+    if "--agents" in sys.argv:
+        idx = sys.argv.index("--agents")
+        raw = sys.argv[idx + 1] if idx + 1 < len(sys.argv) else ""
+        only = {a.strip().lower() for a in raw.split(",") if a.strip()}
+
+    beats = [b for b in BEATS if only is None or b["agent"] in only]
+
     INTEL.mkdir(parents=True, exist_ok=True)
     for f in INTEL.glob("*.md"):
         if f.name.lower() == "readme.md":
             continue
+        if only is not None and f.stem not in only:
+            continue  # keep fragments of agents we are not re-running
         f.unlink()
+
     results = []
     def staggered(beat: dict) -> dict:
         # spread the burst so shared providers are not hit simultaneously
@@ -264,12 +293,22 @@ def main() -> int:
         return run_agent(beat)
 
     with cf.ThreadPoolExecutor(max_workers=5) as ex:
-        futs = {ex.submit(staggered, b): b for b in BEATS}
+        futs = {ex.submit(staggered, b): b for b in beats}
         for fut in cf.as_completed(futs):
             try:
                 results.append(fut.result())
             except Exception as e:
                 results.append({"agent": futs[fut]["agent"], "ok": False, "error": str(e)})
+
+    if only is not None:
+        # carry over the agents that were not re-run, counted from disk
+        ran = {r["agent"] for r in results}
+        for b in BEATS:
+            if b["agent"] in only or b["agent"] in ran:
+                continue
+            n = count_fragment(b["agent"])
+            results.append({"agent": b["agent"], "ok": n > 0, "findings": n})
+
     results.sort(key=lambda r: r["agent"])
     print(json.dumps(results, indent=1))
     (DATA / "council_run.json").write_text(

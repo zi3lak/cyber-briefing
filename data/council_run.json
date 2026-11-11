@@ -1,15 +1,15 @@
 {
- "at": "2026-11-10T08:16:09.234941+00:00",
+ "at": "2026-11-11T09:15:49.486067+00:00",
  "results": [
   {
    "agent": "athena",
    "ok": true,
-   "findings": 7
+   "findings": 6
   },
   {
    "agent": "iris",
    "ok": true,
-   "findings": 8
+   "findings": 7
   },
   {
    "agent": "orion",
@@ -19,7 +19,7 @@
   {
    "agent": "prometheus",
    "ok": true,
-   "findings": 7
+   "findings": 6
   },
   {
    "agent": "vulcan",

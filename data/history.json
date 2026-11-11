@@ -1783,5 +1783,1140 @@
   "first_seen": "2026-11-10T08:00:09.986684+00:00",
   "first_seen_date": "2026-11-10",
   "title": "LEAK SITE: unknown victim (US) claimed by BYOD"
+ },
+ "30b0785fbe4d75a5": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities"
+ },
+ "7ebeec28d8ca3f60": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Railway breach leads to $740,000 in fraudulent AI charges"
+ },
+ "fa399210923b7dfc": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records"
+ },
+ "ad84488f9096a7e3": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Microsoft releases Windows 10 KB5131096 extended security update"
+ },
+ "b790db292d6c7683": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Hackers exploit trusted AWS access to breach multiple cloud environments"
+ },
+ "fcd1ab66a8722dad": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day"
+ },
+ "d961b5b2f9f85bf8": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released"
+ },
+ "d6f920fcc7d7ec7c": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers"
+ },
+ "ca5851d222105e46": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Binance warns of iOS flaw that could leak crypto wallet secrets"
+ },
+ "ccc7249c9ae61c11": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Ransomware recovery is now a client retention metric"
+ },
+ "463c779eabbc47c7": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws"
+ },
+ "a8f90e9cb3a04889": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access"
+ },
+ "54d6c7550b0f052b": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers"
+ },
+ "c9617b302df6344c": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Google patches eighth Chrome zero-day exploited in attacks this year"
+ },
+ "8ca3da45283480f8": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes"
+ },
+ "47893dbee5f229c9": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges"
+ },
+ "f917ecda173012cd": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons"
+ },
+ "e9250ee7282dc538": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches"
+ },
+ "f3aac5b23d909ad9": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones"
+ },
+ "5f060ef86d923415": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users"
+ },
+ "336ec71c58dfad96": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access"
+ },
+ "2d00eec36b57becd": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem"
+ },
+ "190d7e34410c1def": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor"
+ },
+ "081a8197aef4ab7e": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America"
+ },
+ "0bdd2a55fb163db4": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats"
+ },
+ "40aedf5085a36cf6": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed"
+ },
+ "8d2102f201cc5031": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Beyond the Alert: The Case for Rich Network Data"
+ },
+ "f3a14b0dc3981c27": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities"
+ },
+ "550bd445ea11e367": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers"
+ },
+ "4f07988ff5ed5436": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution"
+ },
+ "3a51e262524fbdaa": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites"
+ },
+ "a43d677157450b4e": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark"
+ },
+ "7adcac6c3dd2730e": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs"
+ },
+ "ef59a59a5e8f049d": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon"
+ },
+ "5b24a88cfdf85139": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "F-Secure Identifies 26 Ways AI Can Harm Consumers, and Where to Stop Them"
+ },
+ "1031458439473ffc": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Checkmarx Appoints Kobi Sivilya as Chief Information Security Officer"
+ },
+ "51ba959d5d58fcde": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "How to Assess OT Incident Response Preparedness"
+ },
+ "e7a1fe7f58868e70": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "AI Coding Agents Leak Thousands of Secrets to GitHub"
+ },
+ "c9d22e75598a18c2": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "AI Makes Reverse Engineering Mainstream Software & Malware Far Easier"
+ },
+ "63dcf6db62299a81": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "People Are Getting Weird About AI"
+ },
+ "cebbdaeb05988266": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "US Army member arrested in UK over allegations of spying for Russia"
+ },
+ "52c7f23526b5c635": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Microsoft’s Patch Tuesday surpasses 1,000 bugs for second month in a row"
+ },
+ "21cf09697cbb40d5": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "AI company Fireworks says hackers stole data, billing info during October breaches"
+ },
+ "e89ee195d638ee43": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Cybercriminals are increasingly infecting regular people with spyware"
+ },
+ "0569f7240b18bb56": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Palantir exec nominated to lead CISA; lame-duck Senate vote is uncertain"
+ },
+ "e5ee7a4e364f52e8": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog"
+ },
+ "24f68ae585ad6e1d": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "U.S. CISA adds IBM, SignalWire FreeSwitch, OpenSSH, and GPUStack flaws to its Known Exploited Vulnerabilities catalog"
+ },
+ "ea5a1998ea8775d9": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Russia-Linked APT Turla Turned Exchange Servers Into Their Own Control Room"
+ },
+ "15a6946bf00d8445": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "iOS Sandbox Escape Is Public, and Apple Hasn’t Confirmed a Fix"
+ },
+ "12b8a288a9f07e15": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Google fixes the eighth actively exploited Chrome zero-day of 2026"
+ },
+ "97709088c68a94ca": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Obsidian expands AI agent security with runtime policy enforcement"
+ },
+ "46c2060046428b53": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "The Cyber Resilience Act clock doesn’t stop for weekends"
+ },
+ "189fe5c79b47caca": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "A CISO’s guide to trimming waste from a flat security budget"
+ },
+ "75bbeacd0cddd615": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "EU cyber scores look healthy, but 45% of surveyed IT providers take months to patch"
+ },
+ "6397f259af3c7584": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Nearly half of big firms shelve or close vulnerability findings they haven’t confirmed"
+ },
+ "fe687eb50e90b944": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "An Instagram ad was all it took: Leaked exploit kits are hitting employees’ iPhones"
+ },
+ "2b55c409e2ce7fbf": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Google Fi super network leans on encryption to keep hotspot traffic private"
+ },
+ "ff5ad094f411ee15": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Firefox free VPN drops its 50GB launch cap until January 31"
+ },
+ "7161a167fe3793a7": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "X.Org patches eight server vulnerabilities a month after fixing 12 others"
+ },
+ "b688a42c7ad30a25": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "AI reverse engineering let researchers add a new feature to Slack"
+ },
+ "420be9314d0c508e": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Microsoft Patch Tuesday for November 2026 — Snort rules and prominent vulnerabilities"
+ },
+ "e7329a65b5ab13f7": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "November 2026 Patch Tuesday: 1,252 CVEs Include One Zero-Day and 68 Critical Vulnerabilities"
+ },
+ "e3d1e5c4d2dc352d": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "IT threat evolution in Q3 2026. Non-mobile statistics"
+ },
+ "6a4d1fc16b8c73c3": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "IT threat evolution in Q3 2026. Mobile statistics"
+ },
+ "da10b4a4221904f6": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Exchange for breakfast: Turla’s Cereal tricks are not for kids"
+ },
+ "85499fd850e6350e": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Microsoft and Adobe Patch Tuesday, November 2026 Security Update Review"
+ },
+ "3ebdb1bef123cd43": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Patch Tuesday - November 2026"
+ },
+ "bf894ecf3dfb0602": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Critical vulnerabilities in N-able N-central prompt hosted shutdown"
+ },
+ "5194c5c675b67df9": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Five Signs Your MDR is All Alert, No Action"
+ },
+ "34e825c788249d0c": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Stop Patching Blindly: What CISA’s New Prioritization Approach Means for Federal Agencies"
+ },
+ "58e51bcc4cbabc92": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Hackers Posted Data Stolen From Richmond Schools to Dark Web - GovTech"
+ },
+ "dd32151950ff4667": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Hackers Now Want Your Browser Sessions More Than Your Passwords, but You Can Stop Them - Lifehacker"
+ },
+ "d1ac254270f7e28b": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Woman gets life sentence after pleading guilty in dark web child abuse case - WGXA"
+ },
+ "fe3e94fc1cf486a6": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Dark Web Profile: CyberXero - SOCRadar"
+ },
+ "e270533cfcb285bf": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Lansing Urgent Care Data Breach Exposes Social Security Numbers - Claim Depot"
+ },
+ "9e41c9db15acae8e": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Breachsense Brings Its Dark Web Monitoring API to Claude Code, Codex and GitHub Copilot - EIN News"
+ },
+ "0e27c6a144e9efa5": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Hacker who apologized for disrupting surgeries now targets 2 million Texans - Cybernews"
+ },
+ "46311809a7d9fb82": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "MacSync malware targets Macs to steal passwords and crypto via iCloud - Escudo Digital"
+ },
+ "558c70673165d2cc": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "British Horror 'Rise of the Rats,' Dark-Web Chess Thriller Head to AFM - Variety"
+ },
+ "3cf6807a49b807cf": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "ExpressVPN’s Black Friday Deal Guards Your SSN After 11 Billion Records Leaked - Gizmodo"
+ },
+ "79183acb48024bac": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Merrill Steel Data Breach Affects 4,118 Individuals - Claim Depot"
+ },
+ "f58be9e868f64fea": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Public asked to help locate missing woman last seen in High Falls area on Nov. 3 - WGXA"
+ },
+ "02b57a908dcdf348": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Lansing Urgent Care Data Breach Lawsuit Investigation - Claim Depot"
+ },
+ "21f5288ad61d340b": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Santa Barbara Endodontics Data Breach Lawsuit Investigation - Claim Depot"
+ },
+ "31b7c5a6cc5f9498": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "WireCo WorldGroup Data Breach Lawsuit Investigation - Claim Depot"
+ },
+ "5199cb0b9813d847": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Dire Wolf ransomware: An apex predator stalking your data - Barracuda Blog"
+ },
+ "ea8f6f6c7cb08df3": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Bitdefender Threat Debrief | November 2026 - Bitdefender"
+ },
+ "d959911a3d3131c6": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GhostFrame: A New ESXi Implant Linked to Settra Ransomware - Recorded Future"
+ },
+ "572ea55dfc63855f": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Twitter Account Ransomware Attack by BYOD - SOCRadar"
+ },
+ "0c7568ee42681a95": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "10 Best Adversarial Exposure Validation (AEV) Platforms in 2026 [Ranked & Scored] - CyberSecurityNews"
+ },
+ "84d13da0f91427e9": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "College Park Team Cuts Simulation Costs Up To 17x - Quantum Zeitgeist"
+ },
+ "cd22dab90c7e5bfb": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Researchers Cut Quantum Simulation Size By 95 Percent - Quantum Zeitgeist"
+ },
+ "5ce99f20fe5bc8f1": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Researchers Propose New Model Coupling Defects & Fields - Quantum Zeitgeist"
+ },
+ "247b421b765c9258": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Declaration of attribution to Iran of cyber attacks against France - La France aux États-Unis"
+ },
+ "920f7dc434c360b4": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "CopperDragon: Uncovering a Global China-Nexus Cyber Espionage Framework - Check Point Blog"
+ },
+ "36cf02cb6a631016": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "France Blames Iran for Supermarket Fridge Hack, Requests International Arrest Warrants - Infosecurity Magazine"
+ },
+ "e56a0dd3841a0fd0": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft - SecurityWeek"
+ },
+ "0e871c18f7b3aba0": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "CVE-2026-125350: Chrome XML Zero-Day Exploited in the Wild - SOC Prime"
+ },
+ "836ce229e73c496b": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches - The Hacker News"
+ },
+ "ea022e403b1db908": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day - BleepingComputer"
+ },
+ "4d52dd6da8ee8dfc": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Microsoft November 2026 Patch Tuesday: 1,094 CVEs [2026] - shattered.io"
+ },
+ "d944780391f52f06": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "IBM Aspera Faspex CVE-2026-123218: Authorization Bypass Can Grant Full Administrative Privileges - Rescana"
+ },
+ "a5a71a5093f771ef": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Google Patches Critical Chrome Zero-Day Exploiting XML Vulnerability - LinkedIn"
+ },
+ "ed869459ebde0b5b": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Microsoft’s Patch Tuesday surpasses 1,000 bugs for second month in a row - The Record from Recorded Future News"
+ },
+ "c8ebb743ad74a7ea": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Chrome zero-day whack-a-mole continues as 2026 tally hits 8 - The Register"
+ },
+ "3893db4a0897b654": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Google Chrome 0-Day Vulnerability in the Wild to Execute Malicious Code Remotely - CyberSecurityNews"
+ },
+ "6b4effe043c4c65b": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Google fixes the eighth actively exploited Chrome zero-day of 2026 - Security Affairs"
+ },
+ "799ad211f546d977": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Microsoft Outlook Zero-Day Vulnerability Actively Exploited to Steal NTLM Authentication Hashes - GBHackers News"
+ },
+ "1f8b26712c8ece37": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Apple Products Multiple Vulnerabilities - Hong Kong Computer Emergency Response Team Coordination Centre"
+ },
+ "4d667c2cf7f07d42": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes - The Hacker News"
+ },
+ "4fcfc91e739502fd": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Microsoft November 2026 Patch Tuesday: Windows Search, LDAP, and Schannel RCEs, and an Exploited Outlook Spoofing Flaw — Prepare Now - Rescana"
+ },
+ "2f0b3ae8038bacf7": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Google patches eighth Chrome zero-day exploited in attacks this year - BleepingComputer"
+ },
+ "0eb4341687592873": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws - The Hacker News"
+ },
+ "01d1c52822ed4c9c": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Microsoft November 2026 Patch Tuesday Fixes 1,093 Vulnerabilities, Including Outlook Zero-Day - CyberSecurityNews"
+ },
+ "bfee94adaff90030": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "CISA Adds 4 Exploited Flaws, Feds Due Nov. 12 [2026] - shattered.io"
+ },
+ "ba65417333af813c": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Microsoft fixes 1,093 flaws, including an exploited Outlook zero-day credited to a researcher using Anthropic's Claude - MLQ.ai"
+ },
+ "b2cd312f6fc5884f": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Node2Shell (CVE-2026-111497): SafeBreach Coverage for the Actively Exploited Brotli RCE - Security Boulevard"
+ },
+ "3b5175bb414a030f": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Google Chrome Zero-Day Vulnerability Exploited in the Wild - GBHackers News"
+ },
+ "6ed0f45cf5b21639": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Google patches Chrome's eighth actively exploited zero-day of 2026, an XML use-after-free bug - MLQ.ai"
+ },
+ "a45c1eb7824df8ed": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Barracuda says attackers are exploiting two recently patched Email Security Gateway flaws that can give root access - MLQ.ai"
+ },
+ "5c5c51daf87b2e56": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "CISA Warns of SonicWall SonicOS SSLVPN Vulnerability Exploited in Attacks - CyberSecurityNews"
+ },
+ "bcc2164151e78fa9": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "CVE-2026-125350: Fixing the 8th Chrome Zero-day of 2026 - SecNews.gr"
+ },
+ "c98e9fb6be9de022": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Multimodal Wearable Prototype Detects Real-Time Epileptic Seizure Symptoms Under Forty Dollars - Bioengineer.org"
+ },
+ "b6d4b8566d0f8f23": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Hybrid Model Captures Lactate Run-Away and Back-Metabolism - Genetic Engineering and Biotechnology News"
+ },
+ "f0cf40abfc188557": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "AI-Driven Threats Are Changing Banking Cybersecurity Investment - Nasscom"
+ },
+ "2792db902ab72bb1": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Clustering-Guided Convolutional Networks Enhance Concrete Crack Boundary Detection Accuracy - Bioengineer.org"
+ },
+ "501bffbc8636993e": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Reduce alert fatigue by customizing threat detection features in Amazon GuardDuty - Amazon Web Services (AWS)"
+ },
+ "79598d4c4b61d804": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Detecting sleeper agents hiding in AI model neurons - Microsoft"
+ },
+ "a0c685d117161bf3": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Network approaches to community detection in nanoscale connectomics - Nature"
+ },
+ "7c079fea4e8bc99f": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Occlusion-resilient 3D object detection from point cloud measurements for autonomous driving - Frontiers"
+ },
+ "ba013eecc5f0ce0d": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents - Microsoft"
+ },
+ "37b1346108598946": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "A unified view of system identification in the learning era - Nature"
+ },
+ "f42b3aaaa264fb2c": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Could light reveal preterm birth risk? - Florida International University"
+ },
+ "baff95b24cb7ec6b": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Advances in High-Precision Astrometry for Exoplanet Detection for Astrometric Missions - Astrobiology Web"
+ },
+ "adb514a34f3190fb": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Attention-free temporal modelling for efficient video violence detection - Nature"
+ },
+ "0c69d0b909cdd5b8": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Microfluidic platforms for Enzymatic assays: advances, challenges, and clinical applications - Nature"
+ },
+ "f3fa231965c1fdf6": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Shrinking Hybrid Bonding Pitches Push Inspection Limits - Semiconductor Engineering"
+ },
+ "a78a74da253ca5f2": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Computational Strategies Advance Allosteric Transcription Factor Biosensors for Environmental Pollutant Monitoring - Bioengineer.org"
+ },
+ "664e241eba10d4dc": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Lightweight Transformer Network TDSPnet Detects Defects in Battery Welds - Bioengineer.org"
+ },
+ "f5d97a6b3d87d123": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "Dual-Channel Optical Sensor Classifies Microplastics in Water With 77.8% Accuracy - AZoSensors"
+ },
+ "0873596400eb2972": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "KEV: CVE-2026-124194 — Microsoft Office"
+ },
+ "45227812e5a236c0": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "KEV: CVE-2026-111793 — Openwave Messaging Limited Webtop Media Transcoder"
+ },
+ "0327ce3195484f12": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "KEV: CVE-2026-20320 — Cisco BroadWorks"
+ },
+ "b3e13c576fa29a77": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "KEV: CVE-2026-111560 — Barracuda Networks Multiple Products"
+ },
+ "075c2646d4d333e2": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "KEV: CVE-2026-116606 — Barracuda Networks Barracuda Email Security Gateway (ESG)"
+ },
+ "f9011b29509ddcbe": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "KEV: CVE-2026-125350 — Google Chromium"
+ },
+ "8bb427c633055f01": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-x8x8-p968-x646: Microsoft Security Advisory CVE-2026-118745 - Visual Studio Remote Code Execution Vulnerability"
+ },
+ "a73a477c45dc771d": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-xf35-v9jh-g65w: Microsoft Security Advisory CVE-2026-114152 - Visual Studio Remote Code Execution Vulnerability"
+ },
+ "ffd76e2b1103a1c9": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-6856-87hx-p5x7: Microsoft Security Advisory CVE-2026-105544 - .NET Elevation of Privilege Vulnerability"
+ },
+ "bf92eda8209877fd": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-fpxj-5c99-g7vj: Microsoft Security Advisory CVE-2026-114151 - Visual Studio Remote Code Execution Vulnerability"
+ },
+ "f9b20adf3503798b": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-r8h3-p8p6-ggp7: Microsoft Security Advisory CVE-2026-114158 - Visual Studio Remote Code Execution Vulnerability"
+ },
+ "2f39de2f34652633": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-3cgx-w6gm-fqrx: Microsoft Security Advisory CVE-2026-114159 - Visual Studio Remote Code Execution Vulnerability"
+ },
+ "ea5bbc182b893cf1": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-q6jf-24jf-m3cg: Microsoft Security Advisory CVE-2026-120792 - Aspire Information Disclosure Vulnerability"
+ },
+ "50d8d91ddd82c83a": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-m63f-xhvm-6mv5: Microsoft Security Advisory CVE-2026-120778 - Aspire Elevation of Privilege Vulnerability"
+ },
+ "fa8572b681e95ecd": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-3893-7fxc-qvff: Microsoft Security Advisory CVE-2026-114154 - ASP.NET Core Denial of Service Vulnerability"
+ },
+ "c4757f44d9af3815": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-7phj-vgxq-r67h: Microsoft Security Advisory CVE-2026-114157 - ASP.NET Core Security Feature Bypass Vulnerability"
+ },
+ "eaa280cffd43dbb8": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-8w29-6cjc-h6w4: Microsoft Security Advisory CVE-2026-114156 - ASP.NET Core Security Feature Bypass Vulnerability"
+ },
+ "8f5f4da4ffda94c2": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-wr8v-9x5q-ggcm: Microsoft Security Advisory CVE-2026-114147 - ASP.NET Core Denial of Service Vulnerability"
+ },
+ "e0b2779cd42ed705": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-r3qf-p3jm-8h4p: Microsoft Security Advisory CVE-2026-109478 - ASP.NET Core Denial of Service Vulnerability"
+ },
+ "3d1eed2eddf872e9": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-67wp-ghc2-fw2g: Microsoft Security Advisory CVE-2026-114146 - ASP.NET Core Elevation of Privilege Vulnerability"
+ },
+ "9410a3e87f2cfe22": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-6vjv-7wm8-p67r: Microsoft Security Advisory CVE-2026-114150 - ASP.NET Core Information Disclosure Vulnerability"
+ },
+ "945921fe83788530": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-5h82-77p6-2wp3: Microsoft Security Advisory CVE-2026-118748 - ASP.NET Core Denial of Service Vulnerability"
+ },
+ "65ae10608f1dafe9": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-q7j6-px74-p2vw: Microsoft Security Advisory CVE-2026-114155 - .NET Elevation of Privilege Vulnerability"
+ },
+ "0839d003f513a07b": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-xw2x-23jm-j582: Microsoft Security Advisory CVE-2026-109481 - ASP.NET Core Elevation of Privilege Vulnerability"
+ },
+ "1642950691d41304": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-6527-9fp8-r4x6: Microsoft Security Advisory CVE-2026-118750 - ASP.NET Core Denial of Service Vulnerability"
+ },
+ "7a80e0c879d04262": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-f7vh-h5g3-7jrh: Microsoft Security Advisory CVE-2026-120006 - Aspire Elevation of Privilege Vulnerability"
+ },
+ "a8b4d7b2b7c7b7d8": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-ff4h-7rhj-jrjf: Microsoft Security Advisory CVE-2026-118746 - .NET Security Feature Bypass Vulnerability"
+ },
+ "8bb33c49de26d5ec": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-3g4v-f5gv-c7xf: Microsoft Security Advisory CVE-2026-109475 - .NET Denial of Service Vulnerability"
+ },
+ "4b57aa0072435513": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-cpw3-h88j-9f6x: Microsoft Security Advisory CVE-2026-120796 - .NET Denial of Service Vulnerability"
+ },
+ "a4130c3cdc1598ee": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-vmv3-wvjp-wqpj: Microsoft Security Advisory CVE-2026-118747 - .NET Denial of Service Vulnerability"
+ },
+ "545434726fe8a34c": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-m28h-pj36-4364: Microsoft Security Advisory CVE-2026-118749 - ASP.NET Core Denial of Service Vulnerability"
+ },
+ "51f48a4df02ee6b3": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-x33c-w48q-qrgc: Microsoft Security Advisory CVE-2026-114149 - ASP.NET Core Denial of Service Vulnerability"
+ },
+ "cccd23f7c2b63a1e": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-xhj5-c3g8-pfj8: Microsoft Security Advisory CVE-2026-109476 - ASP.NET Core Information Disclosure Vulnerability"
+ },
+ "6405129bf2ef2c6d": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-xqc2-xf4c-x3h3: React: Unauthenticated Remote Code Execution in React Server Components"
+ },
+ "38ee3149bcc63c44": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-8v59-qmwv-4p6q: compose-lint: File paths embedded in pull requests can inject CI workflow commands through command-line error messages"
+ },
+ "d80586ca826c0eb5": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-xcf7-88g6-7xr8: compose-lint: Workflow command injection through SARIF-directory errors triggered by pull request symlinks"
+ },
+ "55685a3d83a074ff": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-hr4h-4c45-v4q4: compose-lint: Text in a pull request can issue CI workflow commands through JSON and SARIF output on stdout"
+ },
+ "dec15ba96fade200": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-v924-7rp8-4mxh: Active Storage: Possible arbitrary file read and remote code execution in video previews, analysis and image processing"
+ },
+ "e6b369289384b8cb": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-hfr4-8rjc-97m2: Active Storage: Possible circumvention of file size limits in Active Storage direct uploads to Google Cloud Storage"
+ },
+ "d0e8a88d97358450": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-8474-xrp6-wh69: Active Support: Possible DoS vulnerability in Active Support safe_constantize"
+ },
+ "b6530d02080c6b10": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-fgfw-85w4-gx99: Duplicate Advisory: Microsoft Security Advisory CVE-2026-120792 - Aspire Information Disclosure Vulnerability"
+ },
+ "9c2665ff4e838a95": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-hfpm-4fc4-g2wc: Duplicate Advisory: Microsoft Security Advisory CVE-2026-120778 - Aspire Elevation of Privilege Vulnerability"
+ },
+ "3b59a42b9f925754": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-p2pm-g2h6-7j5j: Active Storage: Possible DoS vulnerability in Active Storage filename handling"
+ },
+ "acb517f735b55044": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-cfv6-4v53-fff6: Duplicate Advisory: Microsoft Security Advisory CVE-2026-118745 - Visual Studio Remote Code Execution Vulnerability"
+ },
+ "4703588d929a5e15": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-95x6-7hq8-2c37: Duplicate Advisory: Microsoft Security Advisory CVE-2026-114157 - ASP.NET Core Security Feature Bypass Vulnerability"
+ },
+ "753da84491bdcb40": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "GHSA GHSA-cjjx-gv54-83qh: Duplicate Advisory: Microsoft Security Advisory CVE-2026-114158 - Visual Studio Remote Code Execution Vulnerability"
+ },
+ "66e5e54d56072594": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: unknown victim (US) claimed by N0N"
+ },
+ "24f40befbbf14d93": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: unknown victim (US) claimed by N0N"
+ },
+ "6c50483b21580656": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: gvsd.ca (CA) claimed by INTERLOCK"
+ },
+ "5601eb6c06b99863": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: sunnierhomes.com (ES) claimed by PANZER"
+ },
+ "625fbd6b8186347e": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: unknown victim (??) claimed by MEDUSALOCKER"
+ },
+ "0f07f8f279d22b8c": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: awo.org (DE) claimed by BRAVOX"
+ },
+ "df9e0474d11c3a87": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: www.nysnacks.com (US) claimed by PLAY"
+ },
+ "41ae27b78350c7e2": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: www.broexp.com (US) claimed by PLAY"
+ },
+ "abf4bc56dd9b472b": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: www.signworx.net (GB) claimed by PLAY"
+ },
+ "772b3e94e30e8676": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: www.bvchd.com (US) claimed by DARK PROJECT"
+ },
+ "efd7dcd256475d0e": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: unknown victim (GB) claimed by SILENTRANSOMGROUP"
+ },
+ "50fb3a5efee04666": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: unknown victim (??) claimed by SILENTRANSOMGROUP"
+ },
+ "a96aaca0ce23d30b": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: mtm-o.com (AE) claimed by DARK PROJECT"
+ },
+ "7b097b1b7f3d1db3": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: tcadarwin.com.au (AU) claimed by HYFLOCK"
+ },
+ "02e336a5a23a90a0": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: Actualize Consulting (US) claimed by KRYBIT"
+ },
+ "e650657f49227c52": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: www.acclaimhealth.ca (CA) claimed by BOOBA PROJECT"
+ },
+ "4e8662250b505208": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: www.dayoneri.org (US) claimed by BOOBA PROJECT"
+ },
+ "0d3cb834a030773a": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: www.elportalimaging.com (MX) claimed by BOOBA PROJECT"
+ },
+ "e333ffa3fe81c280": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: www.colliersportsmedicine.com (US) claimed by BOOBA PROJECT"
+ },
+ "ab400fc646b4e551": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: www.georgetownsleepcenter.com (US) claimed by BOOBA PROJECT"
+ },
+ "9efb67fb8b423e16": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: www.ctg.com (US) claimed by BOOBA PROJECT"
+ },
+ "62e1fd9fe2cdf810": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: madisonhonda.com (US) claimed by INTERLOCK"
+ },
+ "5944ca6a4ae695a3": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: customfloorsunlimited.com (US) claimed by INTERLOCK"
+ },
+ "e0a9b42089405974": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: mvsd11.org (US) claimed by INTERLOCK"
+ },
+ "c166c9d25ff42b5c": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: ridgway.k12.co.us (US) claimed by INTERLOCK"
+ },
+ "e6281a118cb625fa": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: southwestortho.com (US) claimed by INTERLOCK"
+ },
+ "def4ffbf6d104daa": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: assiniboinedentalgroup.com (CA) claimed by INTERLOCK"
+ },
+ "b86381759a636496": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: elmcrest.org (US) claimed by INTERLOCK"
+ },
+ "1f0e13c47ed49332": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: conecuhsausage.com (US) claimed by INTERLOCK"
+ },
+ "e8d212d09fb5114a": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: unknown victim (US) claimed by VORTEX"
+ },
+ "517dbc496169f08c": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: unknown victim (US) claimed by VORTEX"
+ },
+ "43aa640bbed8b6a1": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: unknown victim (US) claimed by VORTEX"
+ },
+ "abb715375a4bfd6d": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: unknown victim (??) claimed by BYOD"
+ },
+ "e469393e7d87b407": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: toyota.jp (JP) claimed by BYOD"
+ },
+ "a78f7a055967a8f3": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: herminiogroup.com (IN) claimed by OROVA"
+ },
+ "cacbfa543df140fc": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: unknown victim (??) claimed by CLIMAX INC"
+ },
+ "834d2cc6fe76e9bf": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: nea.org.np (NP) claimed by CLIMAX INC"
+ },
+ "d6492e048075fb3d": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: frolinahome.com (BR) claimed by CLIMAX INC"
+ },
+ "aa220f005bc36bbf": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: domusvi.es (ES) claimed by BLACK X"
+ },
+ "738b06964bc65aae": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "LEAK SITE: forus.es (ES) claimed by BLACK X"
+ },
+ "65153ec286e65689": {
+  "first_seen": "2026-11-11T08:56:35.269388+00:00",
+  "first_seen_date": "2026-11-11",
+  "title": "PoC: [remote] Ruflo MCP Bridge 3.16.2 - Remote Code Execution"
  }
 }

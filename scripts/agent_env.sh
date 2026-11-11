@@ -6,6 +6,10 @@ set -a
 [ -f "$HOME/.config/herdr/agent-providers/env.sh" ] && . "$HOME/.config/herdr/agent-providers/env.sh"
 set +a
 
+# The kimi CLI lives outside the default PATH (only ~/.zshrc exports it).
+# Without this, IRIS dies instantly with FileNotFoundError and an empty log.
+[ -d "$HOME/.kimi-code/bin" ] && export PATH="$HOME/.kimi-code/bin:$PATH"
+
 # Claude Code must go through the OpenRouter Anthropic skin (native OAuth expired).
 export ANTHROPIC_BASE_URL="https://openrouter.ai/api"
 export ANTHROPIC_AUTH_TOKEN="$OPENROUTER_API_KEY"
