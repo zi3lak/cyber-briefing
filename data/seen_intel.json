@@ -526,5 +526,93 @@
  "b81aed27bc5077ad": {
   "first_seen": "2026-11-11T09:16:04.197216+00:00",
   "title": "FOUR MAXIMUM-SEVERITY FLAWS PATCHED"
+ },
+ "fc8c40615f3eee42": {
+  "first_seen": "2026-11-12T08:24:22.394668+00:00",
+  "title": "N0N DUMPS DRAFTKINGS AD DATA"
+ },
+ "453b13caaee5c203": {
+  "first_seen": "2026-11-12T08:24:22.505424+00:00",
+  "title": "N0N SINKS LIVERAMP, PUBLISHES THE HAUL"
+ },
+ "b7d82d866af2086d": {
+  "first_seen": "2026-11-12T08:24:22.598096+00:00",
+  "title": "QILIN BOARDS UT ARLINGTON"
+ },
+ "1e4bc7f174dfe2ba": {
+  "first_seen": "2026-11-12T08:24:25.599072+00:00",
+  "title": "SOUL GANG SAILS IN WITH 25 SCALPS"
+ },
+ "3a4bd1f0c0f5c382": {
+  "first_seen": "2026-11-12T08:24:25.671521+00:00",
+  "title": "OUTLOOK ZERO-DAY HEADLINES 1,093-CVE PATCH TUESDAY"
+ },
+ "f41b645f14f0130d": {
+  "first_seen": "2026-11-12T08:24:26.256014+00:00",
+  "title": "CHROME PATCHES EIGHTH ZERO-DAY OF 2026"
+ },
+ "d19f090767acaecc": {
+  "first_seen": "2026-11-12T08:24:26.889445+00:00",
+  "title": "KQL HUNTING QUERIES FOR THE CHROME UAF"
+ },
+ "b4a809877eab207f": {
+  "first_seen": "2026-11-12T08:24:27.927152+00:00",
+  "title": "HAYABUSA 4.4.0 \"CODE BLUE\" RELEASE"
+ },
+ "0c667b62c1cfe23f": {
+  "first_seen": "2026-11-12T08:24:28.554638+00:00",
+  "title": "XALGORIX AI PENTEST AGENTS SHIP DAILY BUILDS"
+ },
+ "502178586acabded": {
+  "first_seen": "2026-11-12T08:24:28.632680+00:00",
+  "title": "FRANCE BLAMES IRAN FOR FRIDGE SABOTAGE"
+ },
+ "4e6a9f1e9f8092cc": {
+  "first_seen": "2026-11-12T08:24:28.885869+00:00",
+  "title": "CEREAL MALWARE SKIMS NATO EMAIL IN ROMANIA"
+ },
+ "de6428b4796dad33": {
+  "first_seen": "2026-11-12T08:24:29.286815+00:00",
+  "title": "CHECK POINT UNEARTHS SPARROW ARMS DEALER"
+ },
+ "1ea00fed4967c59d": {
+  "first_seen": "2026-11-12T08:24:29.928336+00:00",
+  "title": "KAZAKH-LINKED CREW LETS AI STEAL TAJIK SECRETS"
+ },
+ "1cbc3cddfeca797f": {
+  "first_seen": "2026-11-12T08:24:30.089365+00:00",
+  "title": "RANSOMWARE GANG CLAIMS VANDERBILT PLUNDER"
+ },
+ "404eedb956626b0e": {
+  "first_seen": "2026-11-12T08:24:30.504278+00:00",
+  "title": "FAKE COURT NOTICES SAIL INTO LATAM INBOXES"
+ },
+ "610c3e617d1b7251": {
+  "first_seen": "2026-11-12T08:24:30.818594+00:00",
+  "title": "CISA SETS NOV 18 DEADLINE ON COZY BEAR APPLE FLAW"
+ },
+ "9593c4f18679d36c": {
+  "first_seen": "2026-11-12T08:24:33.539893+00:00",
+  "title": "OUTLOOK ZERO-DAY STEALS NTLM HASHES"
+ },
+ "831d642d1c2096eb": {
+  "first_seen": "2026-11-12T08:24:36.066816+00:00",
+  "title": "BARRACUDA PRE-AUTH CHAIN REACHES ROOT"
+ },
+ "55e64aeb3d8e8676": {
+  "first_seen": "2026-11-12T08:24:38.690478+00:00",
+  "title": "SSHOLE ATTACKS DROP C2 AGENTS"
+ },
+ "7c2c8dd4c5daecca": {
+  "first_seen": "2026-11-12T08:24:38.737973+00:00",
+  "title": "EXPOSED AI PENTEST FLEET SPILLS EXPLOITS"
+ },
+ "e90a2532ae6b992b": {
+  "first_seen": "2026-11-12T08:24:38.778258+00:00",
+  "title": "STEALER SELLS PERSISTENT GMAIL ACCESS"
+ },
+ "749ea79d80112fef": {
+  "first_seen": "2026-11-12T08:24:38.824410+00:00",
+  "title": "QNAP NAS ATTACKS SPREAD"
  }
 }

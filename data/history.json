@@ -2918,5 +2918,650 @@
   "first_seen": "2026-11-11T08:56:35.269388+00:00",
   "first_seen_date": "2026-11-11",
   "title": "PoC: [remote] Ruflo MCP Bridge 3.16.2 - Remote Code Execution"
+ },
+ "e44eb7f9ff85e22c": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Who Runs the Ransomware Group Qilin?"
+ },
+ "42206b4fd8b73713": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Baker Tilly notifies clients of data breach at third-party provider"
+ },
+ "300e8245edcda1a9": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations"
+ },
+ "5730ad465c843c25": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "eMudhra revokes 8 more CA certificates after private key mishap"
+ },
+ "cc510506cbe8dac1": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Notion says Fireworks breach exposed customer AI chat transcripts"
+ },
+ "5a86169a26104475": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million"
+ },
+ "69cf51bf7b589d9a": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks"
+ },
+ "7cdf23713ff6fde1": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice"
+ },
+ "8a38c9b1f4c863c9": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "N-able releases security hotfixes for zero-day vulnerabilities"
+ },
+ "11a409225a7c788e": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Microsoft fixes audio issues caused by September security updates"
+ },
+ "6b0f4070025ccf82": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks"
+ },
+ "ded5b518ebd9e1ec": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates"
+ },
+ "4b069146abdaba36": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories"
+ },
+ "13abacd937acef1a": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely"
+ },
+ "e69b9ec432f17bcf": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients"
+ },
+ "c49d0b44d7d2ff50": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation"
+ },
+ "5a3bc9a9bf04e41b": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets"
+ },
+ "48bbb6a82c2ef587": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits"
+ },
+ "4b89dd327d3cc3e9": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords"
+ },
+ "9aaeca100d30cd51": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned."
+ },
+ "f628f0bc1bc806d6": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise"
+ },
+ "cb4bd91435d4b86e": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Chinese AI Project Scouts Spies in Taiwan Chip Industry"
+ },
+ "0fa682b76ffe5554": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise"
+ },
+ "bd2b65fa996540f7": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Attackers Say 'Hello' to a Different Scale of Cloud Attack"
+ },
+ "56834861d012e91f": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "AI Raises the Stakes for Cyber Resilience"
+ },
+ "a13a1445329a2030": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "N-able Takes N-central Platform Offline After Discovery of 33 Flaws"
+ },
+ "455d57432e9c9be5": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Iran-backed network directed London attacks over FaceTime, US prosecutors say"
+ },
+ "2dcf94dee2c2c548": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Poland shuts down government services platform ePUAP following cyberattack"
+ },
+ "ea71bf94577ba1a3": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Britain, France set out first guidelines for commercial hacking firms"
+ },
+ "daed8b989e9b0881": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Poland takes its national e-government platform offline after a cyberattack"
+ },
+ "4161f5085e84339f": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "AI Pentest Tool AntiFox Abused To Steal AWS Credentials"
+ },
+ "fedf1b9752c841ae": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "WhiteArmor Demands $5 Million from Maersk, Claims Theft of 100GB of Data"
+ },
+ "252863ceeec0825b": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Hackers Advertise a $1,000 Gmail Tool That Allegedly Survives Password Resets"
+ },
+ "94fd493d3fd4a3b3": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Microsoft November Patch Tuesday: one exploited Outlook bug and 30 wormable flaws"
+ },
+ "8c88d811cc9395d9": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "GitHub Agentic Autofix and the question of who owns a bad AI patch"
+ },
+ "edbeac101eb15ad3": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Dagster: Open-source cloud-native data pipeline orchestrator"
+ },
+ "68d14438e3c0d38e": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Who collects the keys when an AI agent retires?"
+ },
+ "77292ac8972903f4": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "CISOs say OT will survive a cyberattack, but their engineers aren’t so sure"
+ },
+ "b7e6f94e242864ad": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Bots pose as AI agents, AI agents pose as humans, and defenses believe both"
+ },
+ "b72503d9dcb856f8": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Kai extends Autonomous Defense Platform visibility to internet-facing assets"
+ },
+ "805f417569c400e5": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Git fixes six vulnerabilities, including code execution during recursive clones"
+ },
+ "566b25390e185a0d": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Embed Security lets analysts teach its AI SOC Platform how to investigate"
+ },
+ "431de818022e823a": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Rubrik enhances DevOps Protection to preserve legitimate work during recovery"
+ },
+ "b43d0a1c655a98be": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Microsoft researchers demonstrate hidden backdoor technique for AI agents"
+ },
+ "557fbc7078000e82": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know"
+ },
+ "5ab1f5093e592cc4": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "The XG Files: Falcon C2 Flying Under The (Browser) Radar"
+ },
+ "7b79dada89cbbe5d": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Citrus Ransomware: VLESS for traffic, Sn00py for encryption, and LLMs lending a hand"
+ },
+ "02c43540c5760021": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "How to Make Sure an 'Onion' Site on the Dark Web Is Legitimate - Lifehacker"
+ },
+ "e9755ac4be141f18": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "I Traced My Leaked Email to the Dark Web. Yours Is Probably There Too - PCMag UK"
+ },
+ "87467263e1eff74b": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "IOL INVESTIGATION | Stolen South African personal data traded on dark web as breach reports mount - IOL"
+ },
+ "f1f072dd985adcc0": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Cybersecurity expert confirms Richmond Public Schools’ data is on dark web - WRIC ABC 8News"
+ },
+ "3601a362c1dc9c4f": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Attorney General Todd Blanche & Other Officials Make Announcement on Illegal Drug Trafficking on the Dark Web - C-SPAN"
+ },
+ "ded8c4a5bf66928d": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Ransomware Group Claims Attacks On Five Banks, Insight Credit Union - CU Today"
+ },
+ "b808057347e7e2a2": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Exclusive: Cyber extortion group claims breach of Expedia, millions of customers allegedly exposed - Cyber Daily"
+ },
+ "8f952bfff85cf7d1": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Brand Protection Has Moved From Trademarks To Threat Intelligence - Dataconomy"
+ },
+ "07383534acb27700": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Breachsense Finds 2026 Ransomware Victims Already Outnumber 2025’s Total - 01net"
+ },
+ "d54e9216e3ce7a2d": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "From hacktivists to black hats: the five major strategies of the cyber world. And the threats they pose - la Repubblica"
+ },
+ "15bebacd009b6407": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "October 2026: Binance Heist, ConnectWise Breach, and More - SOCRadar"
+ },
+ "5e948eb4ede2489c": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Russian hackers target Tajani’s family: his wife’s and children’s mobile phones appear on the dark web - Il Sole 24 ORE"
+ },
+ "581ae1c5d3032063": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Albuquerque Man, 26, Charged After FBI Says He Paid Crypto for Dark-Web Abuse Images - Hoodline"
+ },
+ "118b9871d8a171df": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "PTA Exposes Hundreds of Dangerous Websites, Apps, Social Media Accounts - ProPakistani"
+ },
+ "c6ade4994072079b": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Shipping giant Maersk hit by data theft attack - Cybernews"
+ },
+ "ebe8998677dad905": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Is Offensive Security Keeping Up with the Latest Cyber Attacks? - Security Boulevard"
+ },
+ "f81cc87d0e733115": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "NCSC scheme will help critical organisations test their cyber defences - Wired Gov"
+ },
+ "20d4ea9882df0075": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "NCSC Launches CyAS Scheme to Test Critical Infrastructure Cyber Defenses - Homeland411"
+ },
+ "8aaeb762168aa64d": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Shipping Giant Maersk Confirms Data Breach Following Unauthorized Access to IT Systems - GBHackers News"
+ },
+ "747c9c3552fbb7e7": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Inside The Server: 14 Months of Offensive Cyber Operations Targeting Europe - Group-IB"
+ },
+ "61b15c6fe20843ab": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "2027: Peace Accord under threat as 26 states, FCT record 109 violations – NPC - Vanguard News"
+ },
+ "b2d79f604bd36300": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Terras urges EU sanctions; only October's fridge hacks are attributed - https://streamlinefeed.co.ke/"
+ },
+ "8c2d2abfa31ef761": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "CVE-2026-124194: Outlook Zero-Day Exposes NTLM Hashes - SOC Prime"
+ },
+ "4845b659c2c26c71": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Microsoft Confirms Active Exploitation Of New Outlook Zero-Day - Forbes"
+ },
+ "d4c36052daf77aa3": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Microsoft November 2026 Patch Tuesday Fixes Record 1,200+ Flaws Including Actively Exploited Zero-Day - LinkedIn"
+ },
+ "d4f950ed47c36189": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "CVE-2026-125350: Google Fixes Exploited Chrome XML Zero-Day - SOCRadar"
+ },
+ "ec1347409dccd844": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "This Actively Exploited Chrome Vulnerability Is Putting Your Browser at Risk - Lifehacker"
+ },
+ "a41c6c88df946508": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Cisco BroadWorks CVE-2026-20320: Unauthenticated XXE Can Expose Sensitive Configuration — Patch Now - Rescana"
+ },
+ "b90a2c10d59c45dc": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities - Krebs on Security"
+ },
+ "eadeb0451fec7916": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Cisco Telephony Platform Flaw Exploited Three Months After Fix; US Agency Sets Nov. 24 Deadline - finance.biggo.com"
+ },
+ "1e75337e6981228b": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Microsoft Patch Tuesday November 2026, Outlook zero-day exploited, 1,094 flaws fixed - Pasquale Pillitteri"
+ },
+ "3f9e9e8930e1a51f": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks - BleepingComputer"
+ },
+ "d032a2761fa66cd4": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Chrome zero-day CVE-2026-125350 already exploited, the eighth of 2026 - Pasquale Pillitteri"
+ },
+ "7cca869356e1dd86": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "November Patch Tuesday boasts over 1,000 bugs but only one zero-day so far - The Register"
+ },
+ "1e110f39e2592e86": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities - SecurityWeek"
+ },
+ "e5cdd4b696f2c19a": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Cisco BroadWorks, CVE-2026-20320 now actively exploited - Meteora Web"
+ },
+ "81de510f9d279713": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access - The Hacker News"
+ },
+ "52132e404b6d3544": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Microsoft November Patch Tuesday: one exploited Outlook bug and 30 wormable flaws - Security Affairs"
+ },
+ "c9b2203c57e0b5a6": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "CISA Adds Actively Exploited Cisco BroadWorks Flaw to KEV Must-Patch List - Homeland411"
+ },
+ "d3610ff7bb986d83": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "N-able Warns of Critical N-central Zero-Day Vulnerability Actively Exploited by Hackers - GBHackers News"
+ },
+ "231a1e63ddfeedde": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "CISA adds an actively exploited Cisco BroadWorks flaw to its must-patch list - MLQ.ai"
+ },
+ "10e7397216e0f01f": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Microsoft Monthly Patch Fixes 1,094 Flaws Including Outlook Zero-Day Confirmed Exploited - BigGo Finance"
+ },
+ "af308b7e937c3da9": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access - BleepingComputer"
+ },
+ "1a76ced01efe0390": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Microsoft November 2026 Patch Tuesday Addresses Critical RCE Flaws and Outlook Zero-Day Attacks - GBHackers News"
+ },
+ "6a9ff61d07e28229": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "CISA Adds Four Exploited Flaws to KEV, Sets Nov. 12 Patch Deadline - eSecurity Planet"
+ },
+ "c8d811ebc5413f74": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Microsoft patches 1,094 flaws in November update, including one exploited Outlook bug - news.lavx.hu"
+ },
+ "1a6a174a9d7fa548": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Chrome 157 Zero-Day Fix: Update Now for CVE-2026-125350 - DigitBin"
+ },
+ "cdac6ce870ce5cd2": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Google Chrome Update Fixes 9 Security Flaws: Update Now - Flickonclick"
+ },
+ "5eaa9115ca9a03d3": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "The Detection Gap: MITRE ATT&CK T1562.001 - SECURITY.COM"
+ },
+ "c4151bbc0f1ae620": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Your training data is boring: Anomaly detection with LLMs - Sophos"
+ },
+ "a89e4faea0d70dde": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Devilray Platform Reveals Major Blind Spots Across Fake Base Station Detectors - Bioengineer.org"
+ },
+ "c9fed6d76208e091": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Quantum Data From ORCA Computing’s PT-2 Chip Refines Malware Detection - Quantum Zeitgeist"
+ },
+ "7c6c7921335b1f0d": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Indonesia ranks social engineering scams as single biggest concern - Finextra Research"
+ },
+ "2797e5175276e431": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Honeywell unveils intelligent fire and life safety solutions - Engineering.com"
+ },
+ "4f49b94e6be04665": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Turla APT Deploys Cereal Malware Toolset - SOC Prime"
+ },
+ "c9426ca1c96c3f59": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "North Korean Fake Job Campaign Targets Developers - SOC Prime"
+ },
+ "bc33f610c8caebe0": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Amazon Athena Logs: How to Export and Analyze - SOC Prime"
+ },
+ "f2784d3795e54a80": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "LimaCharlie Logs: How to Export and Analyze - SOC Prime"
+ },
+ "28eb549dc7e14cd9": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Cognitive load detection using hyper-learning dragonfly optimization for feature selection - Frontiers"
+ },
+ "3b16ef1cc95ff630": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Fingerprint trains specialized models to detect distinct fraud types - Help Net Security"
+ },
+ "5571c1a20b1d9632": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "Causal Machine Learning Enhances Mental State Detection from Low Channel EEG Signals - Bioengineer.org"
+ },
+ "c2708e0ffc6e6741": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "LEAK SITE: unknown victim (??) claimed by MEDUSALOCKER"
+ },
+ "34b323969585fd8b": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "LEAK SITE: www.milb.com (US) claimed by PLAY"
+ },
+ "8f03c3d4acfafe34": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "LEAK SITE: unknown victim (QA) claimed by N0N"
+ },
+ "ecd0e0d2a6fb2ff8": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "LEAK SITE: unknown victim (ET) claimed by N0N"
+ },
+ "680fcd4fc11251a1": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "LEAK SITE: unknown victim (??) claimed by DOOMMAGEDDON"
+ },
+ "af43d926d25a33de": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "LEAK SITE: sacheminc.com (CA) claimed by CURIOUS WORM"
+ },
+ "3d071449c3afcf9e": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "LEAK SITE: sbhny.org (US) claimed by CURIOUS WORM"
+ },
+ "0a6eb30721f08b8a": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "LEAK SITE: shannonhealth.com (IE) claimed by CURIOUS WORM"
+ },
+ "73443d439db765d1": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "LEAK SITE: baronandbudd.com (GB) claimed by CURIOUS WORM"
+ },
+ "6b04c37ba4fc48d9": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "LEAK SITE: raleighortho.com (US) claimed by CURIOUS WORM"
+ },
+ "3d2f77460a13cf42": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "LEAK SITE: unknown victim (??) claimed by EVERSTAKE"
+ },
+ "3aa247883315ff72": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "LEAK SITE: lifelinescreening.com (US) claimed by CURIOUS WORM"
+ },
+ "1232ba095dc813a7": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "LEAK SITE: safcodental.com (SA) claimed by CURIOUS WORM"
+ },
+ "836b571d64c7d18c": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "LEAK SITE: marquiscompanies.com (US) claimed by CURIOUS WORM"
+ },
+ "97dd20cd21cd081f": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "LEAK SITE: atlashp.com (??) claimed by CURIOUS WORM"
+ },
+ "8daf8e9d14a7dd2a": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "LEAK SITE: unknown victim (US) claimed by AKIRA"
+ },
+ "398f8d4c1bb218df": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "LEAK SITE: unknown victim (??) claimed by AKIRA"
+ },
+ "208bc16ae5db1a98": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "LEAK SITE: unknown victim (??) claimed by AKIRA"
+ },
+ "11adfe178134ba52": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "LEAK SITE: www.oru.edu (US) claimed by QILIN"
+ },
+ "b5ac3e2e7230e4d1": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "LEAK SITE: unknown victim (US) claimed by OSIRIS"
+ },
+ "eeca2e9ec07947fc": {
+  "first_seen": "2026-11-12T08:00:11.552419+00:00",
+  "first_seen_date": "2026-11-12",
+  "title": "LEAK SITE: unknown victim (US) claimed by OSIRIS"
  }
 }
