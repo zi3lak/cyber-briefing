@@ -4538,5 +4538,760 @@
   "first_seen": "2026-11-13T08:00:33.009165+00:00",
   "first_seen_date": "2026-11-13",
   "title": "LEAK SITE: unknown victim (US) claimed by INCRANSOM"
+ },
+ "1587b926891530b2": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix"
+ },
+ "302fe2269f92d950": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "German military drone operations disrupted by cyberattack"
+ },
+ "69e7e851b5a0f504": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper"
+ },
+ "b89f47840a3c9d3b": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "How one AI agent exposed five critical enterprise security gaps"
+ },
+ "4b30dbd927badb2d": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Microsoft says November security updates cause printing issues"
+ },
+ "6f8f9614b11a0650": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Check Point warns of zero-day flaw exploited for root access"
+ },
+ "a91c108c0b169c04": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Microsoft confirms Windows activation failures after November updates"
+ },
+ "b07cabbc75810d0f": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Police arrest 354 suspects in dark web cybercrime crackdown"
+ },
+ "6da5a800519fc000": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE"
+ },
+ "1fdbc0056f632cec": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs"
+ },
+ "65f909a63055d549": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls"
+ },
+ "1de80a81c0115835": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases"
+ },
+ "d81e57320e65ebc2": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "When an AI Agent Goes Wrong, Can You Stop It?"
+ },
+ "78d258aac187ed02": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users"
+ },
+ "c04bc702642b2679": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins"
+ },
+ "5cf87636e5bd927e": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files"
+ },
+ "b49017fed37b05f4": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI"
+ },
+ "f89fec892f875275": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Attackers in Binance Breach Targeted Known Weakness, Missing Controls"
+ },
+ "184a25ebd0a1c82f": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "As Test Takers Turn to AI for Answers, Exam Security Must Catch Up"
+ },
+ "648c0409fcc77e00": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "FBI flash alert says Artex tool automating cyberattacks at ‘machine speed’"
+ },
+ "93edc3ef6137a8d4": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "City of Osaka warns of data breach impacting 1 million as Japan reels from dozens of cyber incidents"
+ },
+ "30c893a2c93bd285": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "NYC to bar surveillance pricing as momentum for bans grows nationwide"
+ },
+ "5879ba526fb8eec6": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "University of Texas at Arlington warns personal information stolen during cyberattack"
+ },
+ "fb998dd078f43332": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "German parliament passes law giving spy agencies hacking, sabotage powers"
+ },
+ "b5b628a516080a77": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog"
+ },
+ "e2b7a46e7abb4167": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "North Korea ‘s Crypto Theft Operations: DOJ Seizes $1.2 Billion and Disrupts Hacker Infrastructure"
+ },
+ "1975a72de31880f7": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Gootloader Malware Disrupted After Infecting 25,000 Computers"
+ },
+ "a1d8e2c8c29538d6": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Unpatched Check Point Gateways Are Being Wiped exploiting PHP2Shell"
+ },
+ "38ce4f786ef5f3a5": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "New SignDrop Exploit Can Abuse Windows Defender to Bypass Security Protections"
+ },
+ "20504bf6b653e452": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "ChatGPT Wallet lets agents pay without seeing your card number"
+ },
+ "2edd37cb8149568b": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Fake GTA 6 download goes after Steam logins and crypto wallet data"
+ },
+ "b1d46cd7cbbb1bd7": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Apple details Secure Exclaves, isolated runtimes for camera and microphone data"
+ },
+ "21cb09edd9822038": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "354 dark web vendors and buyers arrested in Operation TorNado"
+ },
+ "2a8e834e320d48bc": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "OpenAI’s Daybreak brings AI agents to security testing and vulnerability fixes"
+ },
+ "5a89f5c2035f00d6": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "ARTEX and beyond: AI-enabled penetration testing platforms"
+ },
+ "090edc3481842577": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Inside Falcon AI Gateway: One Control Point for AI Traffic"
+ },
+ "7908ac44878cd073": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Ransomware at the hypervisor layer: how attackers use ESXi and vCenter features for malicious purposes"
+ },
+ "f36e7ebab8be9c23": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "November Patch Tuesday: How to Sort Through the Patches"
+ },
+ "dcfa09c0d3a65af4": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "MDR Pricing: Comparing Asset-Based and Ingestion-Based Costs"
+ },
+ "fc0ee509565c7eda": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Dark Web Marketplaces Scaling Ransomware Operations - Mexico Business News"
+ },
+ "0e3d060f9344e917": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "International Law Enforcement Operation Targeting Opioid and Fentanyl Traffickers on the Dark Web Results in over 350 Arrests Worldwide and the Seizure of Drugs"
+ },
+ "fe385da13aa75d39": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "354 dark web vendors and buyers arrested in Operation TorNado - Help Net Security"
+ },
+ "af89f78896ee2843": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "US Justice Department Arrests 354 in Global Dark Web Drug Crackdown, Seizes $234 Million Including Crypto - bloomingbit"
+ },
+ "f446be8c5ec8d392": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Student Of The Year: After Dark - The Times of India"
+ },
+ "cb36d7e078313ad5": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "354 dark web vendors and buyers arrested in Europol-coordinated global crackdown - Europol"
+ },
+ "6f97f44dd22740e4": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Richmond schools superintendent responds after student and staff data from cyberattack appears on dark web - WTVR.com"
+ },
+ "c5c0ed95ee6362f2": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Maersk cyber attack ‘connected to’ hacking group claims, company confirms - Kuehne+Nagel"
+ },
+ "e5b5cbbc9a833526": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Richmond Schools respond as cyberattack data hits the dark web: 'Deeply disturbed' - WTVR.com"
+ },
+ "96b579bc26985cad": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe - SOCRadar"
+ },
+ "0c6b805c61490ef0": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Operation TorNado: Feds Arrest Over 300 Dark Web Drug Traffickers Worldwide - PJ Media"
+ },
+ "9bf87e784ce36441": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "5 dangers of linking your social media account to third-party websites - Tribune Online"
+ },
+ "55fb048689a1737f": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Operation TorNado: International operation against Dark Web shopping – 354 arrests - SecNews.gr"
+ },
+ "defa6eae6962b674": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "PTA Reveals Most Common Cyber Threats in Pakistan - ProPakistani"
+ },
+ "8182b5f2e887a241": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Benchmark Se... Ransomware Attack by Curious Worm - SOCRadar"
+ },
+ "b2815fb23e109e6c": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "South Africans’ identity documents and bank records exposed on ransomware leak sites - IOL"
+ },
+ "cff9bd22b8bb6a5f": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Hackers Claim 1 Million Social Security Numbers Were Stolen From Vanderbilt. Now 1 Demand Could Last a Lifetime - Inc.com"
+ },
+ "85154ea8183e1798": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Hackers Deploy Beast Ransomware to Disable Backup Services, Delete Shadow Copies, and Encrypt Network Drives - GBHackers News"
+ },
+ "ff17c525a73f3a81": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "HONG BAO GROUP Ransomware Attack by INC Ransom - SOCRadar"
+ },
+ "f19f759965080d56": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "NCSC launches CyAS scheme to boost critical infrastructure cyber resilience through adversary simulation, testing - Industrial Cyber"
+ },
+ "066d1d5e4d0e2072": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "NCSC puts critical infrastructure to the test with new assessment scheme - IT Pro"
+ },
+ "4d0757b4a18f5ef9": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "NCSC scheme will help critical organisations test their cyber defences - Wired Gov"
+ },
+ "50e6c9393140ab88": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Amazon Threat Intelligence observes threat actors running cybercrime campaigns with ARTEX AI agents - Amazon Web Services (AWS)"
+ },
+ "69b479a36cf63fbe": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "China-nexus actor uses AI tool in campaign targeting US defense, semiconductor industries - Cybersecurity Dive"
+ },
+ "e4a5e00c3008d215": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "AI Agents Steal 600,000 Cards for $25 a Company [2026] - shattered.io"
+ },
+ "c294d49b795ff536": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Check Point Gaia CVE-2026-123039: Exploited DynamicCLI Root Escalation Added to CISA KEV — Patch Now - Rescana"
+ },
+ "ebb604ba1cfc36b6": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "CVE-2026-124194: Outlook Flaw Scores 6.5, Patch Now - shattered.io"
+ },
+ "c6a4edef6e3a5143": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Check Point warns of zero-day flaw exploited for root access - BleepingComputer"
+ },
+ "52d8491b893ab5eb": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "PHP2Shell Exploited in Destructive Check Point Gateway Attacks - SecurityWeek"
+ },
+ "118b92b8034fe008": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "CVE-2026-119618: A Critical Apache HTTP/2 Flaw Can Lead to Remote Code Execution - Bitsight"
+ },
+ "bcb50675a5eb8c48": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "4EverAble2Shell: N-central Zero-Day Exploited - SOCRadar"
+ },
+ "1e27ccbc3b5cb65c": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "PHP2Shell Exploited in Destructive Check Point Gateway Attacks - homeland411.com"
+ },
+ "519fe92410d7af05": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Google Patches Chrome Zero-Day Exploited in Attacks - Bitdefender"
+ },
+ "db817507e4ffc25f": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Apache Axis 1.x, active exploit on CVE-2026-90436 - Meteora Web"
+ },
+ "dd764150d4f036b2": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Warning: Actively Exploited Privilege Escalation and Critical PHP Vulnerabilities in Check Point Products, Patch Immediately! | CCB Belgium - CCB Belgium"
+ },
+ "fb980c45d63342ea": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Chrome zero-day CVE-2026-125350: fixed builds - NeoTeo"
+ },
+ "a749e239c3613a78": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released - BleepingComputer"
+ },
+ "e1cd33591c963f5d": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "CVE-2026-119618: Apache HTTP/2 Race Condition RCE - SOCRadar"
+ },
+ "b163579eab553b78": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Dorsata Healthcare Breach: Metabase Zero-Day Exploited, 58,249 Patients Exposed - Homeland411"
+ },
+ "5a990c5f02da9ffc": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Telegram Desktop RCE Exploit Offered on Russian Forum as CVE-2026-107181 Patch Urged - Homeland411"
+ },
+ "d3afd22157c403af": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Microsoft confirms Outlook outage across the Americas and potentially the globe amid U.S. Cyber Security Agency’s discovery of Outlook vulnerability - play 103."
+ },
+ "dbb31c4c16e5f684": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Microsoft’s Four-Digit Patch Tuesday Lands as SSH Flaw Is Exploited - JournalArta"
+ },
+ "bb29e2b75bc6dfdc": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Google Chrome Zero-Day Vulnerability CVE-2026-125350 Exploited in the Wild - SystemTek"
+ },
+ "e9ba066677c1f177": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "CISA Confirms Active Exploitation of Microsoft Outlook Zero-Day Vulnerability - Cyber Press"
+ },
+ "0872751b0900f94e": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Check Point 0-day Exploited in PHP2Shell Attack to Deploy Malware and Wipe ESXi Files - CyberSecurityNews"
+ },
+ "fdc3f2ac1bddf9cb": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "CERT-In Issues High Severity Advisory for Microsoft Products: Critical Outlook Zero-Day Exploited in the Wild Under CIAD-2026-0059 - PaidFreeDroid"
+ },
+ "e8ea5a57e09322fa": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "ClickFix Tradecraft: Evolving Social Engineering Attacks - SOC Prime"
+ },
+ "624e28e0d1251786": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Reinforcement Learning Surrogate Models Align Vehicle Crash Simulations With Impact Pulses - Bioengineer.org"
+ },
+ "9d24d89ba43933a6": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "YOLOv8-WD: an improved YOLOv8-based multi-class weed detection algorithm - Springer Nature Link"
+ },
+ "e0da8105b1deaf8a": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Systematic Review Evaluates Intrusion Detection and Mitigation for Industrial Cyber-Physical Systems - Bioengineer.org"
+ },
+ "37b20e7bcd888dd9": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "Printed Vertical Strain Sensors on Lateral Ribs Improve Wearable Respiration Tracking - Bioengineer.org"
+ },
+ "97f86665860232b8": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "KEV: CVE-2026-114713 — UnrealIRCd UnrealIRCd"
+ },
+ "3e3b57f6e7fae797": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "KEV: CVE-2026-123039 — Check Point Multiple Products"
+ },
+ "b45ed3088b6ca97f": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-89p3-fcch-88ph: NLTK: Quadratic-time CPU denial of service in CCG lexicon parser (fromstring) on wide bracket bodies and operator chains"
+ },
+ "0ef1583054c1b16e": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-r53h-rw34-8h97: NLTK: Quadratic-time CPU denial of service in Tree.chomsky_normal_form right-factor binarization via list.pop(0)"
+ },
+ "d241f913243d9413": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-v8f3-6phw-6mh9: NLTK: Quadratic-time CPU denial of service in ConllCorpusReader SRL instance builder via nested span rescan"
+ },
+ "d14212c4b950acb0": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-fg9w-wfp5-j933: NLTK: BllipParser passes caller-supplied model paths to the bllipparser C extension with no pathsec check, enabling arbitrary read"
+ },
+ "6f50d6c052946d88": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-qfx6-q44v-9qqw: ag-psd can exhaust memory when parsing crafted PSD dimensions"
+ },
+ "8fa042a7cb56ddb6": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-pp88-jhwj-5qh5: File Browser: Trailing-slash directory deletion leaves public shares active for recreated paths"
+ },
+ "b914e0629af39115": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-gpwc-27cw-rh9r: NLTK: Quadratic CPU exhaustion in LegalitySyllableTokenizer.tokenize via unguarded onset reversal loop"
+ },
+ "f32f2dc1c8c9059a": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-ffr9-mgrr-wcvr: NLTK: Quadratic CPU exhaustion in TreebankWordTokenizer.span_tokenize via list.pop(0) in quote-restore loop"
+ },
+ "44688c65f1dea2e4": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-8fx7-8jr8-84rv: NLTK: Unbounded CPU consumption in SteppingRecursiveDescentParser.parse() with ambiguous or self-embedding grammars"
+ },
+ "1ae2c5d3a5e5537b": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-qg35-44qx-7vrr: NLTK: Symlink escape in YCOECorpusReader lets a psd/pos directory symlink read files outside the corpus root within the data sandbox"
+ },
+ "b44c564498bb6c13": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-mw6w-2fmv-pvw3: SvelteKit: adapter-node crashes with an unhandled URIError when `reroute` rewrites malformed pathnames"
+ },
+ "7ee48280c46c8185": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-jf9x-2fg2-hx4w: SvelteKit: Prerendered paths are interpreted as regular expressions in Vercel route config generated by @sveltejs/adapter-vercel and @"
+ },
+ "89412e3dd114cd71": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-5wg4-q3ww-283h: SvelteKit: Prerendered redirect paths can inject arbitrary rules into the `_redirects` file generated by `@sveltejs/adapter-cloudflare"
+ },
+ "802faa428c234c11": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-rqw3-x7hx-mm3p: SvelteKit: `@sveltejs/adapter-node` crashes when proxying certain requests via `fetch`"
+ },
+ "c56dfe8a526c2790": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-5cjw-f85j-cv6r: Tornado: Open redirect via triple-slash redirect paths"
+ },
+ "753b6aadca586c2e": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-vvf4-9x63-8xvv: dnspython has excessive memory and CPU use"
+ },
+ "fc8c2c680d7aaec0": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-r99w-jh2x-3mg9: Nuxt: Incomplete fix for GHSA-9v7c-q64q-vv33: a leading `//` in the request path bypasses `server/middleware` path checks and server r"
+ },
+ "65755f9a70d7554b": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-3v2p-hm54-8qcq: OpenTelemetry JavaScript: Insertion of Sensitive Information into Log File and Exposure of Sensitive Information to an Unauthorized Ac"
+ },
+ "90316f3f94b47761": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-6vhm-j9h7-f9gh: AutoMapper: Uncontrolled Recursion with Constructor Parameters"
+ },
+ "19915497a4b4a303": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-9264-jvgf-6w2f: russh kex_done: Shared-secret callback runs before server host-key verification"
+ },
+ "741d97224756e2c0": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-736f-c93q-9fwx: russh try_sign: asynchronous confirmation can sign after agent lock"
+ },
+ "a47bdad2821d82b1": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-rrfc-gjm9-cgrj: OpenTelemetry-Go: Eager W3C baggage-property materialization causes bounded memory-allocation amplification"
+ },
+ "eda5b36640dffed9": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-q7gw-24fr-5p69: opentelemetry-go: AttributeValueLengthLimit is fully bypassed by attribute values composed of valid U+FFFD runes"
+ },
+ "0335a99a4dfac939": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-4fqr-96q8-xrfx: sqlite3-ruby: Possible SQL query truncation when a string is 4 GiB or larger"
+ },
+ "87a97d35a9203d4c": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-63hm-g96r-2m2q: Laravel: Task Output Injection - Concurrency Process"
+ },
+ "4b68aca7fbc2da0c": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-gpwp-5797-mjff: AutoMapper: Denial of Service via uncontrolled recursion that bypasses MaxDepth"
+ },
+ "68bb3a8aaa755142": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-mh32-jxcr-mh9f: Astro: XSS via attribute injection in dynamic tag names"
+ },
+ "c053298e7c6694d1": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-r3h5-4585-7x3w: Astro: Image endpoint in @astrojs/node can read files from a case-variant sibling of the output directory on case-sensitive filesystem"
+ },
+ "7597cc020be426ad": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-mjrq-cffv-q4qc: Nuxt dev server serves files from a parent directory with a stray lockfile or workspace file"
+ },
+ "877c686e172bd263": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-h7wh-q2qr-458c: rails-html-sanitizer: Possible XSS via shared scrubber state in concurrent calls"
+ },
+ "fc15cf4fb766be91": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-jv6m-48w5-5rpr: envd: Host file disclosure through requirements path traversal and TOCTOU"
+ },
+ "85a50d6b3612800d": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-cpgf-5mjf-73p7: rails-html-sanitizer: Possible regular expression denial of service with certain configurations"
+ },
+ "59c472c994b6b1db": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-mf5v-w3w3-f6cg: OpenTelemetry Python API: Denial of service through quadratic-time traceparent parsing"
+ },
+ "954a87ef99ce8fd3": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-6655-6qjp-jx7x: Soup Sieve: Exponential ReDoS in selector compilation via \\9-run in CSS_ESCAPES/IDENTIFIER"
+ },
+ "56799aca2ba2d042": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-7g44-g9rc-x53w: Soup Sieve: Uncontrolled recursion in CSS parser lets nested pseudo-class selectors exhaust the Python call stack"
+ },
+ "3238ca6ad6eba262": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-rg32-vgf9-927c: Duplicate Advisory: Quadratic CPU exhaustion in TreebankWordTokenizer.span_tokenize via list.pop(0) in quote-restore loop"
+ },
+ "6d94e6a2985c058e": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-7r4r-6ppg-7ff8: Duplicate Advisory: Symlink escape in YCOECorpusReader lets a psd/pos directory symlink read files outside the corpus root within the "
+ },
+ "0eabcf08b3be1386": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-4hvg-fv5c-9936: Duplicate Advisory: Unbounded CPU consumption in NLTK SteppingRecursiveDescentParser.parse() with ambiguous or self-embedding grammars"
+ },
+ "100b27383926b4a1": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-jh6r-h4rx-2j3w: Duplicate Advisory: Quadratic-time CPU denial of service in NLTK CCG lexicon parser (fromstring) on wide bracket bodies and operator c"
+ },
+ "c13caeda99672e34": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "GHSA GHSA-g5wx-957h-f4wj: Duplicate Advisory: Path Traversal in save_maxent_params / load_maxent_params Allow Arbitrary File READ/WRITE"
+ },
+ "8758f2dad8cefe78": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "LEAK SITE: i***************.c** (KW) claimed by NETRUNNER"
+ },
+ "27ff8b1cc07f73f2": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "LEAK SITE: unknown victim (DE) claimed by EVEREST"
+ },
+ "791b68a8b48d110d": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "LEAK SITE: kaindustries.com (US) claimed by INTERLOCK"
+ },
+ "36d69528f2a878ab": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "LEAK SITE: unknown victim (??) claimed by EVEREST"
+ },
+ "91b3ee1001be2955": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "LEAK SITE: unknown victim (??) claimed by CURIOUS WORM"
+ },
+ "472e00324a19e750": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "LEAK SITE: unknown victim (??) claimed by CURIOUS WORM"
+ },
+ "0a0a4042a778f0d0": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "LEAK SITE: www.frey-properties.com (US) claimed by PLAY"
+ },
+ "6b081a57a062e424": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "LEAK SITE: www.arrbgroup.net (AU) claimed by PLAY"
+ },
+ "b656a238649168a8": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "LEAK SITE: unknown victim (US) claimed by INCRANSOM"
+ },
+ "506aaf422724f8d9": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "LEAK SITE: unknown victim (US) claimed by WALLSTREET"
+ },
+ "da0b901a119070b6": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "LEAK SITE: unknown victim (DE) claimed by PANZER"
+ },
+ "125ab8609118e4aa": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "LEAK SITE: sportsmansguide.com (US) claimed by INCRANSOM"
+ },
+ "1f3aeba31dc36a54": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "LEAK SITE: www.worldwidefittings.com (US) claimed by BRAVOX"
+ },
+ "01f4beb5220e9a3e": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "LEAK SITE: www.ccmcnet.com (CA) claimed by DARK PROJECT"
+ },
+ "0597dc94d98318b0": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "LEAK SITE: unknown victim (TR) claimed by DOOMMAGEDDON"
+ },
+ "9e5cc53450451d24": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "LEAK SITE: unknown victim (MY) claimed by EMPERADOR"
+ },
+ "4997931601d1beab": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "LEAK SITE: unknown victim (US) claimed by AKIRA"
+ },
+ "1a432dd177b06091": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "LEAK SITE: unknown victim (US) claimed by AKIRA"
+ },
+ "d0c877785096ca96": {
+  "first_seen": "2026-11-14T08:36:01.698129+00:00",
+  "first_seen_date": "2026-11-14",
+  "title": "LEAK SITE: unknown victim (??) claimed by AKIRA"
  }
 }
